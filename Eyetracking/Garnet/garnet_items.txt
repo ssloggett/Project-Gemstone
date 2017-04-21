@@ -1,0 +1,496 @@
+1 1 The famous actress said that the respected feminist depicted/ herself/ as unfeeling and unaffected by public opinion.
+2 1 The famous actor said that the respected feminist depicted/ herself/ as unfeeling and unaffected by public opinion.
+3 1 The famous actress said that the persistent journalists depicted/ herself/ as unfeeling and unaffected by public opinion.
+4 1 The famous actor said that the persistent journalists depicted/ herself/ as unfeeling and unaffected by public opinion.
+5 1 The famous actress heard that the respected feminist depicted/ herself/ as unfeeling and unaffected by public opinion.
+6 1 The famous actor heard that the respected feminist depicted/ herself/ as unfeeling and unaffected by public opinion.
+7 1 The famous actress heard that the persistent journalists depicted/ herself/ as unfeeling and unaffected by public opinion.
+8 1 The famous actor heard that the persistent journalists depicted/ herself/ as unfeeling and unaffected by public opinion.
+1 2 The influential congresswoman said that the kindergarten teacher inspired/ herself/ to give back to the community more.
+2 2 The influential congressman said that the kindergarten teacher inspired/ herself/ to give back to the community more.
+3 2 The influential congresswoman said that the factory workers inspired/ herself/ to give back to the community more.
+4 2 The influential congressman said that the factory workers inspired/ herself/ to give back to the community more.
+5 2 The influential congresswoman heard that the kindergarten teacher inspired/ herself/ to give back to the community more.
+6 2 The influential congressman heard that the kindergarten teacher inspired/ herself/ to give back to the community more.
+7 2 The influential congresswoman heard that the factory workers inspired/ herself/ to give back to the community more.
+8 2 The influential congressman heard that the factory workers inspired/ herself/ to give back to the community more.
+1 3 The industrious councilwoman insisted that the female journalist characterized/ herself/ as exceptionally helpful and diligent.
+2 3 The industrious councilman insisted that the female journalist characterized/ herself/ as exceptionally helpful and diligent.
+3 3 The industrious councilwoman insisted that the male journalists characterized/ herself/ as exceptionally helpful and diligent.
+4 3 The industrious councilman insisted that the male journalists characterized/ herself/ as exceptionally helpful and diligent.
+5 3 The industrious councilwoman noticed that the female journalist characterized/ herself/ as exceptionally helpful and diligent.
+6 3 The industrious councilman noticed that the female journalist characterized/ herself/ as exceptionally helpful and diligent.
+7 3 The industrious councilwoman noticed that the male journalists characterized/ herself/ as exceptionally helpful and diligent.
+8 3 The industrious councilman noticed that the male journalists characterized/ herself/ as exceptionally helpful and diligent.
+1 4 The female witness said that the distracted mistress misrepresented/ herself/ in the trial but the jury didn't buy it.
+2 4 The male witness said that the distracted mistress misrepresented/ herself/ in the trial but the jury didn't buy it.
+3 4 The female witness said that the dishonest lawyers misrepresented/ herself/ in the trial but the jury didn't buy it.
+4 4 The male witness said that the dishonest lawyers misrepresented/ herself/ in the trial but the jury didn't buy it.
+5 4 The female witness sensed that the distracted mistress misrepresented/ herself/ in the trial but the jury didn't buy it.
+6 4 The male witness sensed that the distracted mistress misrepresented/ herself/ in the trial but the jury didn't buy it.
+7 4 The female witness sensed that the dishonest lawyers misrepresented/ herself/ in the trial but the jury didn't buy it.
+8 4 The male witness sensed that the dishonest lawyers misrepresented/ herself/ in the trial but the jury didn't buy it.
+1 5 The aspiring actress complained that the jealous beautician portrayed/ herself/ as dumb and unfashionable.
+2 5 The aspiring actor complained that the jealous beautician portrayed/ herself/ as dumb and unfashionable.
+3 5 The aspiring actress complained that the film directors portrayed/ herself/ as dumb and unfashionable.
+4 5 The aspiring actor complained that the film directors portrayed/ herself/ as dumb and unfashionable.
+5 5 The aspiring actress overheard that the jealous beautician portrayed/ herself/ as dumb and unfashionable.
+6 5 The aspiring actor overheard that the jealous beautician portrayed/ herself/ as dumb and unfashionable.
+7 5 The aspiring actress overheard that the film directors portrayed/ herself/ as dumb and unfashionable.
+8 5 The aspiring actor overheard that the film directors portrayed/ herself/ as dumb and unfashionable.
+1 6 The skilled businesswoman reported that the new saleswoman described/ herself/ as hardworking and industrious during the interview.
+2 6 The skilled businessman reported that the new saleswoman described/ herself/ as hardworking and industrious during the interview.
+3 6 The skilled businesswoman reported that the new salesmen described/ herself/ as hardworking and industrious during the interview.
+4 6 The skilled businessman reported that the new salesmen described/ herself/ as hardworking and industrious during the interview.
+5 6 The skilled businesswoman saw that the new saleswoman described/ herself/ as hardworking and industrious during the interview.
+6 6 The skilled businessman saw that the new saleswoman described/ herself/ as hardworking and industrious during the interview.
+7 6 The skilled businesswoman saw that the new salesmen described/ herself/ as hardworking and industrious during the interview.
+8 6 The skilled businessman saw that the new salesmen described/ herself/ as hardworking and industrious during the interview.
+1 7 The gorgeous supermodel boasted that the snobby princess underestimated/ herself/ when it came to giving public speeches.
+2 7 The handsome actor boasted that the snobby princess underestimated/ herself/ when it came to giving public speeches.
+3 7 The gorgeous supermodel boasted that the dapper princes underestimated/ herself/ when it came to giving public speeches.
+4 7 The handsome actor boasted that the dapper princes underestimated/ herself/ when it came to giving public speeches.
+5 7 The gorgeous supermodel noticed that the snobby princess underestimated/ herself/ when it came to giving public speeches.
+6 7 The handsome actor noticed that the snobby princess underestimated/ herself/ when it came to giving public speeches.
+7 7 The gorgeous supermodel noticed that the dapper princes underestimated/ herself/ when it came to giving public speeches.
+8 7 The handsome actor noticed that the dapper princes underestimated/ herself/ when it came to giving public speeches.
+1 8 The radical feminist admitted that the armored policewoman prevented/ herself/ from making a mistake by joining the unsafe protest.
+2 8 The scruffy protester admitted that the armored policewoman prevented/ herself/ from making a mistake by joining the unsafe protest.
+3 8 The radical feminist admitted that the armored policemen prevented/ herself/ from making a mistake by joining the unsafe protest.
+4 8 The scruffy protester admitted that the armored policemen prevented/ herself/ from making a mistake by joining the unsafe protest.
+5 8 The radical feminist saw that the armored policewoman prevented/ herself/ from making a mistake by joining the unsafe protest.
+6 8 The scruffy protester saw that the armored policewoman prevented/ herself/ from making a mistake by joining the unsafe protest.
+7 8 The radical feminist saw that the armored policemen prevented/ herself/ from making a mistake by joining the unsafe protest.
+8 8 The scruffy protester saw that the armored policemen prevented/ herself/ from making a mistake by joining the unsafe protest.
+1 9 The gullible librarian admitted that the mischievous schoolgirl tricked/ herself/ into believing that the story was true.
+2 9 The gullible principal admitted that the mischievous schoolgirl tricked/ herself/ into believing that the story was true.
+3 9 The gullible librarian admitted that the mischievous schoolboys tricked/ herself/ into believing that the story was true.
+4 9 The gullible principal admitted that the mischievous schoolboys tricked/ herself/ into believing that the story was true.
+5 9 The gullible librarian saw that the mischievous schoolgirl tricked/ herself/ into believing that the story was true.
+6 9 The gullible principal saw that the mischievous schoolgirl tricked/ herself/ into believing that the story was true.
+7 9 The gullible librarian saw that the mischievous schoolboys tricked/ herself/ into believing that the story was true.
+8 9 The gullible principal saw that the mischievous schoolboys tricked/ herself/ into believing that the story was true.
+1 10 The innocent secretary said that the high-heeled lawyer defended/ herself/ in the case last month.
+2 10 The innocent manager said that the high-heeled lawyer defended/ herself/ in the case last month.
+3 10 The innocent secretary said that the persuasive lawyers defended/ herself/ in the case last month.
+4 10 The innocent manager said that the persuasive lawyers defended/ herself/ in the case last month.
+5 10 The innocent secretary noticed that the high-heeled lawyer defended/ herself/ in the case last month.
+6 10 The innocent manager noticed that the high-heeled lawyer defended/ herself/ in the case last month.
+7 10 The innocent secretary noticed that the persuasive lawyers defended/ herself/ in the case last month.
+8 10 The innocent manager noticed that the persuasive lawyers defended/ herself/ in the case last month.
+1 11 The flustered nurse complained that the elderly widow considered/ herself/ to be very attractive and made suggestive comments.
+2 11 The flustered doctor complained that the elderly widow considered/ herself/ to be very attractive and made suggestive comments.
+3 11 The flustered nurse complained that the elderly veterans considered/ herself/ to be very attractive and made suggestive comments.
+4 11 The flustered doctor complained that the elderly veterans considered/ herself/ to be very attractive and made suggestive comments.
+5 11 The flustered nurse noticed that the elderly widow considered/ herself/ to be very attractive and made suggestive comments.
+6 11 The flustered doctor noticed that the elderly widow considered/ herself/ to be very attractive and made suggestive comments.
+7 11 The flustered nurse noticed that the elderly veterans considered/ herself/ to be very attractive and made suggestive comments.
+8 11 The flustered doctor noticed that the elderly veterans considered/ herself/ to be very attractive and made suggestive comments.
+1 12 The buxom waitress mentioned that the bossy hostess recommended/ herself/ for a new position in the kitchen.
+2 12 The scruffy waiter mentioned that the bossy hostess recommended/ herself/ for a new position in the kitchen.
+3 12 The buxom waitress mentioned that the bossy chefs recommended/ herself/ for a new position in the kitchen.
+4 12 The scruffy waiter mentioned that the bossy chefs recommended/ herself/ for a new position in the kitchen.
+5 12 The buxom waitress heard that the bossy hostess recommended/ herself/ for a new position in the kitchen.
+6 12 The scruffy waiter heard that the bossy hostess recommended/ herself/ for a new position in the kitchen.
+7 12 The buxom waitress heard that the bossy chefs recommended/ herself/ for a new position in the kitchen.
+8 12 The scruffy waiter heard that the bossy chefs recommended/ herself/ for a new position in the kitchen.
+1 13 The elderly woman insisted that the devout nun forgave/ herself/ for the indiscretion from years ago.
+2 13 The elderly man insisted that the devout nun forgave/ herself/ for the indiscretion from years ago.
+3 13 The elderly woman insisted that the devout priests forgave/ herself/ for the indiscretion from years ago.
+4 13 The elderly man insisted that the devout priests forgave/ herself/ for the indiscretion from years ago.
+5 13 The elderly woman sensed that the devout nun forgave/ herself/ for the indiscretion from years ago.
+6 13 The elderly man sensed that the devout nun forgave/ herself/ for the indiscretion from years ago.
+7 13 The elderly woman sensed that the devout priests forgave/ herself/ for the indiscretion from years ago.
+8 13 The elderly man sensed that the devout priests forgave/ herself/ for the indiscretion from years ago.
+1 14 The polite nanny argued that the dishonest maid should blame/ herself/ for the accident that happened in the driveway.
+2 14 The polite mailman argued that the dishonest maid should blame/ herself/ for the accident that happened in the driveway.
+3 14 The polite nanny argued that the dishonest gardeners should blame/ herself/ for the accident that happened in the driveway.
+4 14 The polite mailman argued that the dishonest gardeners should blame/ herself/ for the accident that happened in the driveway.
+5 14 The polite nanny saw that the dishonest maid should blame/ herself/ for the accident that happened in the driveway.
+6 14 The polite mailman saw that the dishonest maid should blame/ herself/ for the accident that happened in the driveway.
+7 14 The polite nanny saw that the dishonest gardeners should blame/ herself/ for the accident that happened in the driveway.
+8 14 The polite mailman saw that the dishonest gardeners should blame/ herself/ for the accident that happened in the driveway.
+1 15 The busy seamstress insisted that the flustered woman had distracted/ herself/ from the difficult and important task.
+2 15 The busy tailor insisted that the flustered woman had distracted/ herself/ from the difficult and important task.
+3 15 The busy seamstress insisted that the noisy men had distracted/ herself/ from the difficult and important task.
+4 15 The busy tailor insisted that the noisy men had distracted/ herself/ from the difficult and important task.
+5 15 The busy seamstress saw that the flustered woman had distracted/ herself/ from the difficult and important task.
+6 15 The busy tailor saw that the flustered woman had distracted/ herself/ from the difficult and important task.
+7 15 The busy seamstress saw that the noisy men had distracted/ herself/ from the difficult and important task.
+8 15 The busy tailor saw that the noisy men had distracted/ herself/ from the difficult and important task.
+1 16 The sorority girl mentioned that the pretty cheerleader photographed/ herself/ in the new, backless dress for the party.
+2 16 The frat boy mentioned that the pretty cheerleader photographed/ herself/ in the new, backless dress for the party.
+3 16 The sorority girl mentioned that the muscular football players photographed/ herself/ in the new, backless dress for the party.
+4 16 The frat boy mentioned that the muscular football players photographed/ herself/ in the new, backless dress for the party.
+5 16 The sorority girl saw that the pretty cheerleader photographed/ herself/ in the new, backless dress for the party.
+6 16 The frat boy saw that the pretty cheerleader photographed/ herself/ in the new, backless dress for the party.
+7 16 The sorority girl saw that the muscular football players photographed/ herself/ in the new, backless dress for the party.
+8 16 The frat boy saw that the muscular football players photographed/ herself/ in the new, backless dress for the party.
+1 17 The proud mother boasted that the ingenious girl scout taught/ herself/ how to build a fire using only two sticks and a rock.
+2 17 The rugged hiker boasted that the ingenious girl scout taught/ herself/ how to build a fire using only two sticks and a rock.
+3 17 The proud mother boasted that the ingenious boy scouts taught/ herself/ how to build a fire using only two sticks and a rock.
+4 17 The rugged hiker boasted that the ingenious boy scouts taught/ herself/ how to build a fire using only two sticks and a rock.
+5 17 The proud mother saw that the ingenious girl scout taught/ herself/ how to build a fire using only two sticks and a rock.
+6 17 The rugged hiker saw that the ingenious girl scout taught/ herself/ how to build a fire using only two sticks and a rock.
+7 17 The proud mother saw that the ingenious boy scouts taught/ herself/ how to build a fire using only two sticks and a rock.
+8 17 The rugged hiker saw that the ingenious boy scouts taught/ herself/ how to build a fire using only two sticks and a rock.
+1 18 The teenage girl said that the matronly coach motivated/ herself/ to win the state championship this season.
+2 18 The teenage boy said that the matronly coach motivated/ herself/ to win the state championship this season.
+3 18 The teenage girl said that the basketball coaches motivated/ herself/ to win the state championship this season.
+4 18 The teenage boy said that the basketball coaches motivated/ herself/ to win the state championship this season.
+5 18 The teenage girl heard that the matronly coach motivated/ herself/ to win the state championship this season.
+6 18 The teenage boy heard that the matronly coach motivated/ herself/ to win the state championship this season.
+7 18 The teenage girl heard that the basketball coaches motivated/ herself/ to win the state championship this season.
+8 18 The teenage boy heard that the basketball coaches motivated/ herself/ to win the state championship this season.
+1 19 The shy schoolgirl confessed that the strict librarian had embarrassed/ herself/ in the cafeteria during lunch.
+2 19 The shy schoolboy confessed that the strict librarian had embarrassed/ herself/ in the cafeteria during lunch.
+3 19 The shy schoolgirl confessed that the mean bullies had embarrassed/ herself/ in the cafeteria during lunch.
+4 19 The shy schoolboy confessed that the mean bullies had embarrassed/ herself/ in the cafeteria during lunch.
+5 19 The shy schoolgirl overheard that the strict librarian had embarrassed/ herself/ in the cafeteria during lunch.
+6 19 The shy schoolboy overheard that the strict librarian had embarrassed/ herself/ in the cafeteria during lunch.
+7 19 The shy schoolgirl overheard that the mean bullies had embarrassed/ herself/ in the cafeteria during lunch.
+8 19 The shy schoolboy overheard that the mean bullies had embarrassed/ herself/ in the cafeteria during lunch.
+1 20 The irate congresswoman insisted that the demure suspect had revealed/ herself/ to be the real criminal by refusing to testify.
+2 20 The irate congressman insisted that the demure suspect had revealed/ herself/ to be the real criminal by refusing to testify.
+3 20 The irate congresswoman insisted that the brawny suspects had revealed/ herself/ to be the real criminal by refusing to testify.
+4 20 The irate congressman insisted that the brawny suspects had revealed/ herself/ to be the real criminal by refusing to testify.
+5 20 The irate congresswoman sensed that the demure suspect had revealed/ herself/ to be the real criminal by refusing to testify.
+6 20 The irate congressman sensed that the demure suspect had revealed/ herself/ to be the real criminal by refusing to testify.
+7 20 The irate congresswoman sensed that the brawny suspects had revealed/ herself/ to be the real criminal by refusing to testify.
+8 20 The irate congressman sensed that the brawny suspects had revealed/ herself/ to be the real criminal by refusing to testify.
+1 21 The graceful harpist said that the chatty choirgirl promoted/ herself/ as a famous musician in the making.
+2 21 The somber minister said that the chatty choirgirl promoted/ herself/ as a famous musician in the making.
+3 21 The graceful harpist said that the boisterous choirboys promoted/ herself/ as a famous musician in the making.
+4 21 The somber minister said that the boisterous choirboys promoted/ herself/ as a famous musician in the making.
+5 21 The graceful harpist overheard that the chatty choirgirl promoted/ herself/ as a famous musician in the making.
+6 21 The somber minister overheard that the chatty choirgirl promoted/ herself/ as a famous musician in the making.
+7 21 The graceful harpist overheard that the boisterous choirboys promoted/ herself/ as a famous musician in the making.
+8 21 The somber minister overheard that the boisterous choirboys promoted/ herself/ as a famous musician in the making.
+1 22 The strict nanny complained that the ditzy babysitter fooled/ herself/ into thinking the job was done.
+2 22 The paranoid foreman complained that the ditzy babysitter fooled/ herself/ into thinking the job was done.
+3 22 The strict nanny complained that the grimy plumbers fooled/ herself/ into thinking the job was done.
+4 22 The paranoid foreman complained that the grimy plumbers fooled/ herself/ into thinking the job was done.
+5 22 The strict nanny sensed that the ditzy babysitter fooled/ herself/ into thinking the job was done.
+6 22 The paranoid foreman sensed that the ditzy babysitter fooled/ herself/ into thinking the job was done.
+7 22 The strict nanny sensed that the grimy plumbers fooled/ herself/ into thinking the job was done.
+8 22 The paranoid foreman sensed that the grimy plumbers fooled/ herself/ into thinking the job was done.
+1 23 The nimble gymnast mentioned that the fashion designer dressed/ herself/ up for the gala at the Met tonight.
+2 23 The bashful bodybuilder mentioned that the fashion designer dressed/ herself/ up for the gala at the Met tonight.
+3 23 The nimble gymnast mentioned that the fashionable studs dressed/ herself/ up for the gala at the Met tonight.
+4 23 The bashful bodybuilder mentioned that the fashionable studs dressed/ herself/ up for the gala at the Met tonight.
+5 23 The nimble gymnast saw that the fashion designer dressed/ herself/ up for the gala at the Met tonight.
+6 23 The bashful bodybuilder saw that the fashion designer dressed/ herself/ up for the gala at the Met tonight.
+7 23 The nimble gymnast saw that the fashionable studs dressed/ herself/ up for the gala at the Met tonight.
+8 23 The bashful bodybuilder saw that the fashionable studs dressed/ herself/ up for the gala at the Met tonight.
+1 24 The aging nun admitted that the prominent congresswoman underestimated/ herself/ during the long and grueling campaign.
+2 24 The aging monk admitted that the prominent congresswoman underestimated/ herself/ during the long and grueling campaign.
+3 24 The aging nun admitted that the prominent congressmen underestimated/ herself/ during the long and grueling campaign.
+4 24 The aging monk admitted that the prominent congressmen underestimated/ herself/ during the long and grueling campaign.
+5 24 The aging nun overheard that the prominent congresswoman underestimated/ herself/ during the long and grueling campaign.
+6 24 The aging monk overheard that the prominent congresswoman underestimated/ herself/ during the long and grueling campaign.
+7 24 The aging nun overheard that the prominent congressmen underestimated/ herself/ during the long and grueling campaign.
+8 24 The aging monk overheard that the prominent congressmen underestimated/ herself/ during the long and grueling campaign.
+1 25 The impatient manager insisted that the arrogant actor had committed/ himself/ to a contract for four years with the film studio.
+2 25 The high-heeled publicist insisted that the arrogant actor had committed/ himself/ to a contract for four years with the film studio.
+3 25 The impatient manager insisted that the dramatic actresses had committed/ himself/ to a contract for four years with the film studio.
+4 25 The high-heeled publicist insisted that the dramatic actresses had committed/ himself/ to a contract for four years with the film studio.
+5 25 The impatient manager heard that the arrogant actor had committed/ himself/ to a contract for four years with the film studio.
+6 25 The high-heeled publicist heard that the arrogant actor had committed/ himself/ to a contract for four years with the film studio.
+7 25 The impatient manager heard that the dramatic actresses had committed/ himself/ to a contract for four years with the film studio.
+8 25 The high-heeled publicist heard that the dramatic actresses had committed/ himself/ to a contract for four years with the film studio.
+1 26 The industrious schoolboy said that the stern principal allowed/ himself/ to take a break from archiving.
+2 26 The industrious schoolgirl said that the stern principal allowed/ himself/ to take a break from archiving.
+3 26 The industrious schoolboy said that the stern librarians allowed/ himself/ to take a break from archiving.
+4 26 The industrious schoolgirl said that the stern librarians allowed/ himself/ to take a break from archiving.
+5 26 The industrious schoolboy noticed that the stern principal allowed/ himself/ to take a break from archiving.
+6 26 The industrious schoolgirl noticed that the stern principal allowed/ himself/ to take a break from archiving.
+7 26 The industrious schoolboy noticed that the stern librarians allowed/ himself/ to take a break from archiving.
+8 26 The industrious schoolgirl noticed that the stern librarians allowed/ himself/ to take a break from archiving.
+1 27 The trustworthy policeman reported that the bank robber criticized/ himself/ for the error during the trial.
+2 27 The trustworthy policewoman reported that the bank robber criticized/ himself/ for the error during the trial.
+3 27 The trustworthy policeman reported that the female reporters criticized/ himself/ for the error during the trial.
+4 27 The trustworthy policewoman reported that the female reporters criticized/ himself/ for the error during the trial.
+5 27 The trustworthy policeman overheard that the bank robber criticized/ himself/ for the error during the trial.
+6 27 The trustworthy policewoman overheard that the bank robber criticized/ himself/ for the error during the trial.
+7 27 The trustworthy policeman overheard that the female reporters criticized/ himself/ for the error during the trial.
+8 27 The trustworthy policewoman overheard that the female reporters criticized/ himself/ for the error during the trial.
+1 28 The talented director said that the rude photographer described/ himself/ as cruel and abusive in the workplace.
+2 28 The beautiful supermodel said that the rude photographer described/ himself/ as cruel and abusive in the workplace.
+3 28 The talented director said that the female journalists described/ himself/ as cruel and abusive in the workplace.
+4 28 The beautiful supermodel said that the female journalists described/ himself/ as cruel and abusive in the workplace.
+5 28 The talented director noticed that the rude photographer described/ himself/ as cruel and abusive in the workplace.
+6 28 The beautiful supermodel noticed that the rude photographer described/ himself/ as cruel and abusive in the workplace.
+7 28 The talented director noticed that the female journalists described/ himself/ as cruel and abusive in the workplace.
+8 28 The beautiful supermodel noticed that the female journalists described/ himself/ as cruel and abusive in the workplace.
+1 29 The republican senator boasted that the authoritative spokesman distinguished/ himself/ with honor and composure during the conflict.
+2 29 The dutiful receptionist boasted that the authoritative spokesman distinguished/ himself/ with honor and composure during the conflict.
+3 29 The republican senator boasted that the pretty spokeswomen distinguished/ himself/ with honor and composure during the conflict.
+4 29 The dutiful receptionist boasted that the pretty spokeswomen distinguished/ himself/ with honor and composure during the conflict.
+5 29 The republican senator saw that the authoritative spokesman distinguished/ himself/ with honor and composure during the conflict.
+6 29 The dutiful receptionist saw that the authoritative spokesman distinguished/ himself/ with honor and composure during the conflict.
+7 29 The republican senator saw that the pretty spokeswomen distinguished/ himself/ with honor and composure during the conflict.
+8 29 The dutiful receptionist saw that the pretty spokeswomen distinguished/ himself/ with honor and composure during the conflict.
+1 30 The wealthy banker argued that the inarticulate entrepreneur cast/ himself/ in a negative and slanderous light at the board meeting.
+2 30 The diligent secretary argued that the inarticulate entrepreneur cast/ himself/ in a negative and slanderous light at the board meeting.
+3 30 The wealthy banker argued that the feminist activists cast/ himself/ in a negative and slanderous light at the board meeting.
+4 30 The diligent secretary argued that the feminist activists cast/ himself/ in a negative and slanderous light at the board meeting.
+5 30 The wealthy banker saw that the inarticulate entrepreneur cast/ himself/ in a negative and slanderous light at the board meeting.
+6 30 The diligent secretary saw that the inarticulate entrepreneur cast/ himself/ in a negative and slanderous light at the board meeting.
+7 30 The wealthy banker saw that the feminist activists cast/ himself/ in a negative and slanderous light at the board meeting.
+8 30 The diligent secretary saw that the feminist activists cast/ himself/ in a negative and slanderous light at the board meeting.
+1 31 The brave soldier said that the war correspondent scared/ himself/ during the long and pitched campaign.
+2 31 The busy secretary said that the war correspondent scared/ himself/ during the long and pitched campaign.
+3 31 The brave soldier said that the female correspondents scared/ himself/ during the long and pitched campaign.
+4 31 The busy secretary said that the female correspondents scared/ himself/ during the long and pitched campaign.
+5 31 The brave soldier heard that the war correspondent scared/ himself/ during the long and pitched campaign.
+6 31 The busy secretary heard that the war correspondent scared/ himself/ during the long and pitched campaign.
+7 31 The brave soldier heard that the female correspondents scared/ himself/ during the long and pitched campaign.
+8 31 The busy secretary heard that the female correspondents scared/ himself/ during the long and pitched campaign.
+1 32 The charming butcher boasted that the picky chef praised/ himself/ for a job skillfully and tastefully done.
+2 32 The pretty florist boasted that the picky chef praised/ himself/ for a job skillfully and tastefully done.
+3 32 The charming butcher boasted that the artsy critics praised/ himself/ for a job skillfully and tastefully done.
+4 32 The pretty florist boasted that the artsy critics praised/ himself/ for a job skillfully and tastefully done.
+5 32 The charming butcher overheard that the picky chef praised/ himself/ for a job skillfully and tastefully done.
+6 32 The pretty florist overheard that the picky chef praised/ himself/ for a job skillfully and tastefully done.
+7 32 The charming butcher overheard that the artsy critics praised/ himself/ for a job skillfully and tastefully done.
+8 32 The pretty florist overheard that the artsy critics praised/ himself/ for a job skillfully and tastefully done.
+1 33 The security guard admitted that the male witness identified/ himself/ as a potential suspect in the ongoing investigation.
+2 33 The friendly receptionist admitted that the male witness identified/ himself/ as a potential suspect in the ongoing investigation.
+3 33 The security guard admitted that the female witnesses identified/ himself/ as a potential suspect in the ongoing investigation.
+4 33 The friendly receptionist admitted that the female witnesses identified/ himself/ as a potential suspect in the ongoing investigation.
+5 33 The security guard heard that the male witness identified/ himself/ as a potential suspect in the ongoing investigation.
+6 33 The friendly receptionist heard that the male witness identified/ himself/ as a potential suspect in the ongoing investigation.
+7 33 The security guard heard that the female witnesses identified/ himself/ as a potential suspect in the ongoing investigation.
+8 33 The friendly receptionist heard that the female witnesses identified/ himself/ as a potential suspect in the ongoing investigation.
+1 34 The legendary rock star said that the band manager inspired/ himself/ to write a new song about social injustice.
+2 34 The legendary pop diva said that the band manager inspired/ himself/ to write a new song about social injustice.
+3 34 The legendary rock star said that the ditzy groupies inspired/ himself/ to write a new song about social injustice.
+4 34 The legendary pop diva said that the ditzy groupies inspired/ himself/ to write a new song about social injustice.
+5 34 The legendary rock star overheard that the band manager inspired/ himself/ to write a new song about social injustice.
+6 34 The legendary pop diva overheard that the band manager inspired/ himself/ to write a new song about social injustice.
+7 34 The legendary rock star overheard that the ditzy groupies inspired/ himself/ to write a new song about social injustice.
+8 34 The legendary pop diva overheard that the ditzy groupies inspired/ himself/ to write a new song about social injustice.
+1 35 The brilliant detective reported that the jail warden convinced/ himself/ that the testimony was false and unreliable.
+2 35 The severe newswoman reported that the jail warden convinced/ himself/ that the testimony was false and unreliable.
+3 35 The brilliant detective reported that the elderly women convinced/ himself/ that the testimony was false and unreliable.
+4 35 The severe newswoman reported that the elderly women convinced/ himself/ that the testimony was false and unreliable.
+5 35 The brilliant detective observed that the jail warden convinced/ himself/ that the testimony was false and unreliable.
+6 35 The severe newswoman observed that the jail warden convinced/ himself/ that the testimony was false and unreliable.
+7 35 The brilliant detective observed that the elderly women convinced/ himself/ that the testimony was false and unreliable.
+8 35 The severe newswoman observed that the elderly women convinced/ himself/ that the testimony was false and unreliable.
+1 36 The corrupt senator insisted that the outspoken councilman would appoint/ himself/ as the new county commissioner before the election.
+2 36 The female senator insisted that the outspoken councilman would appoint/ himself/ as the new county commissioner before the election.
+3 36 The corrupt senator insisted that the outspoken councilwomen would appoint/ himself/ as the new county commissioner before the election.
+4 36 The female senator insisted that the outspoken councilwomen would appoint/ himself/ as the new county commissioner before the election.
+5 36 The corrupt senator sensed that the outspoken councilman would appoint/ himself/ as the new county commissioner before the election.
+6 36 The female senator sensed that the outspoken councilman would appoint/ himself/ as the new county commissioner before the election.
+7 36 The corrupt senator sensed that the outspoken councilwomen would appoint/ himself/ as the new county commissioner before the election.
+8 36 The female senator sensed that the outspoken councilwomen would appoint/ himself/ as the new county commissioner before the election.
+1 37 The successful businessman said that the handsome reporter characterized/ himself/ as greedy but successful.
+2 37 The successful businesswoman said that the handsome reporter characterized/ himself/ as greedy but successful.
+3 37 The successful businessman said that the high-heeled reporters characterized/ himself/ as greedy but successful.
+4 37 The successful businesswoman said that the high-heeled reporters characterized/ himself/ as greedy but successful.
+5 37 The successful businessman heard that the handsome reporter characterized/ himself/ as greedy but successful.
+6 37 The successful businesswoman heard that the handsome reporter characterized/ himself/ as greedy but successful.
+7 37 The successful businessman heard that the high-heeled reporters characterized/ himself/ as greedy but successful.
+8 37 The successful businesswoman heard that the high-heeled reporters characterized/ himself/ as greedy but successful.
+1 38 The undercover policeman confessed that the cautious sergeant recorded/ himself/ talking about the secret plot.
+2 38 The undercover policewoman confessed that the cautious sergeant recorded/ himself/ talking about the secret plot.
+3 38 The undercover policeman confessed that the voluptuous spies recorded/ himself/ talking about the secret plot.
+4 38 The undercover policewoman confessed that the voluptuous spies recorded/ himself/ talking about the secret plot.
+5 38 The undercover policeman overheard that the cautious sergeant recorded/ himself/ talking about the secret plot.
+6 38 The undercover policewoman overheard that the cautious sergeant recorded/ himself/ talking about the secret plot.
+7 38 The undercover policeman overheard that the voluptuous spies recorded/ himself/ talking about the secret plot.
+8 38 The undercover policewoman overheard that the voluptuous spies recorded/ himself/ talking about the secret plot.
+1 39 The famous rapper said that the record producer photographed/ himself/ next to the cardboard cutout on the large stage.
+2 39 The female publicist said that the record producer photographed/ himself/ next to the cardboard cutout on the large stage.
+3 39 The famous rapper said that the female groupies photographed/ himself/ next to the cardboard cutout on the large stage.
+4 39 The female publicist said that the female groupies photographed/ himself/ next to the cardboard cutout on the large stage.
+5 39 The famous rapper saw that the record producer photographed/ himself/ next to the cardboard cutout on the large stage.
+6 39 The female publicist saw that the record producer photographed/ himself/ next to the cardboard cutout on the large stage.
+7 39 The famous rapper saw that the female groupies photographed/ himself/ next to the cardboard cutout on the large stage.
+8 39 The female publicist saw that the female groupies photographed/ himself/ next to the cardboard cutout on the large stage.
+1 40 The brave policeman reported that the elderly man nominated/ himself/ for the prestigious community service award.
+2 40 The brave policewoman reported that the elderly man nominated/ himself/ for the prestigious community service award.
+3 40 The brave policeman reported that several elderly women nominated/ himself/ for the prestigious community service award.
+4 40 The brave policewoman reported that several elderly women nominated/ himself/ for the prestigious community service award.
+5 40 The brave policeman noticed that the elderly man nominated/ himself/ for the prestigious community service award.
+6 40 The brave policewoman noticed that the elderly man nominated/ himself/ for the prestigious community service award.
+7 40 The brave policeman noticed that several elderly women nominated/ himself/ for the prestigious community service award.
+8 40 The brave policewoman noticed that several elderly women nominated/ himself/ for the prestigious community service award.
+1 41 The grouchy man complained that the busy waiter hadn't noticed/ himself/ standing by the table waiting to be seated.
+2 41 The grouchy woman complained that the busy waiter hadn't noticed/ himself/ standing by the table waiting to be seated.
+3 41 The grouchy man complained that the busy waitresses hadn't noticed/ himself/ standing by the table waiting to be seated.
+4 41 The grouchy woman complained that the busy waitresses hadn't noticed/ himself/ standing by the table waiting to be seated.
+5 41 The grouchy man saw that the busy waiter hadn't noticed/ himself/ standing by the table waiting to be seated.
+6 41 The grouchy woman saw that the busy waiter hadn't noticed/ himself/ standing by the table waiting to be seated.
+7 41 The grouchy man saw that the busy waitresses hadn't noticed/ himself/ standing by the table waiting to be seated.
+8 41 The grouchy woman saw that the busy waitresses hadn't noticed/ himself/ standing by the table waiting to be seated.
+1 42 The irritable chef mentioned that the kind butcher complimented/ himself/ for the excellent and expensive meal.
+2 42 The irritable waitress mentioned that the kind butcher complimented/ himself/ for the excellent and expensive meal.
+3 42 The irritable chef mentioned that the kind businesswomen complimented/ himself/ for the excellent and expensive meal.
+4 42 The irritable waitress mentioned that the kind businesswomen complimented/ himself/ for the excellent and expensive meal.
+5 42 The irritable chef noticed that the kind butcher complimented/ himself/ for the excellent and expensive meal.
+6 42 The irritable waitress noticed that the kind butcher complimented/ himself/ for the excellent and expensive meal.
+7 42 The irritable chef noticed that the kind businesswomen complimented/ himself/ for the excellent and expensive meal.
+8 42 The irritable waitress noticed that the kind businesswomen complimented/ himself/ for the excellent and expensive meal.
+1 43 The popular sheriff confessed that the shady detective implicated/ himself/ when giving testimony at the trial last month. 
+2 43 The popular policewoman confessed that the shady detective implicated/ himself/ when giving testimony at the trial last month. 
+3 43 The popular sheriff confessed that the wealthy heiresses implicated/ himself/ when giving testimony at the trial last month. 
+4 43 The popular policewoman confessed that the wealthy heiresses implicated/ himself/ when giving testimony at the trial last month.
+5 43 The popular sheriff noticed that the shady detective implicated/ himself/ when giving testimony at the trial last month. 
+6 43 The popular policewoman noticed that the shady detective implicated/ himself/ when giving testimony at the trial last month. 
+7 43 The popular sheriff noticed that the wealthy heiresses implicated/ himself/ when giving testimony at the trial last month. 
+8 43 The popular policewoman noticed that the wealthy heiresses implicated/ himself/ when giving testimony at the trial last month.
+1 44 The worried doctor reported that the delirious hiker talked to/ himself/ in the operating room before the procedure.
+2 44 The worried midwife reported that the delirious hiker talked to/ himself/ in the operating room before the procedure.
+3 44 The worried doctor reported that the delirious mothers talked to/ himself/ in the operating room before the procedure.
+4 44 The worried midwife reported that the delirious mothers talked to/ himself/ in the operating room before the procedure.
+5 44 The worried doctor saw that the delirious hiker talked to/ himself/ in the operating room before the procedure.
+6 44 The worried midwife saw that the delirious hiker talked to/ himself/ in the operating room before the procedure.
+7 44 The worried doctor saw that the delirious mothers talked to/ himself/ in the operating room before the procedure.
+8 44 The worried midwife saw that the delirious mothers talked to/ himself/ in the operating room before the procedure.
+1 45 The new executive revealed that the successful entrepreneur loathed/ himself/ for all the compromises made on the way to the top.
+2 45 The glamorous supermodel revealed that the successful entrepreneur loathed/ himself/ for all the compromises made on the way to the top.
+3 45 The new executive revealed that the influential feminists loathed/ himself/ for all the compromises made on the way to the top.
+4 45 The glamorous supermodel revealed that the influential feminists loathed/ himself/ for all the compromises made on the way to the top.
+5 45 The new executive sensed that the successful entrepreneur loathed/ himself/ for all the compromises made on the way to the top.
+6 45 The glamorous supermodel sensed that the successful entrepreneur loathed/ himself/ for all the compromises made on the way to the top.
+7 45 The new executive sensed that the influential feminists loathed/ himself/ for all the compromises made on the way to the top.
+8 45 The glamorous supermodel sensed that the influential feminists loathed/ himself/ for all the compromises made on the way to the top.
+1 46 The exasperated manager declared that the oblivious lawyer denied/ himself/ a chance at advancing in the company.
+2 46 The exasperated secretary declared that the oblivious lawyer denied/ himself/ a chance at advancing in the company.
+3 46 The exasperated manager declared that the oblivious beauticians denied/ himself/ a chance at advancing in the company.
+4 46 The exasperated secretary declared that the oblivious beauticians denied/ himself/ a chance at advancing in the company.
+5 46 The exasperated manager heard that the oblivious lawyer denied/ himself/ a chance at advancing in the company.
+6 46 The exasperated secretary heard that the oblivious lawyer denied/ himself/ a chance at advancing in the company.
+7 46 The exasperated manager heard that the oblivious beauticians denied/ himself/ a chance at advancing in the company.
+8 46 The exasperated secretary heard that the oblivious beauticians denied/ himself/ a chance at advancing in the company.
+1 47 The snobby butler mentioned that the burly boxer surprised/ himself/ by agreeing to dance at the party next weekend.
+2 47 The snobby maid mentioned that the burly boxer surprised/ himself/ by agreeing to dance at the party next weekend.
+3 47 The snobby butler mentioned that the stuffy governesses surprised/ himself/ by agreeing to dance at the party next weekend.
+4 47 The snobby maid mentioned that the stuffy governesses surprised/ himself/ by agreeing to dance at the party next weekend.
+5 47 The snobby butler overheard that the burly boxer surprised/ himself/ by agreeing to dance at the party next weekend.
+6 47 The snobby maid overheard that the burly boxer surprised/ himself/ by agreeing to dance at the party next weekend.
+7 47 The snobby butler overheard that the stuffy governesses surprised/ himself/ by agreeing to dance at the party next weekend.
+8 47 The snobby maid overheard that the stuffy governesses surprised/ himself/ by agreeing to dance at the party next weekend.
+1 48 The rich CEO said that the cautious doctor prevented/ himself/ from losing any more money at the casino.
+2 48 The wealthy heiress said that the cautious doctor prevented/ himself/ from losing any more money at the casino.
+3 48 The rich CEO said that the reckless divas prevented/ himself/ from losing any more money at the casino.
+4 48 The wealthy heiress said that the reckless divas prevented/ himself/ from losing any more money at the casino.
+5 48 The rich CEO noticed that the cautious doctor prevented/ himself/ from losing any more money at the casino.
+6 48 The wealthy heiress noticed that the cautious doctor prevented/ himself/ from losing any more money at the casino.
+7 48 The rich CEO noticed that the reckless divas prevented/ himself/ from losing any more money at the casino.
+8 48 The wealthy heiress noticed that the reckless divas prevented/ himself/ from losing any more money at the casino.
+9 49 While testing a potential manufacturing defect, the rifles were reportedly fired into the air.
+10 49 While testing a potential manufacturing defect, the rifles had reportedly fired into the air.
+9 50 Given that only one pin was left standing, the bowling ball was apparently rolled with considerable speed.
+10 50 Given that only one pin was left standing, the bowling ball had apparently rolled with considerable speed.
+9 51 When the angry employee stormed out of the office, the door was definitely slammed with great force.
+10 51 When the angry employee stormed out of the office, the door had definitely slammed with great force.
+9 52 While tensions were high during the cold war, the submarine was allegedly sunk in the bay.
+10 52 While tensions were high during the cold war, the submarine had allegedly sunk in the bay.
+9 53 As a result of the contestant's enthusiastic tug, the game show's wheel was definitely spun very rapidly.
+10 53 As a result of the contestant's enthusiastic tug, the game show's wheel had definitely spun very rapidly.
+9 54 In the middle of a wild electric storm, a kite was apparently flown into the clouds.
+10 54 In the middle of a wild electric storm, a kite had apparently flown into the clouds.
+9 55 As a part of the celebratory parade, the firebird was quickly raced down the road.
+10 55 As a part of the celebratory parade, the firebird had quickly raced down the road.
+9 56 In the warm spring sunshine, some daisies were evidently grown under the trees.
+10 56 In the warm spring sunshine, some daisies had evidently grown under the trees.
+11 57 The butcher asked who the customer who bought Italian sausage had invited to dinner tonight. 
+12 57 The butcher asked if the customer who bought Italian sausage had invited anyone to dinner tonight. 
+13 57 The butcher asked who the customer, who bought Italian sausage, had invited to dinner tonight. 
+14 57 The butcher asked if the customer, who bought Italian sausage, had invited anyone to dinner tonight. 
+11 58 The administrator wondered who the doctor who manages the hospital had treated in the ER. 
+12 58 The administrator wondered if the doctor who manages the hospital had treated anyone in the ER. 
+13 58 The administrator wondered who the doctor, who manages the hospital, had treated in the ER. 
+14 58 The administrator wondered if the doctor, who manages the hospital, had treated anyone in the ER. 
+11 59 The principal wanted to know who the student who was expelled had threatened with a knife. 
+12 59 The principal wanted to know if the student who was expelled had threatened anyone with a knife. 
+13 59 The principal wanted to know who the student, who was expelled, had threatened with a knife. 
+14 59 The principal wanted to know if the student, who was expelled, had threatened anyone with a knife. 
+11 60 The conductor asked who the violinist who was very upset had talked to before coming in . 
+12 60 The conductor asked if the violinist who was very upset had talked to anyone before coming in. 
+13 60 The conductor asked who the violinist, who was very upset, had talked to before coming in. 
+14 60 The conductor asked if the violinist, who was very upset, had talked to anyone before coming in. 
+11 61 The homeowner asked who the contractor who fixed the roof would hire for the next job. 
+12 61 The homeowner asked if the contractor who fixed the roof would hire someone for the next job. 
+13 61 The homeowner asked who the contractor, who fixed the roof, would hire for the next job. 
+14 61 The homeowner asked if the contractor, who fixed the roof, would hire someone for the next job. 
+11 62 The choreographer didn't know who the dancer who danced clumsily had run into during practice. 
+12 62 The choreographer didn't know if the dancer who danced clumsily had run into anyone during practice. 
+13 62 The choreographer didn't know who the dancer, who danced clumsily, had run into during practice. 
+14 62 The choreographer didn't know if the dancer, who danced clumsily, had run into anyone during practice. 
+11 63 The cop wondered who the victim who was recovering slowly would blame for the accident. 
+12 63 The cop wondered if the victim who was recovering slowly would blame the police for the accident. 
+13 63 The cop wondered who the victim, who was recovering slowly, would blame for the accident. 
+14 63 The cop wondered if the victim, who was recovering slowly, would blame the police for the accident. 
+11 64 I couldn't remember who the reporter who does the morning news had mentioned in the big story. 
+12 64 I couldn't remember if the reporter who does the morning news had mentioned me in the big story. 
+13 64 I couldn't remember who the reporter, who does the morning news, had mentioned in the big story. 
+14 64 I couldn't remember if the reporter, who does the morning news, had mentioned me in the big story. 
+11 65 The singer didn't know who the audience member who laughed out loud was heckling during the show. 
+12 65 The singer didn't know if the audience member who laughed out loud was heckling him during the show. 
+13 65 The singer didn't know who the audience member, who laughed out loud, was heckling during the show. 
+14 65 The singer didn't know if the audience member, who laughed out loud, was heckling him during the show. 
+11 66 The oilman wondered who the businessman who hated fossil fuels had fired from his company. 
+12 66 The oilman wondered if the businessman who hated fossil fuels had fired someone from his company. 
+13 66 The oilman wondered who the businessman, who hated fossil fuels, had fired from his company. 
+14 66 The oilman wondered if the businessman, who hated fossil fuels, had fired someone from his company. 
+11 67 The judge asked who the lawyer who represented the defendant was working with on the case. 
+12 67 The judge asked if the lawyer who represented the defendant was working with someone on the case. 
+13 67 The judge asked who the lawyer, who represented the defendant, was working with on the case. 
+14 67 The judge asked if the lawyer, who represented the defendant, was working with someone on the case. 
+11 68 The contractor wondered who the gardener who loves tulips had met at the nursery. 
+12 68 The contractor wondered if the gardener who loves tulips had met anyone at the nursery. 
+13 68 The contractor wondered who the gardener, who loves tulips, had met at the nursery. 
+14 68 The contractor wondered if the gardener, who loves tulips, had met anyone at the nursery. 
+11 69 The applicant asked who the employee who conducted the interviews would hire if he could. 
+12 69 The applicant asked if the employee who conducted the interviews would hire someone if he could. 
+13 69 The applicant asked who the employee, who conducted the interviews, would hire if he could. 
+14 69 The applicant asked if the employee, who conducted the interviews, would hire someone if he could. 
+11 70 The little girl wondered who the boy who was ignoring her had played with during recess. 
+12 70 The little girl wondered if the boy who was ignoring her had played with anyone during recess. 
+13 70 The little girl wondered who the boy, who was ignoring her, had played with during recess. 
+14 70 The little girl wondered if the boy, who was ignoring her, had played with anyone during recess. 
+11 71 The lobbyist knew who the senator who voted for higher taxes had bribed during the election. 
+12 71 The lobbyist knew if the senator who voted for higher taxes had bribed someone during the election. 
+13 71 The lobbyist knew who the senator, who voted for higher taxes, had bribed during the election. 
+14 71 The lobbyist knew if the senator, who voted for higher taxes, had bribed someone during the election. 
+11 72 The author asked who the young fan who organized the book-signing had invited to the event. 
+12 72 The author asked if the young fan who organized the book-signing had invited Mary to the event. 
+13 72 The author asked who the young fan, who organized the book-signing, had invited to the event. 
+14 72 The author asked if the young fan, who organized the book-signing, had invited Mary to the event.
+11 73 Joan didn't remember who the butcher who sold organic beef had hired to deliver his meat. 
+12 73 Joan didn't remember if the butcher who sold organic beef had hired someone to deliver his meat. 
+13 73 Joan didn't remember who the butcher, who sold organic beef, had hired to deliver his meat. 
+14 73 Joan didn't remember if the butcher, who sold organic beef, had hired someone to deliver his meat. 
+11 74 Alex wondered who the teenager who was a clever prankster would target for his next prank. 
+12 74 Alex wondered if the teenager who was a clever prankster would target John for his next prank. 
+13 74 Alex wondered who the teenager, who was a clever prankster, would target for his next prank. 
+14 74 Alex wondered if the teenager, who was a clever prankster, would target John for his next prank. 
+11 75 The nurse asked who the doctor who treated the crash victim had examined very thoroughly. 
+12 75 The nurse asked if the doctor who treated the crash victim had examined everyone very thoroughly. 
+13 75 The nurse asked who the doctor, who treated the crash victim, had examined very thoroughly. 
+14 75 The nurse asked if the doctor, who treated the crash victim, had examined everyone very thoroughly. 
+11 76 The reporter wanted to know who the hacker who coded the software had attacked with a virus. 
+12 76 The reporter wanted to know if the hacker who coded the software had attacked the NSA with a virus. 
+13 76 The reporter wanted to know who the hacker, who coded the software, had attacked with a virus. 
+14 76 The reporter wanted to know if the hacker, who coded the software, had attacked the NSA with a virus. 
+11 77 The teacher asked who the student who was failing math could talk to for some help. 
+12 77 The teacher asked if the student who was failing math could talk to anyone for some help. 
+13 77 The teacher asked who the student, who was failing math, could talk to for some help. 
+14 77 The teacher asked if the student, who was failing math, could talk to anyone for some help. 
+11 78 Billy forgot who the neighbor who moved from Indiana was dating this time last year. 
+12 78 Billy forgot if the neighbor who moved from Indiana was dating Susan this time last year. 
+13 78 Billy forgot who the neighbor, who moved from Indiana, was dating this time last year. 
+14 78 Billy forgot if the neighbor, who moved from Indiana, was dating Susan this time last year. 
+11 79 Pauline definitely knows who the bully who beat up George was harassing this week. 
+12 79 Pauline definitely knows if the bully who beat up George was harassing Paul this week. 
+13 79 Pauline definitely knows who the bully, who beat up George, was harassing this week. 
+14 79 Pauline definitely knows if the bully, who beat up George, was harassing Paul this week. 
+11 80 The barista wondered who the customer who ordered a decaf latte was meeting in the cafe . 
+12 80 The barista wondered if the customer who ordered a decaf latte was meeting someone in the cafe. 
+13 80 The barista wondered who the customer, who ordered a decaf latte, was meeting in the cafe. 
+14 80 The barista wondered if the customer, who ordered a decaf latte, was meeting someone in the cafe. 

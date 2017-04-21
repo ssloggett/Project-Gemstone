@@ -1,0 +1,7613 @@
+%BeginHeader
+The first experiment is Garnet items 1-48, conditions 1-8
+Question conds: 20-28
+The second experiment is Mauner, items 49-56, conditions 9-10
+Question conds: 30
+The third experiment is WHInt, items 57-80, conditions 11-14
+Questions: cond 40
+Filler sentences: cond 100, items 81-100
+Questions: cond: 101
+Use Monaco or Bitstream Vera Sans Mono font 11 point
+Display 1024 x 768
+x offset 16 pixels, y offset 350 pixels, 9 chars wide, 72 pixels spacing
+%EndHeader
+
+set conditions = 14
+set experiments = 3
+set expConditions = 8 2 4
+set background = 16777215
+set foreground = 0
+set filterMode = 2
+set windowThreshold = 0
+set calibration_type = 0
+set calibration_height = 1482170400
+set display_type = LCD
+
+trial_type question
+  text_format =    'Monaco' 11 24 18 315 nonantialiased
+  text_weight =    normal non-italic
+  button =         leftTrigger
+  button =         rightTrigger
+  output =         nostream
+  trigger =        nogaze
+  cursor_size =    0
+  dc_delay =       0
+  stimulus_delay = 0
+  revert =         0
+  highlight_color =131440
+end question
+
+trial_type sentence
+  text_format =    'Monaco' 11 24 18 315 nonantialiased
+  text_weight =    normal non-italic
+  button =         leftTrigger
+  button =         rightTrigger
+  output =         stream
+  trigger =        gaze
+  cursor_size =    0
+  dc_delay =       0
+  stimulus_delay = 0
+  revert =         0
+  highlight_color =131440
+end sentence
+
+trial_type Message
+  text_format =    'Monaco' 12 25 20 20 nonantialiased
+  text_weight =    normal non-italic
+  button =         Y
+  button =         X
+  button =         B
+  button =         A
+  button =         toggle
+  button =         leftTrigger
+  button =         rightTrigger
+  output =         nostream
+  trigger =        nogaze
+  cursor_size =    0
+  dc_delay =       0
+  stimulus_delay = 0
+  revert =         0
+  highlight_color =197148
+end Message
+
+trial P1I1D0
+  gc_rect =          (0 0 0 0)
+  inline =           |In the following experiment, you will be asked to read a series of sentences. \nSome of the sentences will be followed by a comprehension question about the sentence.\nWhen you have finished reading each sentence, pull the right trigger on the controller \nto advance to the question. To answer a question, press the left trigger to choose \nthe response on the left side of the screen, and the right trigger to choose the one \non the right side.  Before viewing each sentence, you will be asked to fixate on a box \nthat will appear on the left side of the screen.  Upon fixation, the sentence screen \nwill automatically advance. Please pull the right trigger to begin a practice session.
+  max_display_time = 3000000
+  trial_type =       Message
+end P1I1D0
+
+trial P1I1D1
+  gc_rect =          (400 20 500 60)
+  inline =           |Very few cars in this garage were made in Japan because this garage specializes in European cars.
+  max_display_time = 60000
+  trial_type =       sentence
+end P1I1D1
+
+trial P1I1D2
+  button =           leftTrigger
+  gc_rect =          (0 0 0 0)
+  inline =           |Does this garage specialize in European cars?\nYES                           NO
+  max_display_time = 60000
+  trial_type =       question
+end P1I1D2
+
+trial P1I1D3
+  gc_rect =          (400 20 500 60)
+  inline =           |The energetic boy running around the park didn't seem to mind when he tripped and hurt/ himself/.
+  max_display_time = 60000
+  trial_type =       sentence
+end P1I1D3
+
+trial P1I1D4
+  gc_rect =          (400 20 500 60)
+  inline =           |No one has ever made as much money as Bill Gates before.
+  max_display_time = 60000
+  trial_type =       sentence
+end P1I1D4
+
+trial P1I1D5
+  gc_rect =          (400 20 500 60)
+  inline =           |Tourists who visit Paris in the spring don't get to see much because the city is packed with people.
+  max_display_time = 60000
+  trial_type =       sentence
+end P1I1D5
+
+trial P1I1D6
+  button =           rightTrigger
+  gc_rect =          (0 0 0 0)
+  inline =           |Are tourists likely to see a lot if they visit Paris in the spring?\nYES                           NO
+  max_display_time = 60000
+  trial_type =       question
+end P1I1D6
+
+trial P1I1D7
+  gc_rect =          (0 0 0 0)
+  inline =           |END PRACTICE SESSION\n\nIf you need a break during the experiment (if your eyes get tired, for example),\n let the experimenter know.\nDo you have any questions?\nIf not, pull the right trigger to start the experiment.
+  max_display_time = 3000000
+  trial_type =       Message
+end P1I1D7
+
+trial E1I1D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous actress said that the respected feminist depicted/ herself/ as unfeeling and unaffected by public opinion.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I1D0
+
+trial E2I1D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous actor said that the respected feminist depicted/ herself/ as unfeeling and unaffected by public opinion.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I1D0
+
+trial E3I1D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous actress said that the persistent journalists depicted/ herself/ as unfeeling and unaffected by public opinion.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I1D0
+
+trial E4I1D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous actor said that the persistent journalists depicted/ herself/ as unfeeling and unaffected by public opinion.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I1D0
+
+trial E5I1D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous actress heard that the respected feminist depicted/ herself/ as unfeeling and unaffected by public opinion.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I1D0
+
+trial E6I1D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous actor heard that the respected feminist depicted/ herself/ as unfeeling and unaffected by public opinion.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I1D0
+
+trial E7I1D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous actress heard that the persistent journalists depicted/ herself/ as unfeeling and unaffected by public opinion.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I1D0
+
+trial E8I1D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous actor heard that the persistent journalists depicted/ herself/ as unfeeling and unaffected by public opinion.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I1D0
+
+trial E20I1D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the actress famous?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I1D1
+
+trial E21I1D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the actor famous?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I1D1
+
+trial E1I2D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The influential congresswoman said that the kindergarten teacher inspired/ herself/ to give back to the community more.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I2D0
+
+trial E2I2D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The influential congressman said that the kindergarten teacher inspired/ herself/ to give back to the community more.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I2D0
+
+trial E3I2D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The influential congresswoman said that the factory workers inspired/ herself/ to give back to the community more.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I2D0
+
+trial E4I2D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The influential congressman said that the factory workers inspired/ herself/ to give back to the community more.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I2D0
+
+trial E5I2D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The influential congresswoman heard that the kindergarten teacher inspired/ herself/ to give back to the community more.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I2D0
+
+trial E6I2D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The influential congressman heard that the kindergarten teacher inspired/ herself/ to give back to the community more.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I2D0
+
+trial E7I2D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The influential congresswoman heard that the factory workers inspired/ herself/ to give back to the community more.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I2D0
+
+trial E8I2D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The influential congressman heard that the factory workers inspired/ herself/ to give back to the community more.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I2D0
+
+trial E20I2D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the congresswoman influential?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I2D1
+
+trial E21I2D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the congressman influential?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I2D1
+
+trial E1I3D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious councilwoman insisted that the female journalist characterized/ herself/ as exceptionally helpful and diligent.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I3D0
+
+trial E2I3D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious councilman insisted that the female journalist characterized/ herself/ as exceptionally helpful and diligent.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I3D0
+
+trial E3I3D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious councilwoman insisted that the male journalists characterized/ herself/ as exceptionally helpful and diligent.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I3D0
+
+trial E4I3D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious councilman insisted that the male journalists characterized/ herself/ as exceptionally helpful and diligent.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I3D0
+
+trial E5I3D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious councilwoman noticed that the female journalist characterized/ herself/ as exceptionally helpful and diligent.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I3D0
+
+trial E6I3D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious councilman noticed that the female journalist characterized/ herself/ as exceptionally helpful and diligent.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I3D0
+
+trial E7I3D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious councilwoman noticed that the male journalists characterized/ herself/ as exceptionally helpful and diligent.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I3D0
+
+trial E8I3D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious councilman noticed that the male journalists characterized/ herself/ as exceptionally helpful and diligent.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I3D0
+
+trial E20I3D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the councilwoman industrious?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I3D1
+
+trial E21I3D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the councilman industrious?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I3D1
+
+trial E1I4D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female witness said that the distracted mistress misrepresented/ herself/ in the trial but the jury didn't buy it.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I4D0
+
+trial E2I4D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The male witness said that the distracted mistress misrepresented/ herself/ in the trial but the jury didn't buy it.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I4D0
+
+trial E3I4D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female witness said that the dishonest lawyers misrepresented/ herself/ in the trial but the jury didn't buy it.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I4D0
+
+trial E4I4D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The male witness said that the dishonest lawyers misrepresented/ herself/ in the trial but the jury didn't buy it.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I4D0
+
+trial E5I4D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female witness sensed that the distracted mistress misrepresented/ herself/ in the trial but the jury didn't buy it.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I4D0
+
+trial E6I4D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The male witness sensed that the distracted mistress misrepresented/ herself/ in the trial but the jury didn't buy it.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I4D0
+
+trial E7I4D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female witness sensed that the dishonest lawyers misrepresented/ herself/ in the trial but the jury didn't buy it.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I4D0
+
+trial E8I4D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The male witness sensed that the dishonest lawyers misrepresented/ herself/ in the trial but the jury didn't buy it.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I4D0
+
+trial E20I4D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the witness a woman?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I4D1
+
+trial E21I4D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the witness a man?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I4D1
+
+trial E1I5D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aspiring actress complained that the jealous beautician portrayed/ herself/ as dumb and unfashionable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I5D0
+
+trial E2I5D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aspiring actor complained that the jealous beautician portrayed/ herself/ as dumb and unfashionable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I5D0
+
+trial E3I5D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aspiring actress complained that the film directors portrayed/ herself/ as dumb and unfashionable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I5D0
+
+trial E4I5D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aspiring actor complained that the film directors portrayed/ herself/ as dumb and unfashionable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I5D0
+
+trial E5I5D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aspiring actress overheard that the jealous beautician portrayed/ herself/ as dumb and unfashionable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I5D0
+
+trial E6I5D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aspiring actor overheard that the jealous beautician portrayed/ herself/ as dumb and unfashionable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I5D0
+
+trial E7I5D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aspiring actress overheard that the film directors portrayed/ herself/ as dumb and unfashionable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I5D0
+
+trial E8I5D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aspiring actor overheard that the film directors portrayed/ herself/ as dumb and unfashionable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I5D0
+
+trial E20I5D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the actress aspiring?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I5D1
+
+trial E21I5D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the actor aspiring?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I5D1
+
+trial E1I6D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The skilled businesswoman reported that the new saleswoman described/ herself/ as hardworking and industrious during the interview.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I6D0
+
+trial E2I6D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The skilled businessman reported that the new saleswoman described/ herself/ as hardworking and industrious during the interview.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I6D0
+
+trial E3I6D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The skilled businesswoman reported that the new salesmen described/ herself/ as hardworking and industrious during the interview.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I6D0
+
+trial E4I6D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The skilled businessman reported that the new salesmen described/ herself/ as hardworking and industrious during the interview.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I6D0
+
+trial E5I6D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The skilled businesswoman saw that the new saleswoman described/ herself/ as hardworking and industrious during the interview.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I6D0
+
+trial E6I6D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The skilled businessman saw that the new saleswoman described/ herself/ as hardworking and industrious during the interview.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I6D0
+
+trial E7I6D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The skilled businesswoman saw that the new salesmen described/ herself/ as hardworking and industrious during the interview.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I6D0
+
+trial E8I6D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The skilled businessman saw that the new salesmen described/ herself/ as hardworking and industrious during the interview.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I6D0
+
+trial E20I6D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the businesswoman skilled?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I6D1
+
+trial E21I6D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the businessman skilled?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I6D1
+
+trial E1I7D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gorgeous supermodel boasted that the snobby princess underestimated/ herself/ when it came to giving public speeches.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I7D0
+
+trial E2I7D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The handsome actor boasted that the snobby princess underestimated/ herself/ when it came to giving public speeches.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I7D0
+
+trial E3I7D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gorgeous supermodel boasted that the dapper princes underestimated/ herself/ when it came to giving public speeches.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I7D0
+
+trial E4I7D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The handsome actor boasted that the dapper princes underestimated/ herself/ when it came to giving public speeches.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I7D0
+
+trial E5I7D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gorgeous supermodel noticed that the snobby princess underestimated/ herself/ when it came to giving public speeches.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I7D0
+
+trial E6I7D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The handsome actor noticed that the snobby princess underestimated/ herself/ when it came to giving public speeches.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I7D0
+
+trial E7I7D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gorgeous supermodel noticed that the dapper princes underestimated/ herself/ when it came to giving public speeches.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I7D0
+
+trial E8I7D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The handsome actor noticed that the dapper princes underestimated/ herself/ when it came to giving public speeches.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I7D0
+
+trial E20I7D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the supermodel snobby?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I7D1
+
+trial E21I7D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the actor snobby?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I7D1
+
+trial E1I8D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The radical feminist admitted that the armored policewoman prevented/ herself/ from making a mistake by joining the unsafe protest.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I8D0
+
+trial E2I8D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The scruffy protester admitted that the armored policewoman prevented/ herself/ from making a mistake by joining the unsafe protest.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I8D0
+
+trial E3I8D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The radical feminist admitted that the armored policemen prevented/ herself/ from making a mistake by joining the unsafe protest.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I8D0
+
+trial E4I8D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The scruffy protester admitted that the armored policemen prevented/ herself/ from making a mistake by joining the unsafe protest.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I8D0
+
+trial E5I8D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The radical feminist saw that the armored policewoman prevented/ herself/ from making a mistake by joining the unsafe protest.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I8D0
+
+trial E6I8D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The scruffy protester saw that the armored policewoman prevented/ herself/ from making a mistake by joining the unsafe protest.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I8D0
+
+trial E7I8D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The radical feminist saw that the armored policemen prevented/ herself/ from making a mistake by joining the unsafe protest.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I8D0
+
+trial E8I8D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The scruffy protester saw that the armored policemen prevented/ herself/ from making a mistake by joining the unsafe protest.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I8D0
+
+trial E20I8D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the feminist armored?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I8D1
+
+trial E21I8D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the protester armored?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I8D1
+
+trial E1I9D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gullible librarian admitted that the mischievous schoolgirl tricked/ herself/ into believing that the story was true.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I9D0
+
+trial E2I9D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gullible principal admitted that the mischievous schoolgirl tricked/ herself/ into believing that the story was true.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I9D0
+
+trial E3I9D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gullible librarian admitted that the mischievous schoolboys tricked/ herself/ into believing that the story was true.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I9D0
+
+trial E4I9D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gullible principal admitted that the mischievous schoolboys tricked/ herself/ into believing that the story was true.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I9D0
+
+trial E5I9D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gullible librarian saw that the mischievous schoolgirl tricked/ herself/ into believing that the story was true.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I9D0
+
+trial E6I9D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gullible principal saw that the mischievous schoolgirl tricked/ herself/ into believing that the story was true.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I9D0
+
+trial E7I9D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gullible librarian saw that the mischievous schoolboys tricked/ herself/ into believing that the story was true.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I9D0
+
+trial E8I9D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The gullible principal saw that the mischievous schoolboys tricked/ herself/ into believing that the story was true.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I9D0
+
+trial E20I9D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the librarian mischievous?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I9D1
+
+trial E21I9D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the principal mischievous?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I9D1
+
+trial E1I10D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The innocent secretary said that the high-heeled lawyer defended/ herself/ in the case last month.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I10D0
+
+trial E2I10D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The innocent manager said that the high-heeled lawyer defended/ herself/ in the case last month.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I10D0
+
+trial E3I10D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The innocent secretary said that the persuasive lawyers defended/ herself/ in the case last month.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I10D0
+
+trial E4I10D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The innocent manager said that the persuasive lawyers defended/ herself/ in the case last month.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I10D0
+
+trial E5I10D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The innocent secretary noticed that the high-heeled lawyer defended/ herself/ in the case last month.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I10D0
+
+trial E6I10D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The innocent manager noticed that the high-heeled lawyer defended/ herself/ in the case last month.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I10D0
+
+trial E7I10D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The innocent secretary noticed that the persuasive lawyers defended/ herself/ in the case last month.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I10D0
+
+trial E8I10D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The innocent manager noticed that the persuasive lawyers defended/ herself/ in the case last month.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I10D0
+
+trial E20I10D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the secretary high-heeled?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I10D1
+
+trial E21I10D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the manager high-heeled?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I10D1
+
+trial E1I11D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The flustered nurse complained that the elderly widow considered/ herself/ to be very attractive and made suggestive comments.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I11D0
+
+trial E2I11D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The flustered doctor complained that the elderly widow considered/ herself/ to be very attractive and made suggestive comments.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I11D0
+
+trial E3I11D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The flustered nurse complained that the elderly veterans considered/ herself/ to be very attractive and made suggestive comments.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I11D0
+
+trial E4I11D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The flustered doctor complained that the elderly veterans considered/ herself/ to be very attractive and made suggestive comments.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I11D0
+
+trial E5I11D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The flustered nurse noticed that the elderly widow considered/ herself/ to be very attractive and made suggestive comments.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I11D0
+
+trial E6I11D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The flustered doctor noticed that the elderly widow considered/ herself/ to be very attractive and made suggestive comments.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I11D0
+
+trial E7I11D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The flustered nurse noticed that the elderly veterans considered/ herself/ to be very attractive and made suggestive comments.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I11D0
+
+trial E8I11D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The flustered doctor noticed that the elderly veterans considered/ herself/ to be very attractive and made suggestive comments.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I11D0
+
+trial E20I11D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the nurse elderly?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I11D1
+
+trial E21I11D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the doctor elderly?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I11D1
+
+trial E1I12D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The buxom waitress mentioned that the bossy hostess recommended/ herself/ for a new position in the kitchen.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I12D0
+
+trial E2I12D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The scruffy waiter mentioned that the bossy hostess recommended/ herself/ for a new position in the kitchen.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I12D0
+
+trial E3I12D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The buxom waitress mentioned that the bossy chefs recommended/ herself/ for a new position in the kitchen.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I12D0
+
+trial E4I12D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The scruffy waiter mentioned that the bossy chefs recommended/ herself/ for a new position in the kitchen.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I12D0
+
+trial E5I12D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The buxom waitress heard that the bossy hostess recommended/ herself/ for a new position in the kitchen.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I12D0
+
+trial E6I12D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The scruffy waiter heard that the bossy hostess recommended/ herself/ for a new position in the kitchen.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I12D0
+
+trial E7I12D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The buxom waitress heard that the bossy chefs recommended/ herself/ for a new position in the kitchen.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I12D0
+
+trial E8I12D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The scruffy waiter heard that the bossy chefs recommended/ herself/ for a new position in the kitchen.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I12D0
+
+trial E20I12D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the waitress bossy?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E20I12D1
+
+trial E21I12D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the waiter bossy?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E21I12D1
+
+trial E1I13D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The elderly woman insisted that the devout nun forgave/ herself/ for the indiscretion from years ago.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I13D0
+
+trial E2I13D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The elderly man insisted that the devout nun forgave/ herself/ for the indiscretion from years ago.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I13D0
+
+trial E3I13D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The elderly woman insisted that the devout priests forgave/ herself/ for the indiscretion from years ago.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I13D0
+
+trial E4I13D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The elderly man insisted that the devout priests forgave/ herself/ for the indiscretion from years ago.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I13D0
+
+trial E5I13D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The elderly woman sensed that the devout nun forgave/ herself/ for the indiscretion from years ago.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I13D0
+
+trial E6I13D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The elderly man sensed that the devout nun forgave/ herself/ for the indiscretion from years ago.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I13D0
+
+trial E7I13D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The elderly woman sensed that the devout priests forgave/ herself/ for the indiscretion from years ago.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I13D0
+
+trial E8I13D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The elderly man sensed that the devout priests forgave/ herself/ for the indiscretion from years ago.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I13D0
+
+trial E22I13D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the nun devout?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I13D1
+
+trial E23I13D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the priests devout?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I13D1
+
+trial E1I14D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The polite nanny argued that the dishonest maid should blame/ herself/ for the accident that happened in the driveway.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I14D0
+
+trial E2I14D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The polite mailman argued that the dishonest maid should blame/ herself/ for the accident that happened in the driveway.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I14D0
+
+trial E3I14D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The polite nanny argued that the dishonest gardeners should blame/ herself/ for the accident that happened in the driveway.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I14D0
+
+trial E4I14D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The polite mailman argued that the dishonest gardeners should blame/ herself/ for the accident that happened in the driveway.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I14D0
+
+trial E5I14D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The polite nanny saw that the dishonest maid should blame/ herself/ for the accident that happened in the driveway.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I14D0
+
+trial E6I14D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The polite mailman saw that the dishonest maid should blame/ herself/ for the accident that happened in the driveway.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I14D0
+
+trial E7I14D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The polite nanny saw that the dishonest gardeners should blame/ herself/ for the accident that happened in the driveway.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I14D0
+
+trial E8I14D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The polite mailman saw that the dishonest gardeners should blame/ herself/ for the accident that happened in the driveway.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I14D0
+
+trial E22I14D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the maid dishonest?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I14D1
+
+trial E23I14D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the gardeners dishonest?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I14D1
+
+trial E1I15D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy seamstress insisted that the flustered woman had distracted/ herself/ from the difficult and important task.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I15D0
+
+trial E2I15D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy tailor insisted that the flustered woman had distracted/ herself/ from the difficult and important task.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I15D0
+
+trial E3I15D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy seamstress insisted that the noisy men had distracted/ herself/ from the difficult and important task.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I15D0
+
+trial E4I15D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy tailor insisted that the noisy men had distracted/ herself/ from the difficult and important task.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I15D0
+
+trial E5I15D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy seamstress saw that the flustered woman had distracted/ herself/ from the difficult and important task.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I15D0
+
+trial E6I15D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy tailor saw that the flustered woman had distracted/ herself/ from the difficult and important task.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I15D0
+
+trial E7I15D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy seamstress saw that the noisy men had distracted/ herself/ from the difficult and important task.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I15D0
+
+trial E8I15D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy tailor saw that the noisy men had distracted/ herself/ from the difficult and important task.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I15D0
+
+trial E22I15D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the woman flustered?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I15D1
+
+trial E23I15D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the men flustered?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I15D1
+
+trial E1I16D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The sorority girl mentioned that the pretty cheerleader photographed/ herself/ in the new, backless dress for the party.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I16D0
+
+trial E2I16D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The frat boy mentioned that the pretty cheerleader photographed/ herself/ in the new, backless dress for the party.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I16D0
+
+trial E3I16D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The sorority girl mentioned that the muscular football players photographed/ herself/ in the new, backless dress for the party.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I16D0
+
+trial E4I16D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The frat boy mentioned that the muscular football players photographed/ herself/ in the new, backless dress for the party.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I16D0
+
+trial E5I16D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The sorority girl saw that the pretty cheerleader photographed/ herself/ in the new, backless dress for the party.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I16D0
+
+trial E6I16D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The frat boy saw that the pretty cheerleader photographed/ herself/ in the new, backless dress for the party.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I16D0
+
+trial E7I16D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The sorority girl saw that the muscular football players photographed/ herself/ in the new, backless dress for the party.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I16D0
+
+trial E8I16D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The frat boy saw that the muscular football players photographed/ herself/ in the new, backless dress for the party.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I16D0
+
+trial E22I16D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the cheerleader pretty?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I16D1
+
+trial E23I16D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the football players pretty?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I16D1
+
+trial E1I17D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The proud mother boasted that the ingenious girl scout taught/ herself/ how to build a fire using only two sticks and a rock.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I17D0
+
+trial E2I17D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The rugged hiker boasted that the ingenious girl scout taught/ herself/ how to build a fire using only two sticks and a rock.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I17D0
+
+trial E3I17D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The proud mother boasted that the ingenious boy scouts taught/ herself/ how to build a fire using only two sticks and a rock.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I17D0
+
+trial E4I17D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The rugged hiker boasted that the ingenious boy scouts taught/ herself/ how to build a fire using only two sticks and a rock.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I17D0
+
+trial E5I17D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The proud mother saw that the ingenious girl scout taught/ herself/ how to build a fire using only two sticks and a rock.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I17D0
+
+trial E6I17D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The rugged hiker saw that the ingenious girl scout taught/ herself/ how to build a fire using only two sticks and a rock.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I17D0
+
+trial E7I17D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The proud mother saw that the ingenious boy scouts taught/ herself/ how to build a fire using only two sticks and a rock.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I17D0
+
+trial E8I17D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The rugged hiker saw that the ingenious boy scouts taught/ herself/ how to build a fire using only two sticks and a rock.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I17D0
+
+trial E22I17D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the girl ingenious?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I17D1
+
+trial E23I17D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the boy scouts ingenious?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I17D1
+
+trial E1I18D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teenage girl said that the matronly coach motivated/ herself/ to win the state championship this season.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I18D0
+
+trial E2I18D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teenage boy said that the matronly coach motivated/ herself/ to win the state championship this season.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I18D0
+
+trial E3I18D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teenage girl said that the basketball coaches motivated/ herself/ to win the state championship this season.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I18D0
+
+trial E4I18D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teenage boy said that the basketball coaches motivated/ herself/ to win the state championship this season.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I18D0
+
+trial E5I18D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teenage girl heard that the matronly coach motivated/ herself/ to win the state championship this season.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I18D0
+
+trial E6I18D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teenage boy heard that the matronly coach motivated/ herself/ to win the state championship this season.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I18D0
+
+trial E7I18D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teenage girl heard that the basketball coaches motivated/ herself/ to win the state championship this season.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I18D0
+
+trial E8I18D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teenage boy heard that the basketball coaches motivated/ herself/ to win the state championship this season.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I18D0
+
+trial E22I18D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the coach matronly?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I18D1
+
+trial E23I18D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were they basketball coaches?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I18D1
+
+trial E1I19D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The shy schoolgirl confessed that the strict librarian had embarrassed/ herself/ in the cafeteria during lunch.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I19D0
+
+trial E2I19D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The shy schoolboy confessed that the strict librarian had embarrassed/ herself/ in the cafeteria during lunch.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I19D0
+
+trial E3I19D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The shy schoolgirl confessed that the mean bullies had embarrassed/ herself/ in the cafeteria during lunch.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I19D0
+
+trial E4I19D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The shy schoolboy confessed that the mean bullies had embarrassed/ herself/ in the cafeteria during lunch.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I19D0
+
+trial E5I19D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The shy schoolgirl overheard that the strict librarian had embarrassed/ herself/ in the cafeteria during lunch.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I19D0
+
+trial E6I19D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The shy schoolboy overheard that the strict librarian had embarrassed/ herself/ in the cafeteria during lunch.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I19D0
+
+trial E7I19D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The shy schoolgirl overheard that the mean bullies had embarrassed/ herself/ in the cafeteria during lunch.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I19D0
+
+trial E8I19D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The shy schoolboy overheard that the mean bullies had embarrassed/ herself/ in the cafeteria during lunch.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I19D0
+
+trial E22I19D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the librarian shy?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I19D1
+
+trial E23I19D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the bullies shy?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I19D1
+
+trial E1I20D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irate congresswoman insisted that the demure suspect had revealed/ herself/ to be the real criminal by refusing to testify.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I20D0
+
+trial E2I20D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irate congressman insisted that the demure suspect had revealed/ herself/ to be the real criminal by refusing to testify.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I20D0
+
+trial E3I20D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irate congresswoman insisted that the brawny suspects had revealed/ herself/ to be the real criminal by refusing to testify.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I20D0
+
+trial E4I20D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irate congressman insisted that the brawny suspects had revealed/ herself/ to be the real criminal by refusing to testify.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I20D0
+
+trial E5I20D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irate congresswoman sensed that the demure suspect had revealed/ herself/ to be the real criminal by refusing to testify.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I20D0
+
+trial E6I20D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irate congressman sensed that the demure suspect had revealed/ herself/ to be the real criminal by refusing to testify.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I20D0
+
+trial E7I20D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irate congresswoman sensed that the brawny suspects had revealed/ herself/ to be the real criminal by refusing to testify.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I20D0
+
+trial E8I20D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irate congressman sensed that the brawny suspects had revealed/ herself/ to be the real criminal by refusing to testify.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I20D0
+
+trial E22I20D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the suspect irate?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I20D1
+
+trial E23I20D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the suspects irate?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I20D1
+
+trial E1I21D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The graceful harpist said that the chatty choirgirl promoted/ herself/ as a famous musician in the making.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I21D0
+
+trial E2I21D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The somber minister said that the chatty choirgirl promoted/ herself/ as a famous musician in the making.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I21D0
+
+trial E3I21D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The graceful harpist said that the boisterous choirboys promoted/ herself/ as a famous musician in the making.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I21D0
+
+trial E4I21D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The somber minister said that the boisterous choirboys promoted/ herself/ as a famous musician in the making.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I21D0
+
+trial E5I21D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The graceful harpist overheard that the chatty choirgirl promoted/ herself/ as a famous musician in the making.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I21D0
+
+trial E6I21D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The somber minister overheard that the chatty choirgirl promoted/ herself/ as a famous musician in the making.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I21D0
+
+trial E7I21D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The graceful harpist overheard that the boisterous choirboys promoted/ herself/ as a famous musician in the making.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I21D0
+
+trial E8I21D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The somber minister overheard that the boisterous choirboys promoted/ herself/ as a famous musician in the making.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I21D0
+
+trial E22I21D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the choirgirl graceful?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I21D1
+
+trial E23I21D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the choirboys somber?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I21D1
+
+trial E1I22D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The strict nanny complained that the ditzy babysitter fooled/ herself/ into thinking the job was done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I22D0
+
+trial E2I22D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The paranoid foreman complained that the ditzy babysitter fooled/ herself/ into thinking the job was done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I22D0
+
+trial E3I22D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The strict nanny complained that the grimy plumbers fooled/ herself/ into thinking the job was done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I22D0
+
+trial E4I22D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The paranoid foreman complained that the grimy plumbers fooled/ herself/ into thinking the job was done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I22D0
+
+trial E5I22D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The strict nanny sensed that the ditzy babysitter fooled/ herself/ into thinking the job was done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I22D0
+
+trial E6I22D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The paranoid foreman sensed that the ditzy babysitter fooled/ herself/ into thinking the job was done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I22D0
+
+trial E7I22D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The strict nanny sensed that the grimy plumbers fooled/ herself/ into thinking the job was done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I22D0
+
+trial E8I22D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The paranoid foreman sensed that the grimy plumbers fooled/ herself/ into thinking the job was done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I22D0
+
+trial E22I22D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the babysitter strict?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I22D1
+
+trial E23I22D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the plumbers paranoid?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I22D1
+
+trial E1I23D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The nimble gymnast mentioned that the fashion designer dressed/ herself/ up for the gala at the Met tonight.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I23D0
+
+trial E2I23D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The bashful bodybuilder mentioned that the fashion designer dressed/ herself/ up for the gala at the Met tonight.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I23D0
+
+trial E3I23D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The nimble gymnast mentioned that the fashionable studs dressed/ herself/ up for the gala at the Met tonight.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I23D0
+
+trial E4I23D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The bashful bodybuilder mentioned that the fashionable studs dressed/ herself/ up for the gala at the Met tonight.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I23D0
+
+trial E5I23D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The nimble gymnast saw that the fashion designer dressed/ herself/ up for the gala at the Met tonight.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I23D0
+
+trial E6I23D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The bashful bodybuilder saw that the fashion designer dressed/ herself/ up for the gala at the Met tonight.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I23D0
+
+trial E7I23D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The nimble gymnast saw that the fashionable studs dressed/ herself/ up for the gala at the Met tonight.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I23D0
+
+trial E8I23D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The bashful bodybuilder saw that the fashionable studs dressed/ herself/ up for the gala at the Met tonight.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I23D0
+
+trial E22I23D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the fashion designer nimble?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I23D1
+
+trial E23I23D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the fashionable studs bashful?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I23D1
+
+trial E1I24D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aging nun admitted that the prominent congresswoman underestimated/ herself/ during the long and grueling campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I24D0
+
+trial E2I24D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aging monk admitted that the prominent congresswoman underestimated/ herself/ during the long and grueling campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I24D0
+
+trial E3I24D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aging nun admitted that the prominent congressmen underestimated/ herself/ during the long and grueling campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I24D0
+
+trial E4I24D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aging monk admitted that the prominent congressmen underestimated/ herself/ during the long and grueling campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I24D0
+
+trial E5I24D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aging nun overheard that the prominent congresswoman underestimated/ herself/ during the long and grueling campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I24D0
+
+trial E6I24D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aging monk overheard that the prominent congresswoman underestimated/ herself/ during the long and grueling campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I24D0
+
+trial E7I24D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aging nun overheard that the prominent congressmen underestimated/ herself/ during the long and grueling campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I24D0
+
+trial E8I24D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The aging monk overheard that the prominent congressmen underestimated/ herself/ during the long and grueling campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I24D0
+
+trial E22I24D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the congresswoman aging?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E22I24D1
+
+trial E23I24D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Were the congressmen aging?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E23I24D1
+
+trial E1I25D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The impatient manager insisted that the arrogant actor had committed/ himself/ to a contract for four years with the film studio.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I25D0
+
+trial E2I25D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The high-heeled publicist insisted that the arrogant actor had committed/ himself/ to a contract for four years with the film studio.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I25D0
+
+trial E3I25D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The impatient manager insisted that the dramatic actresses had committed/ himself/ to a contract for four years with the film studio.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I25D0
+
+trial E4I25D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The high-heeled publicist insisted that the dramatic actresses had committed/ himself/ to a contract for four years with the film studio.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I25D0
+
+trial E5I25D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The impatient manager heard that the arrogant actor had committed/ himself/ to a contract for four years with the film studio.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I25D0
+
+trial E6I25D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The high-heeled publicist heard that the arrogant actor had committed/ himself/ to a contract for four years with the film studio.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I25D0
+
+trial E7I25D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The impatient manager heard that the dramatic actresses had committed/ himself/ to a contract for four years with the film studio.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I25D0
+
+trial E8I25D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The high-heeled publicist heard that the dramatic actresses had committed/ himself/ to a contract for four years with the film studio.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I25D0
+
+trial E24I25D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Did someone commit to a four year contract?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I25D1
+
+trial E1I26D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious schoolboy said that the stern principal allowed/ himself/ to take a break from archiving.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I26D0
+
+trial E2I26D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious schoolgirl said that the stern principal allowed/ himself/ to take a break from archiving.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I26D0
+
+trial E3I26D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious schoolboy said that the stern librarians allowed/ himself/ to take a break from archiving.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I26D0
+
+trial E4I26D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious schoolgirl said that the stern librarians allowed/ himself/ to take a break from archiving.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I26D0
+
+trial E5I26D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious schoolboy noticed that the stern principal allowed/ himself/ to take a break from archiving.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I26D0
+
+trial E6I26D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious schoolgirl noticed that the stern principal allowed/ himself/ to take a break from archiving.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I26D0
+
+trial E7I26D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious schoolboy noticed that the stern librarians allowed/ himself/ to take a break from archiving.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I26D0
+
+trial E8I26D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The industrious schoolgirl noticed that the stern librarians allowed/ himself/ to take a break from archiving.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I26D0
+
+trial E24I26D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Did someone take a break from archiving?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I26D1
+
+trial E1I27D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The trustworthy policeman reported that the bank robber criticized/ himself/ for the error during the trial.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I27D0
+
+trial E2I27D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The trustworthy policewoman reported that the bank robber criticized/ himself/ for the error during the trial.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I27D0
+
+trial E3I27D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The trustworthy policeman reported that the female reporters criticized/ himself/ for the error during the trial.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I27D0
+
+trial E4I27D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The trustworthy policewoman reported that the female reporters criticized/ himself/ for the error during the trial.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I27D0
+
+trial E5I27D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The trustworthy policeman overheard that the bank robber criticized/ himself/ for the error during the trial.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I27D0
+
+trial E6I27D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The trustworthy policewoman overheard that the bank robber criticized/ himself/ for the error during the trial.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I27D0
+
+trial E7I27D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The trustworthy policeman overheard that the female reporters criticized/ himself/ for the error during the trial.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I27D0
+
+trial E8I27D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The trustworthy policewoman overheard that the female reporters criticized/ himself/ for the error during the trial.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I27D0
+
+trial E24I27D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Did someone make an noticeable error?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I27D1
+
+trial E1I28D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The talented director said that the rude photographer described/ himself/ as cruel and abusive in the workplace.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I28D0
+
+trial E2I28D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The beautiful supermodel said that the rude photographer described/ himself/ as cruel and abusive in the workplace.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I28D0
+
+trial E3I28D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The talented director said that the female journalists described/ himself/ as cruel and abusive in the workplace.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I28D0
+
+trial E4I28D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The beautiful supermodel said that the female journalists described/ himself/ as cruel and abusive in the workplace.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I28D0
+
+trial E5I28D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The talented director noticed that the rude photographer described/ himself/ as cruel and abusive in the workplace.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I28D0
+
+trial E6I28D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The beautiful supermodel noticed that the rude photographer described/ himself/ as cruel and abusive in the workplace.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I28D0
+
+trial E7I28D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The talented director noticed that the female journalists described/ himself/ as cruel and abusive in the workplace.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I28D0
+
+trial E8I28D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The beautiful supermodel noticed that the female journalists described/ himself/ as cruel and abusive in the workplace.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I28D0
+
+trial E24I28D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was someone abusive in the workplace?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I28D1
+
+trial E1I29D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The republican senator boasted that the authoritative spokesman distinguished/ himself/ with honor and composure during the conflict.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I29D0
+
+trial E2I29D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The dutiful receptionist boasted that the authoritative spokesman distinguished/ himself/ with honor and composure during the conflict.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I29D0
+
+trial E3I29D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The republican senator boasted that the pretty spokeswomen distinguished/ himself/ with honor and composure during the conflict.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I29D0
+
+trial E4I29D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The dutiful receptionist boasted that the pretty spokeswomen distinguished/ himself/ with honor and composure during the conflict.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I29D0
+
+trial E5I29D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The republican senator saw that the authoritative spokesman distinguished/ himself/ with honor and composure during the conflict.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I29D0
+
+trial E6I29D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The dutiful receptionist saw that the authoritative spokesman distinguished/ himself/ with honor and composure during the conflict.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I29D0
+
+trial E7I29D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The republican senator saw that the pretty spokeswomen distinguished/ himself/ with honor and composure during the conflict.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I29D0
+
+trial E8I29D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The dutiful receptionist saw that the pretty spokeswomen distinguished/ himself/ with honor and composure during the conflict.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I29D0
+
+trial E24I29D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Did someone distinguish themselves during the conflict?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I29D1
+
+trial E1I30D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The wealthy banker argued that the inarticulate entrepreneur cast/ himself/ in a negative and slanderous light at the board meeting.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I30D0
+
+trial E2I30D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The diligent secretary argued that the inarticulate entrepreneur cast/ himself/ in a negative and slanderous light at the board meeting.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I30D0
+
+trial E3I30D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The wealthy banker argued that the feminist activists cast/ himself/ in a negative and slanderous light at the board meeting.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I30D0
+
+trial E4I30D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The diligent secretary argued that the feminist activists cast/ himself/ in a negative and slanderous light at the board meeting.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I30D0
+
+trial E5I30D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The wealthy banker saw that the inarticulate entrepreneur cast/ himself/ in a negative and slanderous light at the board meeting.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I30D0
+
+trial E6I30D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The diligent secretary saw that the inarticulate entrepreneur cast/ himself/ in a negative and slanderous light at the board meeting.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I30D0
+
+trial E7I30D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The wealthy banker saw that the feminist activists cast/ himself/ in a negative and slanderous light at the board meeting.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I30D0
+
+trial E8I30D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The diligent secretary saw that the feminist activists cast/ himself/ in a negative and slanderous light at the board meeting.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I30D0
+
+trial E24I30D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was someone cast in a negative light?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I30D1
+
+trial E1I31D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave soldier said that the war correspondent scared/ himself/ during the long and pitched campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I31D0
+
+trial E2I31D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy secretary said that the war correspondent scared/ himself/ during the long and pitched campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I31D0
+
+trial E3I31D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave soldier said that the female correspondents scared/ himself/ during the long and pitched campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I31D0
+
+trial E4I31D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy secretary said that the female correspondents scared/ himself/ during the long and pitched campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I31D0
+
+trial E5I31D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave soldier heard that the war correspondent scared/ himself/ during the long and pitched campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I31D0
+
+trial E6I31D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy secretary heard that the war correspondent scared/ himself/ during the long and pitched campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I31D0
+
+trial E7I31D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave soldier heard that the female correspondents scared/ himself/ during the long and pitched campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I31D0
+
+trial E8I31D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The busy secretary heard that the female correspondents scared/ himself/ during the long and pitched campaign.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I31D0
+
+trial E24I31D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the campaign brief?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I31D1
+
+trial E1I32D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The charming butcher boasted that the picky chef praised/ himself/ for a job skillfully and tastefully done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I32D0
+
+trial E2I32D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The pretty florist boasted that the picky chef praised/ himself/ for a job skillfully and tastefully done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I32D0
+
+trial E3I32D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The charming butcher boasted that the artsy critics praised/ himself/ for a job skillfully and tastefully done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I32D0
+
+trial E4I32D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The pretty florist boasted that the artsy critics praised/ himself/ for a job skillfully and tastefully done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I32D0
+
+trial E5I32D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The charming butcher overheard that the picky chef praised/ himself/ for a job skillfully and tastefully done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I32D0
+
+trial E6I32D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The pretty florist overheard that the picky chef praised/ himself/ for a job skillfully and tastefully done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I32D0
+
+trial E7I32D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The charming butcher overheard that the artsy critics praised/ himself/ for a job skillfully and tastefully done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I32D0
+
+trial E8I32D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The pretty florist overheard that the artsy critics praised/ himself/ for a job skillfully and tastefully done.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I32D0
+
+trial E24I32D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the job poorly done?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I32D1
+
+trial E1I33D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The security guard admitted that the male witness identified/ himself/ as a potential suspect in the ongoing investigation.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I33D0
+
+trial E2I33D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The friendly receptionist admitted that the male witness identified/ himself/ as a potential suspect in the ongoing investigation.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I33D0
+
+trial E3I33D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The security guard admitted that the female witnesses identified/ himself/ as a potential suspect in the ongoing investigation.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I33D0
+
+trial E4I33D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The friendly receptionist admitted that the female witnesses identified/ himself/ as a potential suspect in the ongoing investigation.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I33D0
+
+trial E5I33D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The security guard heard that the male witness identified/ himself/ as a potential suspect in the ongoing investigation.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I33D0
+
+trial E6I33D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The friendly receptionist heard that the male witness identified/ himself/ as a potential suspect in the ongoing investigation.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I33D0
+
+trial E7I33D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The security guard heard that the female witnesses identified/ himself/ as a potential suspect in the ongoing investigation.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I33D0
+
+trial E8I33D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The friendly receptionist heard that the female witnesses identified/ himself/ as a potential suspect in the ongoing investigation.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I33D0
+
+trial E24I33D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the investigation over?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I33D1
+
+trial E1I34D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The legendary rock star said that the band manager inspired/ himself/ to write a new song about social injustice.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I34D0
+
+trial E2I34D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The legendary pop diva said that the band manager inspired/ himself/ to write a new song about social injustice.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I34D0
+
+trial E3I34D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The legendary rock star said that the ditzy groupies inspired/ himself/ to write a new song about social injustice.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I34D0
+
+trial E4I34D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The legendary pop diva said that the ditzy groupies inspired/ himself/ to write a new song about social injustice.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I34D0
+
+trial E5I34D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The legendary rock star overheard that the band manager inspired/ himself/ to write a new song about social injustice.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I34D0
+
+trial E6I34D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The legendary pop diva overheard that the band manager inspired/ himself/ to write a new song about social injustice.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I34D0
+
+trial E7I34D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The legendary rock star overheard that the ditzy groupies inspired/ himself/ to write a new song about social injustice.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I34D0
+
+trial E8I34D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The legendary pop diva overheard that the ditzy groupies inspired/ himself/ to write a new song about social injustice.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I34D0
+
+trial E24I34D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the song about an ex-girlfriend?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I34D1
+
+trial E1I35D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brilliant detective reported that the jail warden convinced/ himself/ that the testimony was false and unreliable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I35D0
+
+trial E2I35D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The severe newswoman reported that the jail warden convinced/ himself/ that the testimony was false and unreliable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I35D0
+
+trial E3I35D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brilliant detective reported that the elderly women convinced/ himself/ that the testimony was false and unreliable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I35D0
+
+trial E4I35D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The severe newswoman reported that the elderly women convinced/ himself/ that the testimony was false and unreliable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I35D0
+
+trial E5I35D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brilliant detective observed that the jail warden convinced/ himself/ that the testimony was false and unreliable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I35D0
+
+trial E6I35D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The severe newswoman observed that the jail warden convinced/ himself/ that the testimony was false and unreliable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I35D0
+
+trial E7I35D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brilliant detective observed that the elderly women convinced/ himself/ that the testimony was false and unreliable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I35D0
+
+trial E8I35D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The severe newswoman observed that the elderly women convinced/ himself/ that the testimony was false and unreliable.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I35D0
+
+trial E24I35D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the testimony unquestionably sound?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I35D1
+
+trial E1I36D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The corrupt senator insisted that the outspoken councilman would appoint/ himself/ as the new county commissioner before the election.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I36D0
+
+trial E2I36D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female senator insisted that the outspoken councilman would appoint/ himself/ as the new county commissioner before the election.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I36D0
+
+trial E3I36D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The corrupt senator insisted that the outspoken councilwomen would appoint/ himself/ as the new county commissioner before the election.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I36D0
+
+trial E4I36D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female senator insisted that the outspoken councilwomen would appoint/ himself/ as the new county commissioner before the election.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I36D0
+
+trial E5I36D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The corrupt senator sensed that the outspoken councilman would appoint/ himself/ as the new county commissioner before the election.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I36D0
+
+trial E6I36D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female senator sensed that the outspoken councilman would appoint/ himself/ as the new county commissioner before the election.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I36D0
+
+trial E7I36D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The corrupt senator sensed that the outspoken councilwomen would appoint/ himself/ as the new county commissioner before the election.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I36D0
+
+trial E8I36D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female senator sensed that the outspoken councilwomen would appoint/ himself/ as the new county commissioner before the election.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I36D0
+
+trial E24I36D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the new appointment for city commissioner?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E24I36D1
+
+trial E1I37D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The successful businessman said that the handsome reporter characterized/ himself/ as greedy but successful.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I37D0
+
+trial E2I37D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The successful businesswoman said that the handsome reporter characterized/ himself/ as greedy but successful.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I37D0
+
+trial E3I37D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The successful businessman said that the high-heeled reporters characterized/ himself/ as greedy but successful.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I37D0
+
+trial E4I37D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The successful businesswoman said that the high-heeled reporters characterized/ himself/ as greedy but successful.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I37D0
+
+trial E5I37D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The successful businessman heard that the handsome reporter characterized/ himself/ as greedy but successful.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I37D0
+
+trial E6I37D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The successful businesswoman heard that the handsome reporter characterized/ himself/ as greedy but successful.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I37D0
+
+trial E7I37D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The successful businessman heard that the high-heeled reporters characterized/ himself/ as greedy but successful.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I37D0
+
+trial E8I37D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The successful businesswoman heard that the high-heeled reporters characterized/ himself/ as greedy but successful.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I37D0
+
+trial E25I37D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the businessman say something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I37D1
+
+trial E26I37D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the businesswoman say something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I37D1
+
+trial E27I37D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the businessman hear something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I37D1
+
+trial E28I37D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the businesswoman hear something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I37D1
+
+trial E1I38D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The undercover policeman confessed that the cautious sergeant recorded/ himself/ talking about the secret plot.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I38D0
+
+trial E2I38D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The undercover policewoman confessed that the cautious sergeant recorded/ himself/ talking about the secret plot.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I38D0
+
+trial E3I38D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The undercover policeman confessed that the voluptuous spies recorded/ himself/ talking about the secret plot.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I38D0
+
+trial E4I38D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The undercover policewoman confessed that the voluptuous spies recorded/ himself/ talking about the secret plot.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I38D0
+
+trial E5I38D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The undercover policeman overheard that the cautious sergeant recorded/ himself/ talking about the secret plot.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I38D0
+
+trial E6I38D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The undercover policewoman overheard that the cautious sergeant recorded/ himself/ talking about the secret plot.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I38D0
+
+trial E7I38D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The undercover policeman overheard that the voluptuous spies recorded/ himself/ talking about the secret plot.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I38D0
+
+trial E8I38D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The undercover policewoman overheard that the voluptuous spies recorded/ himself/ talking about the secret plot.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I38D0
+
+trial E25I38D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the policeman confess something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I38D1
+
+trial E26I38D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the policewoman confess something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I38D1
+
+trial E27I38D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the policeman overhear something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I38D1
+
+trial E28I38D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the policewoman overhear something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I38D1
+
+trial E1I39D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous rapper said that the record producer photographed/ himself/ next to the cardboard cutout on the large stage.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I39D0
+
+trial E2I39D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female publicist said that the record producer photographed/ himself/ next to the cardboard cutout on the large stage.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I39D0
+
+trial E3I39D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous rapper said that the female groupies photographed/ himself/ next to the cardboard cutout on the large stage.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I39D0
+
+trial E4I39D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female publicist said that the female groupies photographed/ himself/ next to the cardboard cutout on the large stage.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I39D0
+
+trial E5I39D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous rapper saw that the record producer photographed/ himself/ next to the cardboard cutout on the large stage.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I39D0
+
+trial E6I39D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female publicist saw that the record producer photographed/ himself/ next to the cardboard cutout on the large stage.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I39D0
+
+trial E7I39D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous rapper saw that the female groupies photographed/ himself/ next to the cardboard cutout on the large stage.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I39D0
+
+trial E8I39D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The female publicist saw that the female groupies photographed/ himself/ next to the cardboard cutout on the large stage.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I39D0
+
+trial E25I39D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the rapper say something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I39D1
+
+trial E26I39D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the publicist say something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I39D1
+
+trial E27I39D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the rapper know something about the producer?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I39D1
+
+trial E28I39D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the publicist know something about the producer?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I39D1
+
+trial E1I40D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave policeman reported that the elderly man nominated/ himself/ for the prestigious community service award.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I40D0
+
+trial E2I40D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave policewoman reported that the elderly man nominated/ himself/ for the prestigious community service award.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I40D0
+
+trial E3I40D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave policeman reported that several elderly women nominated/ himself/ for the prestigious community service award.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I40D0
+
+trial E4I40D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave policewoman reported that several elderly women nominated/ himself/ for the prestigious community service award.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I40D0
+
+trial E5I40D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave policeman noticed that the elderly man nominated/ himself/ for the prestigious community service award.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I40D0
+
+trial E6I40D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave policewoman noticed that the elderly man nominated/ himself/ for the prestigious community service award.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I40D0
+
+trial E7I40D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave policeman noticed that several elderly women nominated/ himself/ for the prestigious community service award.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I40D0
+
+trial E8I40D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The brave policewoman noticed that several elderly women nominated/ himself/ for the prestigious community service award.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I40D0
+
+trial E25I40D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the policeman report something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I40D1
+
+trial E26I40D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the policewoman report something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I40D1
+
+trial E27I40D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the policeman notice something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I40D1
+
+trial E28I40D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the policewoman notice something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I40D1
+
+trial E1I41D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The grouchy man complained that the busy waiter hadn't noticed/ himself/ standing by the table waiting to be seated.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I41D0
+
+trial E2I41D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The grouchy woman complained that the busy waiter hadn't noticed/ himself/ standing by the table waiting to be seated.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I41D0
+
+trial E3I41D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The grouchy man complained that the busy waitresses hadn't noticed/ himself/ standing by the table waiting to be seated.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I41D0
+
+trial E4I41D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The grouchy woman complained that the busy waitresses hadn't noticed/ himself/ standing by the table waiting to be seated.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I41D0
+
+trial E5I41D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The grouchy man saw that the busy waiter hadn't noticed/ himself/ standing by the table waiting to be seated.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I41D0
+
+trial E6I41D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The grouchy woman saw that the busy waiter hadn't noticed/ himself/ standing by the table waiting to be seated.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I41D0
+
+trial E7I41D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The grouchy man saw that the busy waitresses hadn't noticed/ himself/ standing by the table waiting to be seated.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I41D0
+
+trial E8I41D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The grouchy woman saw that the busy waitresses hadn't noticed/ himself/ standing by the table waiting to be seated.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I41D0
+
+trial E25I41D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the man complain about something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I41D1
+
+trial E26I41D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the woman complain about something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I41D1
+
+trial E27I41D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the man see something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I41D1
+
+trial E28I41D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the woman see something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I41D1
+
+trial E1I42D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irritable chef mentioned that the kind butcher complimented/ himself/ for the excellent and expensive meal.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I42D0
+
+trial E2I42D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irritable waitress mentioned that the kind butcher complimented/ himself/ for the excellent and expensive meal.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I42D0
+
+trial E3I42D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irritable chef mentioned that the kind businesswomen complimented/ himself/ for the excellent and expensive meal.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I42D0
+
+trial E4I42D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irritable waitress mentioned that the kind businesswomen complimented/ himself/ for the excellent and expensive meal.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I42D0
+
+trial E5I42D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irritable chef noticed that the kind butcher complimented/ himself/ for the excellent and expensive meal.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I42D0
+
+trial E6I42D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irritable waitress noticed that the kind butcher complimented/ himself/ for the excellent and expensive meal.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I42D0
+
+trial E7I42D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irritable chef noticed that the kind businesswomen complimented/ himself/ for the excellent and expensive meal.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I42D0
+
+trial E8I42D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The irritable waitress noticed that the kind businesswomen complimented/ himself/ for the excellent and expensive meal.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I42D0
+
+trial E25I42D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the chef mention something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I42D1
+
+trial E26I42D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the waitress mention something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I42D1
+
+trial E27I42D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the chef notice something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I42D1
+
+trial E28I42D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the waitress notice something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I42D1
+
+trial E1I43D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The popular sheriff confessed that the shady detective implicated/ himself/ when giving testimony at the trial last month. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I43D0
+
+trial E2I43D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The popular policewoman confessed that the shady detective implicated/ himself/ when giving testimony at the trial last month. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I43D0
+
+trial E3I43D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The popular sheriff confessed that the wealthy heiresses implicated/ himself/ when giving testimony at the trial last month. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I43D0
+
+trial E4I43D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The popular policewoman confessed that the wealthy heiresses implicated/ himself/ when giving testimony at the trial last month.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I43D0
+
+trial E5I43D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The popular sheriff noticed that the shady detective implicated/ himself/ when giving testimony at the trial last month. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I43D0
+
+trial E6I43D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The popular policewoman noticed that the shady detective implicated/ himself/ when giving testimony at the trial last month. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I43D0
+
+trial E7I43D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The popular sheriff noticed that the wealthy heiresses implicated/ himself/ when giving testimony at the trial last month. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I43D0
+
+trial E8I43D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The popular policewoman noticed that the wealthy heiresses implicated/ himself/ when giving testimony at the trial last month.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I43D0
+
+trial E25I43D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the sheriff notice something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I43D1
+
+trial E26I43D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the policewoman notice something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I43D1
+
+trial E27I43D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the sheriff confess something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I43D1
+
+trial E28I43D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the policewoman confess something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I43D1
+
+trial E1I44D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The worried doctor reported that the delirious hiker talked to/ himself/ in the operating room before the procedure.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I44D0
+
+trial E2I44D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The worried midwife reported that the delirious hiker talked to/ himself/ in the operating room before the procedure.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I44D0
+
+trial E3I44D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The worried doctor reported that the delirious mothers talked to/ himself/ in the operating room before the procedure.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I44D0
+
+trial E4I44D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The worried midwife reported that the delirious mothers talked to/ himself/ in the operating room before the procedure.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I44D0
+
+trial E5I44D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The worried doctor saw that the delirious hiker talked to/ himself/ in the operating room before the procedure.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I44D0
+
+trial E6I44D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The worried midwife saw that the delirious hiker talked to/ himself/ in the operating room before the procedure.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I44D0
+
+trial E7I44D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The worried doctor saw that the delirious mothers talked to/ himself/ in the operating room before the procedure.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I44D0
+
+trial E8I44D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The worried midwife saw that the delirious mothers talked to/ himself/ in the operating room before the procedure.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I44D0
+
+trial E25I44D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the doctor console someone?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I44D1
+
+trial E26I44D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the midwife console someone?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I44D1
+
+trial E27I44D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the doctor report something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I44D1
+
+trial E28I44D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the midwife report something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I44D1
+
+trial E1I45D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The new executive revealed that the successful entrepreneur loathed/ himself/ for all the compromises made on the way to the top.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I45D0
+
+trial E2I45D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The glamorous supermodel revealed that the successful entrepreneur loathed/ himself/ for all the compromises made on the way to the top.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I45D0
+
+trial E3I45D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The new executive revealed that the influential feminists loathed/ himself/ for all the compromises made on the way to the top.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I45D0
+
+trial E4I45D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The glamorous supermodel revealed that the influential feminists loathed/ himself/ for all the compromises made on the way to the top.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I45D0
+
+trial E5I45D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The new executive sensed that the successful entrepreneur loathed/ himself/ for all the compromises made on the way to the top.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I45D0
+
+trial E6I45D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The glamorous supermodel sensed that the successful entrepreneur loathed/ himself/ for all the compromises made on the way to the top.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I45D0
+
+trial E7I45D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The new executive sensed that the influential feminists loathed/ himself/ for all the compromises made on the way to the top.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I45D0
+
+trial E8I45D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The glamorous supermodel sensed that the influential feminists loathed/ himself/ for all the compromises made on the way to the top.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I45D0
+
+trial E25I45D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the executive sense something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I45D1
+
+trial E26I45D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the supermodel sense something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I45D1
+
+trial E27I45D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the executive reveal something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I45D1
+
+trial E28I45D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the supermodel reveal something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I45D1
+
+trial E1I46D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The exasperated manager declared that the oblivious lawyer denied/ himself/ a chance at advancing in the company.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I46D0
+
+trial E2I46D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The exasperated secretary declared that the oblivious lawyer denied/ himself/ a chance at advancing in the company.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I46D0
+
+trial E3I46D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The exasperated manager declared that the oblivious beauticians denied/ himself/ a chance at advancing in the company.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I46D0
+
+trial E4I46D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The exasperated secretary declared that the oblivious beauticians denied/ himself/ a chance at advancing in the company.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I46D0
+
+trial E5I46D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The exasperated manager heard that the oblivious lawyer denied/ himself/ a chance at advancing in the company.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I46D0
+
+trial E6I46D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The exasperated secretary heard that the oblivious lawyer denied/ himself/ a chance at advancing in the company.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I46D0
+
+trial E7I46D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The exasperated manager heard that the oblivious beauticians denied/ himself/ a chance at advancing in the company.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I46D0
+
+trial E8I46D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The exasperated secretary heard that the oblivious beauticians denied/ himself/ a chance at advancing in the company.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I46D0
+
+trial E25I46D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the manager hear something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I46D1
+
+trial E26I46D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the secretary hear something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I46D1
+
+trial E27I46D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the manager declare something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I46D1
+
+trial E28I46D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the secretary declare something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I46D1
+
+trial E1I47D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The snobby butler mentioned that the burly boxer surprised/ himself/ by agreeing to dance at the party next weekend.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I47D0
+
+trial E2I47D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The snobby maid mentioned that the burly boxer surprised/ himself/ by agreeing to dance at the party next weekend.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I47D0
+
+trial E3I47D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The snobby butler mentioned that the stuffy governesses surprised/ himself/ by agreeing to dance at the party next weekend.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I47D0
+
+trial E4I47D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The snobby maid mentioned that the stuffy governesses surprised/ himself/ by agreeing to dance at the party next weekend.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I47D0
+
+trial E5I47D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The snobby butler overheard that the burly boxer surprised/ himself/ by agreeing to dance at the party next weekend.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I47D0
+
+trial E6I47D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The snobby maid overheard that the burly boxer surprised/ himself/ by agreeing to dance at the party next weekend.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I47D0
+
+trial E7I47D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The snobby butler overheard that the stuffy governesses surprised/ himself/ by agreeing to dance at the party next weekend.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I47D0
+
+trial E8I47D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The snobby maid overheard that the stuffy governesses surprised/ himself/ by agreeing to dance at the party next weekend.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I47D0
+
+trial E25I47D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the butler overhear something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I47D1
+
+trial E26I47D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the maid overhear something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I47D1
+
+trial E27I47D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the butler mention something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I47D1
+
+trial E28I47D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the maid mention something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I47D1
+
+trial E1I48D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The rich CEO said that the cautious doctor prevented/ himself/ from losing any more money at the casino.
+  max_display_time =	15000
+  trial_type =		sentence
+end E1I48D0
+
+trial E2I48D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The wealthy heiress said that the cautious doctor prevented/ himself/ from losing any more money at the casino.
+  max_display_time =	15000
+  trial_type =		sentence
+end E2I48D0
+
+trial E3I48D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The rich CEO said that the reckless divas prevented/ himself/ from losing any more money at the casino.
+  max_display_time =	15000
+  trial_type =		sentence
+end E3I48D0
+
+trial E4I48D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The wealthy heiress said that the reckless divas prevented/ himself/ from losing any more money at the casino.
+  max_display_time =	15000
+  trial_type =		sentence
+end E4I48D0
+
+trial E5I48D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The rich CEO noticed that the cautious doctor prevented/ himself/ from losing any more money at the casino.
+  max_display_time =	15000
+  trial_type =		sentence
+end E5I48D0
+
+trial E6I48D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The wealthy heiress noticed that the cautious doctor prevented/ himself/ from losing any more money at the casino.
+  max_display_time =	15000
+  trial_type =		sentence
+end E6I48D0
+
+trial E7I48D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The rich CEO noticed that the reckless divas prevented/ himself/ from losing any more money at the casino.
+  max_display_time =	15000
+  trial_type =		sentence
+end E7I48D0
+
+trial E8I48D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The wealthy heiress noticed that the reckless divas prevented/ himself/ from losing any more money at the casino.
+  max_display_time =	15000
+  trial_type =		sentence
+end E8I48D0
+
+trial E25I48D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the CEO notice something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E25I48D1
+
+trial E26I48D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the heiress notice something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E26I48D1
+
+trial E27I48D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the CEO say something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E27I48D1
+
+trial E28I48D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|In the sentence, did the heiress say something?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E28I48D1
+
+trial E9I49D0
+  gc_rect =		(400 20 500 60)
+  inline =		|While testing a potential manufacturing defect, the rifles were reportedly fired into the air.
+  max_display_time =	15000
+  trial_type =		sentence
+end E9I49D0
+
+trial E10I49D0
+  gc_rect =		(400 20 500 60)
+  inline =		|While testing a potential manufacturing defect, the rifles had reportedly fired into the air.
+  max_display_time =	15000
+  trial_type =		sentence
+end E10I49D0
+
+trial E30I49D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|How was the riot?\n\ndangerous                                     peaceful
+  max_display_time =	15000
+  trial_type =		question
+end E30I49D1
+
+trial E9I50D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Given that only one pin was left standing, the bowling ball was apparently rolled with considerable speed.
+  max_display_time =	15000
+  trial_type =		sentence
+end E9I50D0
+
+trial E10I50D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Given that only one pin was left standing, the bowling ball had apparently rolled with considerable speed.
+  max_display_time =	15000
+  trial_type =		sentence
+end E10I50D0
+
+trial E30I50D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What kind of ball was it?\n\na bowling ball                                     a baseball
+  max_display_time =	15000
+  trial_type =		question
+end E30I50D1
+
+trial E9I51D0
+  gc_rect =		(400 20 500 60)
+  inline =		|When the angry employee stormed out of the office, the door was definitely slammed with great force.
+  max_display_time =	15000
+  trial_type =		sentence
+end E9I51D0
+
+trial E10I51D0
+  gc_rect =		(400 20 500 60)
+  inline =		|When the angry employee stormed out of the office, the door had definitely slammed with great force.
+  max_display_time =	15000
+  trial_type =		sentence
+end E10I51D0
+
+trial E30I51D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the employee happy?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E30I51D1
+
+trial E9I52D0
+  gc_rect =		(400 20 500 60)
+  inline =		|While tensions were high during the cold war, the submarine was allegedly sunk in the bay.
+  max_display_time =	15000
+  trial_type =		sentence
+end E9I52D0
+
+trial E10I52D0
+  gc_rect =		(400 20 500 60)
+  inline =		|While tensions were high during the cold war, the submarine had allegedly sunk in the bay.
+  max_display_time =	15000
+  trial_type =		sentence
+end E10I52D0
+
+trial E30I52D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|When were tensions high?\n\nduring the Cold War                                     during World War II
+  max_display_time =	15000
+  trial_type =		question
+end E30I52D1
+
+trial E9I53D0
+  gc_rect =		(400 20 500 60)
+  inline =		|As a result of the contestant's enthusiastic tug, the game show's wheel was definitely spun very rapidly.
+  max_display_time =	15000
+  trial_type =		sentence
+end E9I53D0
+
+trial E10I53D0
+  gc_rect =		(400 20 500 60)
+  inline =		|As a result of the contestant's enthusiastic tug, the game show's wheel had definitely spun very rapidly.
+  max_display_time =	15000
+  trial_type =		sentence
+end E10I53D0
+
+trial E30I53D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Was the contestant enthusiastic?\n\nYES                                     NO
+  max_display_time =	15000
+  trial_type =		question
+end E30I53D1
+
+trial E9I54D0
+  gc_rect =		(400 20 500 60)
+  inline =		|In the middle of a wild electric storm, a kite was apparently flown into the clouds.
+  max_display_time =	15000
+  trial_type =		sentence
+end E9I54D0
+
+trial E10I54D0
+  gc_rect =		(400 20 500 60)
+  inline =		|In the middle of a wild electric storm, a kite had apparently flown into the clouds.
+  max_display_time =	15000
+  trial_type =		sentence
+end E10I54D0
+
+trial E30I54D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What kind of storm was it?\n\nahurricane                                     an electric storm
+  max_display_time =	15000
+  trial_type =		question
+end E30I54D1
+
+trial E9I55D0
+  gc_rect =		(400 20 500 60)
+  inline =		|As a part of the celebratory parade, the firebird was quickly raced down the road.
+  max_display_time =	15000
+  trial_type =		sentence
+end E9I55D0
+
+trial E10I55D0
+  gc_rect =		(400 20 500 60)
+  inline =		|As a part of the celebratory parade, the firebird had quickly raced down the road.
+  max_display_time =	15000
+  trial_type =		sentence
+end E10I55D0
+
+trial E30I55D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What kind of parade was it?\n\nmourning                                     celebratory
+  max_display_time =	15000
+  trial_type =		question
+end E30I55D1
+
+trial E9I56D0
+  gc_rect =		(400 20 500 60)
+  inline =		|In the warm spring sunshine, some daisies were evidently grown under the trees.
+  max_display_time =	15000
+  trial_type =		sentence
+end E9I56D0
+
+trial E10I56D0
+  gc_rect =		(400 20 500 60)
+  inline =		|In the warm spring sunshine, some daisies had evidently grown under the trees.
+  max_display_time =	15000
+  trial_type =		sentence
+end E10I56D0
+
+trial E30I56D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What time of year was it?\n\nwinter                                     spring
+  max_display_time =	15000
+  trial_type =		question
+end E30I56D1
+
+trial E11I57D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The butcher asked who the customer who bought Italian sausage had invited to dinner tonight. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I57D0
+
+trial E12I57D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The butcher asked if the customer who bought Italian sausage had invited anyone to dinner tonight. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I57D0
+
+trial E13I57D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The butcher asked who the customer, who bought Italian sausage, had invited to dinner tonight. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I57D0
+
+trial E14I57D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The butcher asked if the customer, who bought Italian sausage, had invited anyone to dinner tonight. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I57D0
+
+trial E40I57D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who bought the Italian sausage?\n\n  the customer                           the butcher
+  max_display_time =	15000
+  trial_type =		question
+end E40I57D1
+
+trial E11I58D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The administrator wondered who the doctor who manages the hospital had treated in the ER. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I58D0
+
+trial E12I58D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The administrator wondered if the doctor who manages the hospital had treated anyone in the ER. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I58D0
+
+trial E13I58D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The administrator wondered who the doctor, who manages the hospital, had treated in the ER. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I58D0
+
+trial E14I58D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The administrator wondered if the doctor, who manages the hospital, had treated anyone in the ER. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I58D0
+
+trial E40I58D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who manages the hospital?\n\n  the doctor                           the administrator
+  max_display_time =	15000
+  trial_type =		question
+end E40I58D1
+
+trial E11I59D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The principal wanted to know who the student who was expelled had threatened with a knife. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I59D0
+
+trial E12I59D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The principal wanted to know if the student who was expelled had threatened anyone with a knife. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I59D0
+
+trial E13I59D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The principal wanted to know who the student, who was expelled, had threatened with a knife. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I59D0
+
+trial E14I59D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The principal wanted to know if the student, who was expelled, had threatened anyone with a knife. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I59D0
+
+trial E40I59D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who was expelled?\n\n  the student                           the principal
+  max_display_time =	15000
+  trial_type =		question
+end E40I59D1
+
+trial E11I60D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The conductor asked who the violinist who was very upset had talked to before coming in . 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I60D0
+
+trial E12I60D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The conductor asked if the violinist who was very upset had talked to anyone before coming in. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I60D0
+
+trial E13I60D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The conductor asked who the violinist, who was very upset, had talked to before coming in. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I60D0
+
+trial E14I60D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The conductor asked if the violinist, who was very upset, had talked to anyone before coming in. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I60D0
+
+trial E40I60D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who was very upset?\n\n  the violinist                           the conductor
+  max_display_time =	15000
+  trial_type =		question
+end E40I60D1
+
+trial E11I61D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The homeowner asked who the contractor who fixed the roof would hire for the next job. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I61D0
+
+trial E12I61D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The homeowner asked if the contractor who fixed the roof would hire someone for the next job. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I61D0
+
+trial E13I61D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The homeowner asked who the contractor, who fixed the roof, would hire for the next job. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I61D0
+
+trial E14I61D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The homeowner asked if the contractor, who fixed the roof, would hire someone for the next job. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I61D0
+
+trial E40I61D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who fixed the roof?\n\n  the contractor                           the homeowner
+  max_display_time =	15000
+  trial_type =		question
+end E40I61D1
+
+trial E11I62D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The choreographer didn't know who the dancer who danced clumsily had run into during practice. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I62D0
+
+trial E12I62D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The choreographer didn't know if the dancer who danced clumsily had run into anyone during practice. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I62D0
+
+trial E13I62D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The choreographer didn't know who the dancer, who danced clumsily, had run into during practice. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I62D0
+
+trial E14I62D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The choreographer didn't know if the dancer, who danced clumsily, had run into anyone during practice. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I62D0
+
+trial E40I62D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who danced clumsily?\n\n  the dancer                           the choreographer
+  max_display_time =	15000
+  trial_type =		question
+end E40I62D1
+
+trial E11I63D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The cop wondered who the victim who was recovering slowly would blame for the accident. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I63D0
+
+trial E12I63D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The cop wondered if the victim who was recovering slowly would blame the police for the accident. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I63D0
+
+trial E13I63D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The cop wondered who the victim, who was recovering slowly, would blame for the accident. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I63D0
+
+trial E14I63D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The cop wondered if the victim, who was recovering slowly, would blame the police for the accident. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I63D0
+
+trial E40I63D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who was going to blame someone?\n\n  the victim                           the cop
+  max_display_time =	15000
+  trial_type =		question
+end E40I63D1
+
+trial E11I64D0
+  gc_rect =		(400 20 500 60)
+  inline =		|I couldn't remember who the reporter who does the morning news had mentioned in the big story. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I64D0
+
+trial E12I64D0
+  gc_rect =		(400 20 500 60)
+  inline =		|I couldn't remember if the reporter who does the morning news had mentioned me in the big story. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I64D0
+
+trial E13I64D0
+  gc_rect =		(400 20 500 60)
+  inline =		|I couldn't remember who the reporter, who does the morning news, had mentioned in the big story. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I64D0
+
+trial E14I64D0
+  gc_rect =		(400 20 500 60)
+  inline =		|I couldn't remember if the reporter, who does the morning news, had mentioned me in the big story. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I64D0
+
+trial E40I64D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Which news does the reporter do?\n\n  morning news                           evening news
+  max_display_time =	15000
+  trial_type =		question
+end E40I64D1
+
+trial E11I65D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The singer didn't know who the audience member who laughed out loud was heckling during the show. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I65D0
+
+trial E12I65D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The singer didn't know if the audience member who laughed out loud was heckling him during the show. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I65D0
+
+trial E13I65D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The singer didn't know who the audience member, who laughed out loud, was heckling during the show. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I65D0
+
+trial E14I65D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The singer didn't know if the audience member, who laughed out loud, was heckling him during the show. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I65D0
+
+trial E40I65D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who was laughing?\n\n  the audience member                           the singer
+  max_display_time =	15000
+  trial_type =		question
+end E40I65D1
+
+trial E11I66D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The oilman wondered who the businessman who hated fossil fuels had fired from his company. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I66D0
+
+trial E12I66D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The oilman wondered if the businessman who hated fossil fuels had fired someone from his company. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I66D0
+
+trial E13I66D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The oilman wondered who the businessman, who hated fossil fuels, had fired from his company. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I66D0
+
+trial E14I66D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The oilman wondered if the businessman, who hated fossil fuels, had fired someone from his company. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I66D0
+
+trial E40I66D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who hated fossil fuels?\n\n  the businessman                           the oilman
+  max_display_time =	15000
+  trial_type =		question
+end E40I66D1
+
+trial E11I67D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The judge asked who the lawyer who represented the defendant was working with on the case. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I67D0
+
+trial E12I67D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The judge asked if the lawyer who represented the defendant was working with someone on the case. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I67D0
+
+trial E13I67D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The judge asked who the lawyer, who represented the defendant, was working with on the case. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I67D0
+
+trial E14I67D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The judge asked if the lawyer, who represented the defendant, was working with someone on the case. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I67D0
+
+trial E40I67D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who was potentially working with someone on the case?\n\n  the lawyer                           the judge
+  max_display_time =	15000
+  trial_type =		question
+end E40I67D1
+
+trial E11I68D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The contractor wondered who the gardener who loves tulips had met at the nursery. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I68D0
+
+trial E12I68D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The contractor wondered if the gardener who loves tulips had met anyone at the nursery. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I68D0
+
+trial E13I68D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The contractor wondered who the gardener, who loves tulips, had met at the nursery. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I68D0
+
+trial E14I68D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The contractor wondered if the gardener, who loves tulips, had met anyone at the nursery. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I68D0
+
+trial E40I68D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who loved tulips?\n\n  the gardener                           the contractor
+  max_display_time =	15000
+  trial_type =		question
+end E40I68D1
+
+trial E11I69D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The applicant asked who the employee who conducted the interviews would hire if he could. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I69D0
+
+trial E12I69D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The applicant asked if the employee who conducted the interviews would hire someone if he could. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I69D0
+
+trial E13I69D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The applicant asked who the employee, who conducted the interviews, would hire if he could. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I69D0
+
+trial E14I69D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The applicant asked if the employee, who conducted the interviews, would hire someone if he could. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I69D0
+
+trial E40I69D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who might hire someone?\n\n  the applicant                           the employee
+  max_display_time =	15000
+  trial_type =		question
+end E40I69D1
+
+trial E11I70D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The little girl wondered who the boy who was ignoring her had played with during recess. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I70D0
+
+trial E12I70D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The little girl wondered if the boy who was ignoring her had played with anyone during recess. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I70D0
+
+trial E13I70D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The little girl wondered who the boy, who was ignoring her, had played with during recess. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I70D0
+
+trial E14I70D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The little girl wondered if the boy, who was ignoring her, had played with anyone during recess. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I70D0
+
+trial E40I70D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who might have played with someone at recess?\n\n  the little girl                           the boy
+  max_display_time =	15000
+  trial_type =		question
+end E40I70D1
+
+trial E11I71D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The lobbyist knew who the senator who voted for higher taxes had bribed during the election. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I71D0
+
+trial E12I71D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The lobbyist knew if the senator who voted for higher taxes had bribed someone during the election. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I71D0
+
+trial E13I71D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The lobbyist knew who the senator, who voted for higher taxes, had bribed during the election. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I71D0
+
+trial E14I71D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The lobbyist knew if the senator, who voted for higher taxes, had bribed someone during the election. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I71D0
+
+trial E40I71D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who wanted higher taxes?\n\n  the lobbyist                           the senator
+  max_display_time =	15000
+  trial_type =		question
+end E40I71D1
+
+trial E11I72D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The author asked who the young fan who organized the book-signing had invited to the event. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I72D0
+
+trial E12I72D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The author asked if the young fan who organized the book-signing had invited Mary to the event. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I72D0
+
+trial E13I72D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The author asked who the young fan, who organized the book-signing, had invited to the event. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I72D0
+
+trial E14I72D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The author asked if the young fan, who organized the book-signing, had invited Mary to the event.
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I72D0
+
+trial E40I72D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who organized the book signing?\n\n  the author                            the young fan
+  max_display_time =	15000
+  trial_type =		question
+end E40I72D1
+
+trial E11I73D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Joan didn't remember who the butcher who sold organic beef had hired to deliver his meat. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I73D0
+
+trial E12I73D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Joan didn't remember if the butcher who sold organic beef had hired someone to deliver his meat. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I73D0
+
+trial E13I73D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Joan didn't remember who the butcher, who sold organic beef, had hired to deliver his meat. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I73D0
+
+trial E14I73D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Joan didn't remember if the butcher, who sold organic beef, had hired someone to deliver his meat. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I73D0
+
+trial E40I73D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who hired someone to do deliveries?\n\n  Joan                           the butcher
+  max_display_time =	15000
+  trial_type =		question
+end E40I73D1
+
+trial E11I74D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Alex wondered who the teenager who was a clever prankster would target for his next prank. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I74D0
+
+trial E12I74D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Alex wondered if the teenager who was a clever prankster would target John for his next prank. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I74D0
+
+trial E13I74D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Alex wondered who the teenager, who was a clever prankster, would target for his next prank. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I74D0
+
+trial E14I74D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Alex wondered if the teenager, who was a clever prankster, would target John for his next prank. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I74D0
+
+trial E40I74D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who was the clever prankster?\n\n  Alex                           the teenager
+  max_display_time =	15000
+  trial_type =		question
+end E40I74D1
+
+trial E11I75D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The nurse asked who the doctor who treated the crash victim had examined very thoroughly. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I75D0
+
+trial E12I75D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The nurse asked if the doctor who treated the crash victim had examined everyone very thoroughly. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I75D0
+
+trial E13I75D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The nurse asked who the doctor, who treated the crash victim, had examined very thoroughly. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I75D0
+
+trial E14I75D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The nurse asked if the doctor, who treated the crash victim, had examined everyone very thoroughly. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I75D0
+
+trial E40I75D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who treated the crash victim?\n\n  the nurse                           the doctor
+  max_display_time =	15000
+  trial_type =		question
+end E40I75D1
+
+trial E11I76D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The reporter wanted to know who the hacker who coded the software had attacked with a virus. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I76D0
+
+trial E12I76D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The reporter wanted to know if the hacker who coded the software had attacked the NSA with a virus. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I76D0
+
+trial E13I76D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The reporter wanted to know who the hacker, who coded the software, had attacked with a virus. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I76D0
+
+trial E14I76D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The reporter wanted to know if the hacker, who coded the software, had attacked the NSA with a virus. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I76D0
+
+trial E40I76D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who used a virus?\n\n  the reporter                           the hacker
+  max_display_time =	15000
+  trial_type =		question
+end E40I76D1
+
+trial E11I77D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teacher asked who the student who was failing math could talk to for some help. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I77D0
+
+trial E12I77D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teacher asked if the student who was failing math could talk to anyone for some help. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I77D0
+
+trial E13I77D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teacher asked who the student, who was failing math, could talk to for some help. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I77D0
+
+trial E14I77D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The teacher asked if the student, who was failing math, could talk to anyone for some help. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I77D0
+
+trial E40I77D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What subject was the student failing?\n\n  biology                           math
+  max_display_time =	15000
+  trial_type =		question
+end E40I77D1
+
+trial E11I78D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Billy forgot who the neighbor who moved from Indiana was dating this time last year. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I78D0
+
+trial E12I78D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Billy forgot if the neighbor who moved from Indiana was dating Susan this time last year. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I78D0
+
+trial E13I78D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Billy forgot who the neighbor, who moved from Indiana, was dating this time last year. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I78D0
+
+trial E14I78D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Billy forgot if the neighbor, who moved from Indiana, was dating Susan this time last year. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I78D0
+
+trial E40I78D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Where did the neighbor move from?\n\n  Illinois                           Indiana
+  max_display_time =	15000
+  trial_type =		question
+end E40I78D1
+
+trial E11I79D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Pauline definitely knows who the bully who beat up George was harassing this week. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I79D0
+
+trial E12I79D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Pauline definitely knows if the bully who beat up George was harassing Paul this week. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I79D0
+
+trial E13I79D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Pauline definitely knows who the bully, who beat up George, was harassing this week. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I79D0
+
+trial E14I79D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Pauline definitely knows if the bully, who beat up George, was harassing Paul this week. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I79D0
+
+trial E40I79D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who did the bully beat up?\n\n  Pauline                           George
+  max_display_time =	15000
+  trial_type =		question
+end E40I79D1
+
+trial E11I80D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The barista wondered who the customer who ordered a decaf latte was meeting in the cafe . 
+  max_display_time =	15000
+  trial_type =		sentence
+end E11I80D0
+
+trial E12I80D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The barista wondered if the customer who ordered a decaf latte was meeting someone in the cafe. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E12I80D0
+
+trial E13I80D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The barista wondered who the customer, who ordered a decaf latte, was meeting in the cafe. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E13I80D0
+
+trial E14I80D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The barista wondered if the customer, who ordered a decaf latte, was meeting someone in the cafe. 
+  max_display_time =	15000
+  trial_type =		sentence
+end E14I80D0
+
+trial E40I80D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What did the customer order?\n\n  decaf coffee                           decaf latte
+  max_display_time =	15000
+  trial_type =		question
+end E40I80D1
+
+trial F100I81D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The grumpy neighbor said that the annoying paper boy put of obnoxious sales flyers in every mailbox on the street.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I81D0
+
+trial F101I81D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Where did the paper boy put the flyers?\n\n mailboxes                                      doorsteps
+  max_display_time =	15000
+  trial_type =		question
+end F101I81D1
+
+trial F100I82D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The distraught young woman said that her friend had found her cell phone after she dropped it in the snow.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I82D0
+
+trial F101I82D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Where was the cell phone found?\n\n in the snow                                       at the beach
+  max_display_time =	15000
+  trial_type =		question
+end F101I82D1
+
+trial F100I83D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The jaded teachers complained that the high school seniors always rushed to finish their incomplete work.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I83D0
+
+trial F101I83D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who rushed to finish their work?\n\n the seniors                                      some juniors
+  max_display_time =	15000
+  trial_type =		question
+end F101I83D1
+
+trial F100I84D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The conspiracy theorist claimed that the undercover spies spoke in a secret code during the radio broadcast.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I84D0
+
+trial F101I84D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who was speaking in code?\n\n the spies                                      the broadcasters
+  max_display_time =	15000
+  trial_type =		question
+end F101I84D1
+
+trial F100I85D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The resigned husband mentioned that his wife frantically searched all over town for her lost wedding ring.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I85D0
+
+trial F101I85D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What kind of ring was lost?\n\n wedding ring                                      class ring
+  max_display_time =	15000
+  trial_type =		question
+end F101I85D1
+
+trial F100I86D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The newspaper wrote that the prominent activists made some signs for the protest last Thursday.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I86D0
+
+trial F101I86D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|When did the activist make signs?\n\n Thursday                                       Sunday
+  max_display_time =	15000
+  trial_type =		question
+end F101I86D1
+
+trial F100I87D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The professor didn't care that Pedro stayed up late writing the paper because he had already missed the deadline.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I87D0
+
+trial F101I87D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who missed the deadline?\n\n Pedro                                      Sally
+  max_display_time =	15000
+  trial_type =		question
+end F101I87D1
+
+trial F100I88D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The famous travel columnist noted that the rural villagers smashed grapes to make wine to sell at the summer festival.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I88D0
+
+trial F101I88D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What did the villagers smash?\n\n grapes                                      blueberries
+  max_display_time =	15000
+  trial_type =		question
+end F101I88D1
+
+trial F100I89D0
+  gc_rect =		(400 20 500 60)
+  inline =		|His surprised mother said that Alex baked five pies after going apple picking with the neighborhood kids on Tuesday.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I89D0
+
+trial F101I89D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|When did Alex bake the pies?\n\n Tuesday                                      Friday
+  max_display_time =	15000
+  trial_type =		question
+end F101I89D1
+
+trial F100I90D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The film critic revealed that the actress burns down the house and throws her locket into the fire in the final scene.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I90D0
+
+trial F101I90D1
+  button =		leftTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What did the actress throw into the fire?\n\n her locket                                      her ring
+  max_display_time =	15000
+  trial_type =		question
+end F101I90D1
+
+trial F100I91D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The sisters brought their coins to the bank before going to the store to buy matching sneakers for themselves.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I91D0
+
+trial F101I91D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Where did the sisters bring their coins?\n\n the store                                      the bank
+  max_display_time =	15000
+  trial_type =		question
+end F101I91D1
+
+trial F100I92D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Ron cursed/ himself/ after discovering that there was no money in his bank account while checking out at the grocery store.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I92D0
+
+trial F101I92D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Where was Ron?\n\n the bank                                      the grocery store
+  max_display_time =	15000
+  trial_type =		question
+end F101I92D1
+
+trial F100I93D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Brandon and Joseph amused themselves by searching for keys, change, and jewelry on the beach with metal detectors.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I93D0
+
+trial F101I93D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Where did Brandon and Joseph use their metal detectors?\n\n downtown                                      the beach
+  max_display_time =	15000
+  trial_type =		question
+end F101I93D1
+
+trial F100I94D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The orphaned ducks fooled themselves into thinking that the old farm dog was not their mother.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I94D0
+
+trial F101I94D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What kind of dog was it?\n\n guard dog                                      farm dog
+  max_display_time =	15000
+  trial_type =		question
+end F101I94D1
+
+trial F100I95D0
+  gc_rect =		(400 20 500 60)
+  inline =		|As a present for/ himself/, Max decided to keep the stray cat he found sleeping in his garage.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I95D0
+
+trial F101I95D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What kind of animal did Max find?\n\n a dog                                      a cat
+  max_display_time =	15000
+  trial_type =		question
+end F101I95D1
+
+trial F100I96D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Jessica smiled to/ herself/ as she hung up the ugly painting of a desert which her housemates hated.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I96D0
+
+trial F101I96D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What did the painting depict?\n\n an ocean                                      a desert
+  max_display_time =	15000
+  trial_type =		question
+end F101I96D1
+
+trial F100I97D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Before spring, the professor bought/ himself/ a new book about physics.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I97D0
+
+trial F101I97D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What was the book about?\n\n chemistry                                      physics
+  max_display_time =	15000
+  trial_type =		question
+end F101I97D1
+
+trial F100I98D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The man wore marathon t-shirts every day, despite the fact that he/ himself/ had never run a mile.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I98D0
+
+trial F101I98D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|What did the man wear?\n\n school t-shirts                                      marathon t-shirts
+  max_display_time =	15000
+  trial_type =		question
+end F101I98D1
+
+trial F100I99D0
+  gc_rect =		(400 20 500 60)
+  inline =		|The millionaire thought/ himself/ a philanthropist because he donated some textbooks and new computers to the rural school.\n
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I99D0
+
+trial F101I99D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Where was the school?\n\n in the city                                      in the country
+  max_display_time =	15000
+  trial_type =		question
+end F101I99D1
+
+trial F100I100D0
+  gc_rect =		(400 20 500 60)
+  inline =		|Tabitha swore to/ herself/ that Jeremy would rue the day he insulted her at school.
+  max_display_time =	15000
+  trial_type =		sentence
+end F100I100D0
+
+trial F101I100D1
+  button =		rightTrigger
+  gc_rect =		(400 20 500 60)
+  inline =		|Who did swear vengeance on?\n\n Mike                                      Jeremy
+  max_display_time =	15000
+  trial_type =		question
+end F101I100D1
+
+sequence SP1I1
+  P1I1D0
+  P1I1D1
+  P1I1D2
+  P1I1D3
+  P1I1D4
+  P1I1D5
+  P1I1D6
+  P1I1D7
+end SP1I1
+
+sequence SE1I1
+  E1I1D0
+  E20I1D1
+end SE1I1
+
+sequence SE3I1
+  E3I1D0
+  E20I1D1
+end SE3I1
+
+sequence SE5I1
+  E5I1D0
+  E20I1D1
+end SE5I1
+
+sequence SE7I1
+  E7I1D0
+  E20I1D1
+end SE7I1
+
+sequence SE2I1
+  E2I1D0
+  E21I1D1
+end SE2I1
+
+sequence SE4I1
+  E4I1D0
+  E21I1D1
+end SE4I1
+
+sequence SE6I1
+  E6I1D0
+  E21I1D1
+end SE6I1
+
+sequence SE8I1
+  E8I1D0
+  E21I1D1
+end SE8I1
+
+sequence SE1I2
+  E1I2D0
+  E20I2D1
+end SE1I2
+
+sequence SE3I2
+  E3I2D0
+  E20I2D1
+end SE3I2
+
+sequence SE5I2
+  E5I2D0
+  E20I2D1
+end SE5I2
+
+sequence SE7I2
+  E7I2D0
+  E20I2D1
+end SE7I2
+
+sequence SE2I2
+  E2I2D0
+  E21I2D1
+end SE2I2
+
+sequence SE4I2
+  E4I2D0
+  E21I2D1
+end SE4I2
+
+sequence SE6I2
+  E6I2D0
+  E21I2D1
+end SE6I2
+
+sequence SE8I2
+  E8I2D0
+  E21I2D1
+end SE8I2
+
+sequence SE1I3
+  E1I3D0
+  E20I3D1
+end SE1I3
+
+sequence SE3I3
+  E3I3D0
+  E20I3D1
+end SE3I3
+
+sequence SE5I3
+  E5I3D0
+  E20I3D1
+end SE5I3
+
+sequence SE7I3
+  E7I3D0
+  E20I3D1
+end SE7I3
+
+sequence SE2I3
+  E2I3D0
+  E21I3D1
+end SE2I3
+
+sequence SE4I3
+  E4I3D0
+  E21I3D1
+end SE4I3
+
+sequence SE6I3
+  E6I3D0
+  E21I3D1
+end SE6I3
+
+sequence SE8I3
+  E8I3D0
+  E21I3D1
+end SE8I3
+
+sequence SE1I4
+  E1I4D0
+  E20I4D1
+end SE1I4
+
+sequence SE3I4
+  E3I4D0
+  E20I4D1
+end SE3I4
+
+sequence SE5I4
+  E5I4D0
+  E20I4D1
+end SE5I4
+
+sequence SE7I4
+  E7I4D0
+  E20I4D1
+end SE7I4
+
+sequence SE2I4
+  E2I4D0
+  E21I4D1
+end SE2I4
+
+sequence SE4I4
+  E4I4D0
+  E21I4D1
+end SE4I4
+
+sequence SE6I4
+  E6I4D0
+  E21I4D1
+end SE6I4
+
+sequence SE8I4
+  E8I4D0
+  E21I4D1
+end SE8I4
+
+sequence SE1I5
+  E1I5D0
+  E20I5D1
+end SE1I5
+
+sequence SE3I5
+  E3I5D0
+  E20I5D1
+end SE3I5
+
+sequence SE5I5
+  E5I5D0
+  E20I5D1
+end SE5I5
+
+sequence SE7I5
+  E7I5D0
+  E20I5D1
+end SE7I5
+
+sequence SE2I5
+  E2I5D0
+  E21I5D1
+end SE2I5
+
+sequence SE4I5
+  E4I5D0
+  E21I5D1
+end SE4I5
+
+sequence SE6I5
+  E6I5D0
+  E21I5D1
+end SE6I5
+
+sequence SE8I5
+  E8I5D0
+  E21I5D1
+end SE8I5
+
+sequence SE1I6
+  E1I6D0
+  E20I6D1
+end SE1I6
+
+sequence SE3I6
+  E3I6D0
+  E20I6D1
+end SE3I6
+
+sequence SE5I6
+  E5I6D0
+  E20I6D1
+end SE5I6
+
+sequence SE7I6
+  E7I6D0
+  E20I6D1
+end SE7I6
+
+sequence SE2I6
+  E2I6D0
+  E21I6D1
+end SE2I6
+
+sequence SE4I6
+  E4I6D0
+  E21I6D1
+end SE4I6
+
+sequence SE6I6
+  E6I6D0
+  E21I6D1
+end SE6I6
+
+sequence SE8I6
+  E8I6D0
+  E21I6D1
+end SE8I6
+
+sequence SE1I7
+  E1I7D0
+  E20I7D1
+end SE1I7
+
+sequence SE3I7
+  E3I7D0
+  E20I7D1
+end SE3I7
+
+sequence SE5I7
+  E5I7D0
+  E20I7D1
+end SE5I7
+
+sequence SE7I7
+  E7I7D0
+  E20I7D1
+end SE7I7
+
+sequence SE2I7
+  E2I7D0
+  E21I7D1
+end SE2I7
+
+sequence SE4I7
+  E4I7D0
+  E21I7D1
+end SE4I7
+
+sequence SE6I7
+  E6I7D0
+  E21I7D1
+end SE6I7
+
+sequence SE8I7
+  E8I7D0
+  E21I7D1
+end SE8I7
+
+sequence SE1I8
+  E1I8D0
+  E20I8D1
+end SE1I8
+
+sequence SE3I8
+  E3I8D0
+  E20I8D1
+end SE3I8
+
+sequence SE5I8
+  E5I8D0
+  E20I8D1
+end SE5I8
+
+sequence SE7I8
+  E7I8D0
+  E20I8D1
+end SE7I8
+
+sequence SE2I8
+  E2I8D0
+  E21I8D1
+end SE2I8
+
+sequence SE4I8
+  E4I8D0
+  E21I8D1
+end SE4I8
+
+sequence SE6I8
+  E6I8D0
+  E21I8D1
+end SE6I8
+
+sequence SE8I8
+  E8I8D0
+  E21I8D1
+end SE8I8
+
+sequence SE1I9
+  E1I9D0
+  E20I9D1
+end SE1I9
+
+sequence SE3I9
+  E3I9D0
+  E20I9D1
+end SE3I9
+
+sequence SE5I9
+  E5I9D0
+  E20I9D1
+end SE5I9
+
+sequence SE7I9
+  E7I9D0
+  E20I9D1
+end SE7I9
+
+sequence SE2I9
+  E2I9D0
+  E21I9D1
+end SE2I9
+
+sequence SE4I9
+  E4I9D0
+  E21I9D1
+end SE4I9
+
+sequence SE6I9
+  E6I9D0
+  E21I9D1
+end SE6I9
+
+sequence SE8I9
+  E8I9D0
+  E21I9D1
+end SE8I9
+
+sequence SE1I10
+  E1I10D0
+  E20I10D1
+end SE1I10
+
+sequence SE3I10
+  E3I10D0
+  E20I10D1
+end SE3I10
+
+sequence SE5I10
+  E5I10D0
+  E20I10D1
+end SE5I10
+
+sequence SE7I10
+  E7I10D0
+  E20I10D1
+end SE7I10
+
+sequence SE2I10
+  E2I10D0
+  E21I10D1
+end SE2I10
+
+sequence SE4I10
+  E4I10D0
+  E21I10D1
+end SE4I10
+
+sequence SE6I10
+  E6I10D0
+  E21I10D1
+end SE6I10
+
+sequence SE8I10
+  E8I10D0
+  E21I10D1
+end SE8I10
+
+sequence SE1I11
+  E1I11D0
+  E20I11D1
+end SE1I11
+
+sequence SE3I11
+  E3I11D0
+  E20I11D1
+end SE3I11
+
+sequence SE5I11
+  E5I11D0
+  E20I11D1
+end SE5I11
+
+sequence SE7I11
+  E7I11D0
+  E20I11D1
+end SE7I11
+
+sequence SE2I11
+  E2I11D0
+  E21I11D1
+end SE2I11
+
+sequence SE4I11
+  E4I11D0
+  E21I11D1
+end SE4I11
+
+sequence SE6I11
+  E6I11D0
+  E21I11D1
+end SE6I11
+
+sequence SE8I11
+  E8I11D0
+  E21I11D1
+end SE8I11
+
+sequence SE1I12
+  E1I12D0
+  E20I12D1
+end SE1I12
+
+sequence SE3I12
+  E3I12D0
+  E20I12D1
+end SE3I12
+
+sequence SE5I12
+  E5I12D0
+  E20I12D1
+end SE5I12
+
+sequence SE7I12
+  E7I12D0
+  E20I12D1
+end SE7I12
+
+sequence SE2I12
+  E2I12D0
+  E21I12D1
+end SE2I12
+
+sequence SE4I12
+  E4I12D0
+  E21I12D1
+end SE4I12
+
+sequence SE6I12
+  E6I12D0
+  E21I12D1
+end SE6I12
+
+sequence SE8I12
+  E8I12D0
+  E21I12D1
+end SE8I12
+
+sequence SE1I13
+  E1I13D0
+  E22I13D1
+end SE1I13
+
+sequence SE2I13
+  E2I13D0
+  E22I13D1
+end SE2I13
+
+sequence SE5I13
+  E5I13D0
+  E22I13D1
+end SE5I13
+
+sequence SE6I13
+  E6I13D0
+  E22I13D1
+end SE6I13
+
+sequence SE3I13
+  E3I13D0
+  E23I13D1
+end SE3I13
+
+sequence SE4I13
+  E4I13D0
+  E23I13D1
+end SE4I13
+
+sequence SE7I13
+  E7I13D0
+  E23I13D1
+end SE7I13
+
+sequence SE8I13
+  E8I13D0
+  E23I13D1
+end SE8I13
+
+sequence SE1I14
+  E1I14D0
+  E22I14D1
+end SE1I14
+
+sequence SE2I14
+  E2I14D0
+  E22I14D1
+end SE2I14
+
+sequence SE5I14
+  E5I14D0
+  E22I14D1
+end SE5I14
+
+sequence SE6I14
+  E6I14D0
+  E22I14D1
+end SE6I14
+
+sequence SE3I14
+  E3I14D0
+  E23I14D1
+end SE3I14
+
+sequence SE4I14
+  E4I14D0
+  E23I14D1
+end SE4I14
+
+sequence SE7I14
+  E7I14D0
+  E23I14D1
+end SE7I14
+
+sequence SE8I14
+  E8I14D0
+  E23I14D1
+end SE8I14
+
+sequence SE1I15
+  E1I15D0
+  E22I15D1
+end SE1I15
+
+sequence SE2I15
+  E2I15D0
+  E22I15D1
+end SE2I15
+
+sequence SE5I15
+  E5I15D0
+  E22I15D1
+end SE5I15
+
+sequence SE6I15
+  E6I15D0
+  E22I15D1
+end SE6I15
+
+sequence SE3I15
+  E3I15D0
+  E23I15D1
+end SE3I15
+
+sequence SE4I15
+  E4I15D0
+  E23I15D1
+end SE4I15
+
+sequence SE7I15
+  E7I15D0
+  E23I15D1
+end SE7I15
+
+sequence SE8I15
+  E8I15D0
+  E23I15D1
+end SE8I15
+
+sequence SE1I16
+  E1I16D0
+  E22I16D1
+end SE1I16
+
+sequence SE2I16
+  E2I16D0
+  E22I16D1
+end SE2I16
+
+sequence SE5I16
+  E5I16D0
+  E22I16D1
+end SE5I16
+
+sequence SE6I16
+  E6I16D0
+  E22I16D1
+end SE6I16
+
+sequence SE3I16
+  E3I16D0
+  E23I16D1
+end SE3I16
+
+sequence SE4I16
+  E4I16D0
+  E23I16D1
+end SE4I16
+
+sequence SE7I16
+  E7I16D0
+  E23I16D1
+end SE7I16
+
+sequence SE8I16
+  E8I16D0
+  E23I16D1
+end SE8I16
+
+sequence SE1I17
+  E1I17D0
+  E22I17D1
+end SE1I17
+
+sequence SE2I17
+  E2I17D0
+  E22I17D1
+end SE2I17
+
+sequence SE5I17
+  E5I17D0
+  E22I17D1
+end SE5I17
+
+sequence SE6I17
+  E6I17D0
+  E22I17D1
+end SE6I17
+
+sequence SE3I17
+  E3I17D0
+  E23I17D1
+end SE3I17
+
+sequence SE4I17
+  E4I17D0
+  E23I17D1
+end SE4I17
+
+sequence SE7I17
+  E7I17D0
+  E23I17D1
+end SE7I17
+
+sequence SE8I17
+  E8I17D0
+  E23I17D1
+end SE8I17
+
+sequence SE1I18
+  E1I18D0
+  E22I18D1
+end SE1I18
+
+sequence SE2I18
+  E2I18D0
+  E22I18D1
+end SE2I18
+
+sequence SE5I18
+  E5I18D0
+  E22I18D1
+end SE5I18
+
+sequence SE6I18
+  E6I18D0
+  E22I18D1
+end SE6I18
+
+sequence SE3I18
+  E3I18D0
+  E23I18D1
+end SE3I18
+
+sequence SE4I18
+  E4I18D0
+  E23I18D1
+end SE4I18
+
+sequence SE7I18
+  E7I18D0
+  E23I18D1
+end SE7I18
+
+sequence SE8I18
+  E8I18D0
+  E23I18D1
+end SE8I18
+
+sequence SE1I19
+  E1I19D0
+  E22I19D1
+end SE1I19
+
+sequence SE2I19
+  E2I19D0
+  E22I19D1
+end SE2I19
+
+sequence SE5I19
+  E5I19D0
+  E22I19D1
+end SE5I19
+
+sequence SE6I19
+  E6I19D0
+  E22I19D1
+end SE6I19
+
+sequence SE3I19
+  E3I19D0
+  E23I19D1
+end SE3I19
+
+sequence SE4I19
+  E4I19D0
+  E23I19D1
+end SE4I19
+
+sequence SE7I19
+  E7I19D0
+  E23I19D1
+end SE7I19
+
+sequence SE8I19
+  E8I19D0
+  E23I19D1
+end SE8I19
+
+sequence SE1I20
+  E1I20D0
+  E22I20D1
+end SE1I20
+
+sequence SE2I20
+  E2I20D0
+  E22I20D1
+end SE2I20
+
+sequence SE5I20
+  E5I20D0
+  E22I20D1
+end SE5I20
+
+sequence SE6I20
+  E6I20D0
+  E22I20D1
+end SE6I20
+
+sequence SE3I20
+  E3I20D0
+  E23I20D1
+end SE3I20
+
+sequence SE4I20
+  E4I20D0
+  E23I20D1
+end SE4I20
+
+sequence SE7I20
+  E7I20D0
+  E23I20D1
+end SE7I20
+
+sequence SE8I20
+  E8I20D0
+  E23I20D1
+end SE8I20
+
+sequence SE1I21
+  E1I21D0
+  E22I21D1
+end SE1I21
+
+sequence SE2I21
+  E2I21D0
+  E22I21D1
+end SE2I21
+
+sequence SE5I21
+  E5I21D0
+  E22I21D1
+end SE5I21
+
+sequence SE6I21
+  E6I21D0
+  E22I21D1
+end SE6I21
+
+sequence SE3I21
+  E3I21D0
+  E23I21D1
+end SE3I21
+
+sequence SE4I21
+  E4I21D0
+  E23I21D1
+end SE4I21
+
+sequence SE7I21
+  E7I21D0
+  E23I21D1
+end SE7I21
+
+sequence SE8I21
+  E8I21D0
+  E23I21D1
+end SE8I21
+
+sequence SE1I22
+  E1I22D0
+  E22I22D1
+end SE1I22
+
+sequence SE2I22
+  E2I22D0
+  E22I22D1
+end SE2I22
+
+sequence SE5I22
+  E5I22D0
+  E22I22D1
+end SE5I22
+
+sequence SE6I22
+  E6I22D0
+  E22I22D1
+end SE6I22
+
+sequence SE3I22
+  E3I22D0
+  E23I22D1
+end SE3I22
+
+sequence SE4I22
+  E4I22D0
+  E23I22D1
+end SE4I22
+
+sequence SE7I22
+  E7I22D0
+  E23I22D1
+end SE7I22
+
+sequence SE8I22
+  E8I22D0
+  E23I22D1
+end SE8I22
+
+sequence SE1I23
+  E1I23D0
+  E22I23D1
+end SE1I23
+
+sequence SE2I23
+  E2I23D0
+  E22I23D1
+end SE2I23
+
+sequence SE5I23
+  E5I23D0
+  E22I23D1
+end SE5I23
+
+sequence SE6I23
+  E6I23D0
+  E22I23D1
+end SE6I23
+
+sequence SE3I23
+  E3I23D0
+  E23I23D1
+end SE3I23
+
+sequence SE4I23
+  E4I23D0
+  E23I23D1
+end SE4I23
+
+sequence SE7I23
+  E7I23D0
+  E23I23D1
+end SE7I23
+
+sequence SE8I23
+  E8I23D0
+  E23I23D1
+end SE8I23
+
+sequence SE1I24
+  E1I24D0
+  E22I24D1
+end SE1I24
+
+sequence SE2I24
+  E2I24D0
+  E22I24D1
+end SE2I24
+
+sequence SE5I24
+  E5I24D0
+  E22I24D1
+end SE5I24
+
+sequence SE6I24
+  E6I24D0
+  E22I24D1
+end SE6I24
+
+sequence SE3I24
+  E3I24D0
+  E23I24D1
+end SE3I24
+
+sequence SE4I24
+  E4I24D0
+  E23I24D1
+end SE4I24
+
+sequence SE7I24
+  E7I24D0
+  E23I24D1
+end SE7I24
+
+sequence SE8I24
+  E8I24D0
+  E23I24D1
+end SE8I24
+
+sequence SE1I25
+  E1I25D0
+  E24I25D1
+end SE1I25
+
+sequence SE2I25
+  E2I25D0
+  E24I25D1
+end SE2I25
+
+sequence SE3I25
+  E3I25D0
+  E24I25D1
+end SE3I25
+
+sequence SE4I25
+  E4I25D0
+  E24I25D1
+end SE4I25
+
+sequence SE5I25
+  E5I25D0
+  E24I25D1
+end SE5I25
+
+sequence SE6I25
+  E6I25D0
+  E24I25D1
+end SE6I25
+
+sequence SE7I25
+  E7I25D0
+  E24I25D1
+end SE7I25
+
+sequence SE8I25
+  E8I25D0
+  E24I25D1
+end SE8I25
+
+sequence SE1I26
+  E1I26D0
+  E24I26D1
+end SE1I26
+
+sequence SE2I26
+  E2I26D0
+  E24I26D1
+end SE2I26
+
+sequence SE3I26
+  E3I26D0
+  E24I26D1
+end SE3I26
+
+sequence SE4I26
+  E4I26D0
+  E24I26D1
+end SE4I26
+
+sequence SE5I26
+  E5I26D0
+  E24I26D1
+end SE5I26
+
+sequence SE6I26
+  E6I26D0
+  E24I26D1
+end SE6I26
+
+sequence SE7I26
+  E7I26D0
+  E24I26D1
+end SE7I26
+
+sequence SE8I26
+  E8I26D0
+  E24I26D1
+end SE8I26
+
+sequence SE1I27
+  E1I27D0
+  E24I27D1
+end SE1I27
+
+sequence SE2I27
+  E2I27D0
+  E24I27D1
+end SE2I27
+
+sequence SE3I27
+  E3I27D0
+  E24I27D1
+end SE3I27
+
+sequence SE4I27
+  E4I27D0
+  E24I27D1
+end SE4I27
+
+sequence SE5I27
+  E5I27D0
+  E24I27D1
+end SE5I27
+
+sequence SE6I27
+  E6I27D0
+  E24I27D1
+end SE6I27
+
+sequence SE7I27
+  E7I27D0
+  E24I27D1
+end SE7I27
+
+sequence SE8I27
+  E8I27D0
+  E24I27D1
+end SE8I27
+
+sequence SE1I28
+  E1I28D0
+  E24I28D1
+end SE1I28
+
+sequence SE2I28
+  E2I28D0
+  E24I28D1
+end SE2I28
+
+sequence SE3I28
+  E3I28D0
+  E24I28D1
+end SE3I28
+
+sequence SE4I28
+  E4I28D0
+  E24I28D1
+end SE4I28
+
+sequence SE5I28
+  E5I28D0
+  E24I28D1
+end SE5I28
+
+sequence SE6I28
+  E6I28D0
+  E24I28D1
+end SE6I28
+
+sequence SE7I28
+  E7I28D0
+  E24I28D1
+end SE7I28
+
+sequence SE8I28
+  E8I28D0
+  E24I28D1
+end SE8I28
+
+sequence SE1I29
+  E1I29D0
+  E24I29D1
+end SE1I29
+
+sequence SE2I29
+  E2I29D0
+  E24I29D1
+end SE2I29
+
+sequence SE3I29
+  E3I29D0
+  E24I29D1
+end SE3I29
+
+sequence SE4I29
+  E4I29D0
+  E24I29D1
+end SE4I29
+
+sequence SE5I29
+  E5I29D0
+  E24I29D1
+end SE5I29
+
+sequence SE6I29
+  E6I29D0
+  E24I29D1
+end SE6I29
+
+sequence SE7I29
+  E7I29D0
+  E24I29D1
+end SE7I29
+
+sequence SE8I29
+  E8I29D0
+  E24I29D1
+end SE8I29
+
+sequence SE1I30
+  E1I30D0
+  E24I30D1
+end SE1I30
+
+sequence SE2I30
+  E2I30D0
+  E24I30D1
+end SE2I30
+
+sequence SE3I30
+  E3I30D0
+  E24I30D1
+end SE3I30
+
+sequence SE4I30
+  E4I30D0
+  E24I30D1
+end SE4I30
+
+sequence SE5I30
+  E5I30D0
+  E24I30D1
+end SE5I30
+
+sequence SE6I30
+  E6I30D0
+  E24I30D1
+end SE6I30
+
+sequence SE7I30
+  E7I30D0
+  E24I30D1
+end SE7I30
+
+sequence SE8I30
+  E8I30D0
+  E24I30D1
+end SE8I30
+
+sequence SE1I31
+  E1I31D0
+  E24I31D1
+end SE1I31
+
+sequence SE2I31
+  E2I31D0
+  E24I31D1
+end SE2I31
+
+sequence SE3I31
+  E3I31D0
+  E24I31D1
+end SE3I31
+
+sequence SE4I31
+  E4I31D0
+  E24I31D1
+end SE4I31
+
+sequence SE5I31
+  E5I31D0
+  E24I31D1
+end SE5I31
+
+sequence SE6I31
+  E6I31D0
+  E24I31D1
+end SE6I31
+
+sequence SE7I31
+  E7I31D0
+  E24I31D1
+end SE7I31
+
+sequence SE8I31
+  E8I31D0
+  E24I31D1
+end SE8I31
+
+sequence SE1I32
+  E1I32D0
+  E24I32D1
+end SE1I32
+
+sequence SE2I32
+  E2I32D0
+  E24I32D1
+end SE2I32
+
+sequence SE3I32
+  E3I32D0
+  E24I32D1
+end SE3I32
+
+sequence SE4I32
+  E4I32D0
+  E24I32D1
+end SE4I32
+
+sequence SE5I32
+  E5I32D0
+  E24I32D1
+end SE5I32
+
+sequence SE6I32
+  E6I32D0
+  E24I32D1
+end SE6I32
+
+sequence SE7I32
+  E7I32D0
+  E24I32D1
+end SE7I32
+
+sequence SE8I32
+  E8I32D0
+  E24I32D1
+end SE8I32
+
+sequence SE1I33
+  E1I33D0
+  E24I33D1
+end SE1I33
+
+sequence SE2I33
+  E2I33D0
+  E24I33D1
+end SE2I33
+
+sequence SE3I33
+  E3I33D0
+  E24I33D1
+end SE3I33
+
+sequence SE4I33
+  E4I33D0
+  E24I33D1
+end SE4I33
+
+sequence SE5I33
+  E5I33D0
+  E24I33D1
+end SE5I33
+
+sequence SE6I33
+  E6I33D0
+  E24I33D1
+end SE6I33
+
+sequence SE7I33
+  E7I33D0
+  E24I33D1
+end SE7I33
+
+sequence SE8I33
+  E8I33D0
+  E24I33D1
+end SE8I33
+
+sequence SE1I34
+  E1I34D0
+  E24I34D1
+end SE1I34
+
+sequence SE2I34
+  E2I34D0
+  E24I34D1
+end SE2I34
+
+sequence SE3I34
+  E3I34D0
+  E24I34D1
+end SE3I34
+
+sequence SE4I34
+  E4I34D0
+  E24I34D1
+end SE4I34
+
+sequence SE5I34
+  E5I34D0
+  E24I34D1
+end SE5I34
+
+sequence SE6I34
+  E6I34D0
+  E24I34D1
+end SE6I34
+
+sequence SE7I34
+  E7I34D0
+  E24I34D1
+end SE7I34
+
+sequence SE8I34
+  E8I34D0
+  E24I34D1
+end SE8I34
+
+sequence SE1I35
+  E1I35D0
+  E24I35D1
+end SE1I35
+
+sequence SE2I35
+  E2I35D0
+  E24I35D1
+end SE2I35
+
+sequence SE3I35
+  E3I35D0
+  E24I35D1
+end SE3I35
+
+sequence SE4I35
+  E4I35D0
+  E24I35D1
+end SE4I35
+
+sequence SE5I35
+  E5I35D0
+  E24I35D1
+end SE5I35
+
+sequence SE6I35
+  E6I35D0
+  E24I35D1
+end SE6I35
+
+sequence SE7I35
+  E7I35D0
+  E24I35D1
+end SE7I35
+
+sequence SE8I35
+  E8I35D0
+  E24I35D1
+end SE8I35
+
+sequence SE1I36
+  E1I36D0
+  E24I36D1
+end SE1I36
+
+sequence SE2I36
+  E2I36D0
+  E24I36D1
+end SE2I36
+
+sequence SE3I36
+  E3I36D0
+  E24I36D1
+end SE3I36
+
+sequence SE4I36
+  E4I36D0
+  E24I36D1
+end SE4I36
+
+sequence SE5I36
+  E5I36D0
+  E24I36D1
+end SE5I36
+
+sequence SE6I36
+  E6I36D0
+  E24I36D1
+end SE6I36
+
+sequence SE7I36
+  E7I36D0
+  E24I36D1
+end SE7I36
+
+sequence SE8I36
+  E8I36D0
+  E24I36D1
+end SE8I36
+
+sequence SE1I37
+  E1I37D0
+  E25I37D1
+end SE1I37
+
+sequence SE3I37
+  E3I37D0
+  E25I37D1
+end SE3I37
+
+sequence SE2I37
+  E2I37D0
+  E26I37D1
+end SE2I37
+
+sequence SE4I37
+  E4I37D0
+  E26I37D1
+end SE4I37
+
+sequence SE5I37
+  E5I37D0
+  E27I37D1
+end SE5I37
+
+sequence SE7I37
+  E7I37D0
+  E27I37D1
+end SE7I37
+
+sequence SE6I37
+  E6I37D0
+  E28I37D1
+end SE6I37
+
+sequence SE8I37
+  E8I37D0
+  E28I37D1
+end SE8I37
+
+sequence SE1I38
+  E1I38D0
+  E25I38D1
+end SE1I38
+
+sequence SE3I38
+  E3I38D0
+  E25I38D1
+end SE3I38
+
+sequence SE2I38
+  E2I38D0
+  E26I38D1
+end SE2I38
+
+sequence SE4I38
+  E4I38D0
+  E26I38D1
+end SE4I38
+
+sequence SE5I38
+  E5I38D0
+  E27I38D1
+end SE5I38
+
+sequence SE7I38
+  E7I38D0
+  E27I38D1
+end SE7I38
+
+sequence SE6I38
+  E6I38D0
+  E28I38D1
+end SE6I38
+
+sequence SE8I38
+  E8I38D0
+  E28I38D1
+end SE8I38
+
+sequence SE1I39
+  E1I39D0
+  E25I39D1
+end SE1I39
+
+sequence SE3I39
+  E3I39D0
+  E25I39D1
+end SE3I39
+
+sequence SE2I39
+  E2I39D0
+  E26I39D1
+end SE2I39
+
+sequence SE4I39
+  E4I39D0
+  E26I39D1
+end SE4I39
+
+sequence SE5I39
+  E5I39D0
+  E27I39D1
+end SE5I39
+
+sequence SE7I39
+  E7I39D0
+  E27I39D1
+end SE7I39
+
+sequence SE6I39
+  E6I39D0
+  E28I39D1
+end SE6I39
+
+sequence SE8I39
+  E8I39D0
+  E28I39D1
+end SE8I39
+
+sequence SE1I40
+  E1I40D0
+  E25I40D1
+end SE1I40
+
+sequence SE3I40
+  E3I40D0
+  E25I40D1
+end SE3I40
+
+sequence SE2I40
+  E2I40D0
+  E26I40D1
+end SE2I40
+
+sequence SE4I40
+  E4I40D0
+  E26I40D1
+end SE4I40
+
+sequence SE5I40
+  E5I40D0
+  E27I40D1
+end SE5I40
+
+sequence SE7I40
+  E7I40D0
+  E27I40D1
+end SE7I40
+
+sequence SE6I40
+  E6I40D0
+  E28I40D1
+end SE6I40
+
+sequence SE8I40
+  E8I40D0
+  E28I40D1
+end SE8I40
+
+sequence SE1I41
+  E1I41D0
+  E25I41D1
+end SE1I41
+
+sequence SE3I41
+  E3I41D0
+  E25I41D1
+end SE3I41
+
+sequence SE2I41
+  E2I41D0
+  E26I41D1
+end SE2I41
+
+sequence SE4I41
+  E4I41D0
+  E26I41D1
+end SE4I41
+
+sequence SE5I41
+  E5I41D0
+  E27I41D1
+end SE5I41
+
+sequence SE7I41
+  E7I41D0
+  E27I41D1
+end SE7I41
+
+sequence SE6I41
+  E6I41D0
+  E28I41D1
+end SE6I41
+
+sequence SE8I41
+  E8I41D0
+  E28I41D1
+end SE8I41
+
+sequence SE1I42
+  E1I42D0
+  E25I42D1
+end SE1I42
+
+sequence SE3I42
+  E3I42D0
+  E25I42D1
+end SE3I42
+
+sequence SE2I42
+  E2I42D0
+  E26I42D1
+end SE2I42
+
+sequence SE4I42
+  E4I42D0
+  E26I42D1
+end SE4I42
+
+sequence SE5I42
+  E5I42D0
+  E27I42D1
+end SE5I42
+
+sequence SE7I42
+  E7I42D0
+  E27I42D1
+end SE7I42
+
+sequence SE6I42
+  E6I42D0
+  E28I42D1
+end SE6I42
+
+sequence SE8I42
+  E8I42D0
+  E28I42D1
+end SE8I42
+
+sequence SE1I43
+  E1I43D0
+  E25I43D1
+end SE1I43
+
+sequence SE3I43
+  E3I43D0
+  E25I43D1
+end SE3I43
+
+sequence SE2I43
+  E2I43D0
+  E26I43D1
+end SE2I43
+
+sequence SE4I43
+  E4I43D0
+  E26I43D1
+end SE4I43
+
+sequence SE5I43
+  E5I43D0
+  E27I43D1
+end SE5I43
+
+sequence SE7I43
+  E7I43D0
+  E27I43D1
+end SE7I43
+
+sequence SE6I43
+  E6I43D0
+  E28I43D1
+end SE6I43
+
+sequence SE8I43
+  E8I43D0
+  E28I43D1
+end SE8I43
+
+sequence SE1I44
+  E1I44D0
+  E25I44D1
+end SE1I44
+
+sequence SE3I44
+  E3I44D0
+  E25I44D1
+end SE3I44
+
+sequence SE2I44
+  E2I44D0
+  E26I44D1
+end SE2I44
+
+sequence SE4I44
+  E4I44D0
+  E26I44D1
+end SE4I44
+
+sequence SE5I44
+  E5I44D0
+  E27I44D1
+end SE5I44
+
+sequence SE7I44
+  E7I44D0
+  E27I44D1
+end SE7I44
+
+sequence SE6I44
+  E6I44D0
+  E28I44D1
+end SE6I44
+
+sequence SE8I44
+  E8I44D0
+  E28I44D1
+end SE8I44
+
+sequence SE1I45
+  E1I45D0
+  E25I45D1
+end SE1I45
+
+sequence SE3I45
+  E3I45D0
+  E25I45D1
+end SE3I45
+
+sequence SE2I45
+  E2I45D0
+  E26I45D1
+end SE2I45
+
+sequence SE4I45
+  E4I45D0
+  E26I45D1
+end SE4I45
+
+sequence SE5I45
+  E5I45D0
+  E27I45D1
+end SE5I45
+
+sequence SE7I45
+  E7I45D0
+  E27I45D1
+end SE7I45
+
+sequence SE6I45
+  E6I45D0
+  E28I45D1
+end SE6I45
+
+sequence SE8I45
+  E8I45D0
+  E28I45D1
+end SE8I45
+
+sequence SE1I46
+  E1I46D0
+  E25I46D1
+end SE1I46
+
+sequence SE3I46
+  E3I46D0
+  E25I46D1
+end SE3I46
+
+sequence SE2I46
+  E2I46D0
+  E26I46D1
+end SE2I46
+
+sequence SE4I46
+  E4I46D0
+  E26I46D1
+end SE4I46
+
+sequence SE5I46
+  E5I46D0
+  E27I46D1
+end SE5I46
+
+sequence SE7I46
+  E7I46D0
+  E27I46D1
+end SE7I46
+
+sequence SE6I46
+  E6I46D0
+  E28I46D1
+end SE6I46
+
+sequence SE8I46
+  E8I46D0
+  E28I46D1
+end SE8I46
+
+sequence SE1I47
+  E1I47D0
+  E25I47D1
+end SE1I47
+
+sequence SE3I47
+  E3I47D0
+  E25I47D1
+end SE3I47
+
+sequence SE2I47
+  E2I47D0
+  E26I47D1
+end SE2I47
+
+sequence SE4I47
+  E4I47D0
+  E26I47D1
+end SE4I47
+
+sequence SE5I47
+  E5I47D0
+  E27I47D1
+end SE5I47
+
+sequence SE7I47
+  E7I47D0
+  E27I47D1
+end SE7I47
+
+sequence SE6I47
+  E6I47D0
+  E28I47D1
+end SE6I47
+
+sequence SE8I47
+  E8I47D0
+  E28I47D1
+end SE8I47
+
+sequence SE1I48
+  E1I48D0
+  E25I48D1
+end SE1I48
+
+sequence SE3I48
+  E3I48D0
+  E25I48D1
+end SE3I48
+
+sequence SE2I48
+  E2I48D0
+  E26I48D1
+end SE2I48
+
+sequence SE4I48
+  E4I48D0
+  E26I48D1
+end SE4I48
+
+sequence SE5I48
+  E5I48D0
+  E27I48D1
+end SE5I48
+
+sequence SE7I48
+  E7I48D0
+  E27I48D1
+end SE7I48
+
+sequence SE6I48
+  E6I48D0
+  E28I48D1
+end SE6I48
+
+sequence SE8I48
+  E8I48D0
+  E28I48D1
+end SE8I48
+
+sequence SE9I49
+  E9I49D0
+  E30I49D1
+end SE9I49
+
+sequence SE10I49
+  E10I49D0
+  E30I49D1
+end SE10I49
+
+sequence SE9I50
+  E9I50D0
+  E30I50D1
+end SE9I50
+
+sequence SE10I50
+  E10I50D0
+  E30I50D1
+end SE10I50
+
+sequence SE9I51
+  E9I51D0
+  E30I51D1
+end SE9I51
+
+sequence SE10I51
+  E10I51D0
+  E30I51D1
+end SE10I51
+
+sequence SE9I52
+  E9I52D0
+  E30I52D1
+end SE9I52
+
+sequence SE10I52
+  E10I52D0
+  E30I52D1
+end SE10I52
+
+sequence SE9I53
+  E9I53D0
+  E30I53D1
+end SE9I53
+
+sequence SE10I53
+  E10I53D0
+  E30I53D1
+end SE10I53
+
+sequence SE9I54
+  E9I54D0
+  E30I54D1
+end SE9I54
+
+sequence SE10I54
+  E10I54D0
+  E30I54D1
+end SE10I54
+
+sequence SE9I55
+  E9I55D0
+  E30I55D1
+end SE9I55
+
+sequence SE10I55
+  E10I55D0
+  E30I55D1
+end SE10I55
+
+sequence SE9I56
+  E9I56D0
+  E30I56D1
+end SE9I56
+
+sequence SE10I56
+  E10I56D0
+  E30I56D1
+end SE10I56
+
+sequence SE11I57
+  E11I57D0
+  E40I57D1
+end SE11I57
+
+sequence SE12I57
+  E12I57D0
+  E40I57D1
+end SE12I57
+
+sequence SE13I57
+  E13I57D0
+  E40I57D1
+end SE13I57
+
+sequence SE14I57
+  E14I57D0
+  E40I57D1
+end SE14I57
+
+sequence SE11I58
+  E11I58D0
+  E40I58D1
+end SE11I58
+
+sequence SE12I58
+  E12I58D0
+  E40I58D1
+end SE12I58
+
+sequence SE13I58
+  E13I58D0
+  E40I58D1
+end SE13I58
+
+sequence SE14I58
+  E14I58D0
+  E40I58D1
+end SE14I58
+
+sequence SE11I59
+  E11I59D0
+  E40I59D1
+end SE11I59
+
+sequence SE12I59
+  E12I59D0
+  E40I59D1
+end SE12I59
+
+sequence SE13I59
+  E13I59D0
+  E40I59D1
+end SE13I59
+
+sequence SE14I59
+  E14I59D0
+  E40I59D1
+end SE14I59
+
+sequence SE11I60
+  E11I60D0
+  E40I60D1
+end SE11I60
+
+sequence SE12I60
+  E12I60D0
+  E40I60D1
+end SE12I60
+
+sequence SE13I60
+  E13I60D0
+  E40I60D1
+end SE13I60
+
+sequence SE14I60
+  E14I60D0
+  E40I60D1
+end SE14I60
+
+sequence SE11I61
+  E11I61D0
+  E40I61D1
+end SE11I61
+
+sequence SE12I61
+  E12I61D0
+  E40I61D1
+end SE12I61
+
+sequence SE13I61
+  E13I61D0
+  E40I61D1
+end SE13I61
+
+sequence SE14I61
+  E14I61D0
+  E40I61D1
+end SE14I61
+
+sequence SE11I62
+  E11I62D0
+  E40I62D1
+end SE11I62
+
+sequence SE12I62
+  E12I62D0
+  E40I62D1
+end SE12I62
+
+sequence SE13I62
+  E13I62D0
+  E40I62D1
+end SE13I62
+
+sequence SE14I62
+  E14I62D0
+  E40I62D1
+end SE14I62
+
+sequence SE11I63
+  E11I63D0
+  E40I63D1
+end SE11I63
+
+sequence SE12I63
+  E12I63D0
+  E40I63D1
+end SE12I63
+
+sequence SE13I63
+  E13I63D0
+  E40I63D1
+end SE13I63
+
+sequence SE14I63
+  E14I63D0
+  E40I63D1
+end SE14I63
+
+sequence SE11I64
+  E11I64D0
+  E40I64D1
+end SE11I64
+
+sequence SE12I64
+  E12I64D0
+  E40I64D1
+end SE12I64
+
+sequence SE13I64
+  E13I64D0
+  E40I64D1
+end SE13I64
+
+sequence SE14I64
+  E14I64D0
+  E40I64D1
+end SE14I64
+
+sequence SE11I65
+  E11I65D0
+  E40I65D1
+end SE11I65
+
+sequence SE12I65
+  E12I65D0
+  E40I65D1
+end SE12I65
+
+sequence SE13I65
+  E13I65D0
+  E40I65D1
+end SE13I65
+
+sequence SE14I65
+  E14I65D0
+  E40I65D1
+end SE14I65
+
+sequence SE11I66
+  E11I66D0
+  E40I66D1
+end SE11I66
+
+sequence SE12I66
+  E12I66D0
+  E40I66D1
+end SE12I66
+
+sequence SE13I66
+  E13I66D0
+  E40I66D1
+end SE13I66
+
+sequence SE14I66
+  E14I66D0
+  E40I66D1
+end SE14I66
+
+sequence SE11I67
+  E11I67D0
+  E40I67D1
+end SE11I67
+
+sequence SE12I67
+  E12I67D0
+  E40I67D1
+end SE12I67
+
+sequence SE13I67
+  E13I67D0
+  E40I67D1
+end SE13I67
+
+sequence SE14I67
+  E14I67D0
+  E40I67D1
+end SE14I67
+
+sequence SE11I68
+  E11I68D0
+  E40I68D1
+end SE11I68
+
+sequence SE12I68
+  E12I68D0
+  E40I68D1
+end SE12I68
+
+sequence SE13I68
+  E13I68D0
+  E40I68D1
+end SE13I68
+
+sequence SE14I68
+  E14I68D0
+  E40I68D1
+end SE14I68
+
+sequence SE11I69
+  E11I69D0
+  E40I69D1
+end SE11I69
+
+sequence SE12I69
+  E12I69D0
+  E40I69D1
+end SE12I69
+
+sequence SE13I69
+  E13I69D0
+  E40I69D1
+end SE13I69
+
+sequence SE14I69
+  E14I69D0
+  E40I69D1
+end SE14I69
+
+sequence SE11I70
+  E11I70D0
+  E40I70D1
+end SE11I70
+
+sequence SE12I70
+  E12I70D0
+  E40I70D1
+end SE12I70
+
+sequence SE13I70
+  E13I70D0
+  E40I70D1
+end SE13I70
+
+sequence SE14I70
+  E14I70D0
+  E40I70D1
+end SE14I70
+
+sequence SE11I71
+  E11I71D0
+  E40I71D1
+end SE11I71
+
+sequence SE12I71
+  E12I71D0
+  E40I71D1
+end SE12I71
+
+sequence SE13I71
+  E13I71D0
+  E40I71D1
+end SE13I71
+
+sequence SE14I71
+  E14I71D0
+  E40I71D1
+end SE14I71
+
+sequence SE11I72
+  E11I72D0
+  E40I72D1
+end SE11I72
+
+sequence SE12I72
+  E12I72D0
+  E40I72D1
+end SE12I72
+
+sequence SE13I72
+  E13I72D0
+  E40I72D1
+end SE13I72
+
+sequence SE14I72
+  E14I72D0
+  E40I72D1
+end SE14I72
+
+sequence SE11I73
+  E11I73D0
+  E40I73D1
+end SE11I73
+
+sequence SE12I73
+  E12I73D0
+  E40I73D1
+end SE12I73
+
+sequence SE13I73
+  E13I73D0
+  E40I73D1
+end SE13I73
+
+sequence SE14I73
+  E14I73D0
+  E40I73D1
+end SE14I73
+
+sequence SE11I74
+  E11I74D0
+  E40I74D1
+end SE11I74
+
+sequence SE12I74
+  E12I74D0
+  E40I74D1
+end SE12I74
+
+sequence SE13I74
+  E13I74D0
+  E40I74D1
+end SE13I74
+
+sequence SE14I74
+  E14I74D0
+  E40I74D1
+end SE14I74
+
+sequence SE11I75
+  E11I75D0
+  E40I75D1
+end SE11I75
+
+sequence SE12I75
+  E12I75D0
+  E40I75D1
+end SE12I75
+
+sequence SE13I75
+  E13I75D0
+  E40I75D1
+end SE13I75
+
+sequence SE14I75
+  E14I75D0
+  E40I75D1
+end SE14I75
+
+sequence SE11I76
+  E11I76D0
+  E40I76D1
+end SE11I76
+
+sequence SE12I76
+  E12I76D0
+  E40I76D1
+end SE12I76
+
+sequence SE13I76
+  E13I76D0
+  E40I76D1
+end SE13I76
+
+sequence SE14I76
+  E14I76D0
+  E40I76D1
+end SE14I76
+
+sequence SE11I77
+  E11I77D0
+  E40I77D1
+end SE11I77
+
+sequence SE12I77
+  E12I77D0
+  E40I77D1
+end SE12I77
+
+sequence SE13I77
+  E13I77D0
+  E40I77D1
+end SE13I77
+
+sequence SE14I77
+  E14I77D0
+  E40I77D1
+end SE14I77
+
+sequence SE11I78
+  E11I78D0
+  E40I78D1
+end SE11I78
+
+sequence SE12I78
+  E12I78D0
+  E40I78D1
+end SE12I78
+
+sequence SE13I78
+  E13I78D0
+  E40I78D1
+end SE13I78
+
+sequence SE14I78
+  E14I78D0
+  E40I78D1
+end SE14I78
+
+sequence SE11I79
+  E11I79D0
+  E40I79D1
+end SE11I79
+
+sequence SE12I79
+  E12I79D0
+  E40I79D1
+end SE12I79
+
+sequence SE13I79
+  E13I79D0
+  E40I79D1
+end SE13I79
+
+sequence SE14I79
+  E14I79D0
+  E40I79D1
+end SE14I79
+
+sequence SE11I80
+  E11I80D0
+  E40I80D1
+end SE11I80
+
+sequence SE12I80
+  E12I80D0
+  E40I80D1
+end SE12I80
+
+sequence SE13I80
+  E13I80D0
+  E40I80D1
+end SE13I80
+
+sequence SE14I80
+  E14I80D0
+  E40I80D1
+end SE14I80
+
+sequence SF100I81
+  F100I81D0
+  F101I81D1
+end SF100I81
+
+sequence SF100I82
+  F100I82D0
+  F101I82D1
+end SF100I82
+
+sequence SF100I83
+  F100I83D0
+  F101I83D1
+end SF100I83
+
+sequence SF100I84
+  F100I84D0
+  F101I84D1
+end SF100I84
+
+sequence SF100I85
+  F100I85D0
+  F101I85D1
+end SF100I85
+
+sequence SF100I86
+  F100I86D0
+  F101I86D1
+end SF100I86
+
+sequence SF100I87
+  F100I87D0
+  F101I87D1
+end SF100I87
+
+sequence SF100I88
+  F100I88D0
+  F101I88D1
+end SF100I88
+
+sequence SF100I89
+  F100I89D0
+  F101I89D1
+end SF100I89
+
+sequence SF100I90
+  F100I90D0
+  F101I90D1
+end SF100I90
+
+sequence SF100I91
+  F100I91D0
+  F101I91D1
+end SF100I91
+
+sequence SF100I92
+  F100I92D0
+  F101I92D1
+end SF100I92
+
+sequence SF100I93
+  F100I93D0
+  F101I93D1
+end SF100I93
+
+sequence SF100I94
+  F100I94D0
+  F101I94D1
+end SF100I94
+
+sequence SF100I95
+  F100I95D0
+  F101I95D1
+end SF100I95
+
+sequence SF100I96
+  F100I96D0
+  F101I96D1
+end SF100I96
+
+sequence SF100I97
+  F100I97D0
+  F101I97D1
+end SF100I97
+
+sequence SF100I98
+  F100I98D0
+  F101I98D1
+end SF100I98
+
+sequence SF100I99
+  F100I99D0
+  F101I99D1
+end SF100I99
+
+sequence SF100I100
+  F100I100D0
+  F101I100D1
+end SF100I100
+
