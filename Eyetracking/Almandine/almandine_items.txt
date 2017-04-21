@@ -1,0 +1,216 @@
+1 1 The famous actress said that Jessica unfairly depicted herself as unfeeling and unaffected by public opinion.
+2 1 The famous actor said that Jessica unfairly depicted herself as unfeeling and unaffected by public opinion.
+3 1 The famous actress said that it unfairly depicted herself as unfeeling and unaffected by public opinion.
+4 1 The famous actor said that it unfairly depicted herself as unfeeling and unaffected by public opinion.
+5 1 The famous actress said that I unfairly depicted herself as unfeeling and unaffected by public opinion.
+6 1 The famous actor said that I unfairly depicted herself as unfeeling and unaffected by public opinion.
+1 2 The influential congresswoman said that Ashley definitely inspired herself to give back to the community more.
+2 2 The influential congressman said that Ashley definitely inspired herself to give back to the community more.
+3 2 The influential congresswoman said that it definitely inspired herself to give back to the community more.
+4 2 The influential congressman said that it definitely inspired herself to give back to the community more.
+5 2 The influential congresswoman said that I definitely inspired herself to give back to the community more.
+6 2 The influential congressman said that I definitely inspired herself to give back to the community more.
+1 3 The industrious councilwoman insisted that Emily frequently characterized herself as exceptionally helpful and diligent.
+2 3 The industrious councilman insisted that Emily frequently characterized herself as exceptionally helpful and diligent.
+3 3 The industrious councilwoman insisted that it frequently characterized herself as exceptionally helpful and diligent.
+4 3 The industrious councilman insisted that it frequently characterized herself as exceptionally helpful and diligent.
+5 3 The industrious councilwoman insisted that I frequently characterized herself as exceptionally helpful and diligent.
+6 3 The industrious councilman insisted that I frequently characterized herself as exceptionally helpful and diligent.
+1 4 The female witness said that Samantha completely misrepresented herself in the trial but the jury didn't buy it.
+2 4 The male witness said that Samantha completely misrepresented herself in the trial but the jury didn't buy it.
+3 4 The female witness said that it completely misrepresented herself in the trial but the jury didn't buy it.
+4 4 The male witness said that it completely misrepresented herself in the trial but the jury didn't buy it.
+5 4 The female witness said that I completely misrepresented herself in the trial but the jury didn't buy it.
+6 4 The male witness said that I completely misrepresented herself in the trial but the jury didn't buy it.
+1 5 The aspiring actress complained that Sarah cruelly portrayed herself as petty and vindictive.
+2 5 The aspiring actor complained that Sarah cruelly portrayed herself as petty and vindictive.
+3 5 The aspiring actress complained that it cruelly portrayed herself as petty and vindictive.
+4 5 The aspiring actor complained that it cruelly portrayed herself as petty and vindictive.
+5 5 The aspiring actress complained that I cruelly portrayed herself as petty and vindictive.
+6 5 The aspiring actor complained that I cruelly portrayed herself as petty and vindictive.
+1 6 The skilled businesswoman mentioned that Taylor misleadingly described herself as hardworking and industrious during the interview.
+2 6 The skilled businessman mentioned that Taylor misleadingly described herself as hardworking and industrious during the interview.
+3 6 The skilled businesswoman mentioned that it misleadingly described herself as hardworking and industrious during the interview.
+4 6 The skilled businessman mentioned that it misleadingly described herself as hardworking and industrious during the interview.
+5 6 The skilled businesswoman mentioned that I misleadingly described herself as hardworking and industrious during the interview.
+6 6 The skilled businessman mentioned that I misleadingly described herself as hardworking and industrious during the interview.
+1 7 The gorgeous supermodel boasted that Hannah consistently underestimated herself when it came to giving public speeches.
+2 7 The handsome actor boasted that Hannah consistently underestimated herself when it came to giving public speeches.
+3 7 The gorgeous supermodel boasted that it consistently underestimated herself when it came to giving public speeches.
+4 7 The handsome actor boasted that it consistently underestimated herself when it came to giving public speeches.
+5 7 The gorgeous supermodel boasted that I consistently underestimated herself when it came to giving public speeches.
+6 7 The handsome actor boasted that I consistently underestimated herself when it came to giving public speeches.
+1 8 The gullible librarian admitted that Elizabeth somehow managed to trick herself into believing that the story was true.
+2 8 The gullible janitor admitted that Elizabeth somehow managed to trick herself into believing that the story was true.
+3 8 The gullible librarian admitted that it somehow managed to trick herself into believing that the story was true.
+4 8 The gullible janitor admitted that it somehow managed to trick herself into believing that the story was true.
+5 8 The gullible librarian admitted that I somehow managed to trick herself into believing that the story was true.
+6 8 The gullible janitor admitted that I somehow managed to trick herself into believing that the story was true.
+1 9 The innocent secretary said that Kayla definitely exonerated herself in the eyes of the court.
+2 9 The innocent manager said that Kayla definitely exonerated herself in the eyes of the court.
+3 9 The innocent secretary said that it definitely exonerated herself in the eyes of the court.
+4 9 The innocent manager said that it definitely exonerated herself in the eyes of the court.
+5 9 The innocent secretary said that I definitely exonerated herself in the eyes of the court.
+6 9 The innocent manager said that I definitely exonerated herself in the eyes of the court.
+1 10 The flustered nurse complained that Rachel embarrassingly called herself very attractive and made suggestive comments.
+2 10 The flustered doctor complained that Rachel embarrassingly called herself very attractive and made suggestive comments.
+3 10 The flustered nurse complained that it embarrassingly called herself very attractive and made suggestive comments.
+4 10 The flustered doctor complained that it embarrassingly called herself very attractive and made suggestive comments.
+5 10 The flustered nurse complained that I embarrassingly called herself very attractive and made suggestive comments.
+6 10 The flustered doctor complained that I embarrassingly called herself very attractive and made suggestive comments.
+1 11 The buxom waitress mentioned that Megan wholeheartedly recommended herself for the new position.
+2 11 The scruffy waiter mentioned that Megan wholeheartedly recommended herself for the new position.
+3 11 The buxom waitress mentioned that it wholeheartedly recommended herself for the new position.
+4 11 The scruffy waiter mentioned that it wholeheartedly recommended herself for the new position.
+5 11 The buxom waitress mentioned that I wholeheartedly recommended herself for the new position.
+6 11 The scruffy waiter mentioned that I wholeheartedly recommended herself for the new position.
+1 12 The elderly woman insisted that Alexis would finally redeem herself in the eyes of her family.
+2 12 The elderly man insisted that Alexis would finally redeem herself in the eyes of her family.
+3 12 The elderly woman insisted that it would finally redeem herself in the eyes of her family.
+4 12 The elderly man insisted that it would finally redeem herself in the eyes of her family.
+5 12 The elderly woman insisted that I would finally redeem herself in the eyes of her family.
+6 12 The elderly man insisted that I would finally redeem herself in the eyes of her family.
+1 13 The conscientious nanny argued that Lauren clearly implicated herself in the accident that happened in the driveway.
+2 13 The conscientious mailman argued that Lauren clearly implicated herself in the accident that happened in the driveway.
+3 13 The conscientious nanny argued that it clearly implicated herself in the accident that happened in the driveway.
+4 13 The conscientious mailman argued that it clearly implicated herself in the accident that happened in the driveway.
+5 13 The conscientious nanny argued that I clearly implicated herself in the accident that happened in the driveway.
+6 13 The conscientious mailman argued that I clearly implicated herself in the accident that happened in the driveway.
+1 14 The sorority girl mentioned that Courtney sneakily photographed herself on the way to the party.
+2 14 The frat boy mentioned that Courtney sneakily photographed herself on the way to the party.
+3 14 The sorority girl mentioned that it sneakily photographed herself on the way to the party.
+4 14 The frat boy mentioned that it sneakily photographed herself on the way to the party.
+5 14 The sorority girl mentioned that I sneakily photographed herself on the way to the party.
+6 14 The frat boy mentioned that I sneakily photographed herself on the way to the party.
+1 15 The proud girl scout boasted that Jennifer easily taught herself how to build a fire using only two sticks and a rock.
+2 15 The proud boy scout boasted that Jennifer easily taught herself how to build a fire using only two sticks and a rock.
+3 15 The proud girl scout boasted that it easily taught herself how to build a fire using only two sticks and a rock.
+4 15 The proud boy scout boasted that it easily taught herself how to build a fire using only two sticks and a rock.
+5 15 The proud girl scout boasted that I easily taught herself how to build a fire using only two sticks and a rock.
+6 15 The proud boy scout boasted that I easily taught herself how to build a fire using only two sticks and a rock.
+1 16 The shy schoolgirl confessed that Victoria had thoroughly embarrassed herself in the cafeteria during lunch.
+2 16 The shy schoolboy confessed that Victoria had thoroughly embarrassed herself in the cafeteria during lunch.
+3 16 The shy schoolgirl confessed that it had thoroughly embarrassed herself in the cafeteria during lunch.
+4 16 The shy schoolboy confessed that it had thoroughly embarrassed herself in the cafeteria during lunch.
+5 16 The shy schoolgirl confessed that I had thoroughly embarrassed herself in the cafeteria during lunch.
+6 16 The shy schoolboy confessed that I had thoroughly embarrassed herself in the cafeteria during lunch.
+1 17 The graceful harpist said that Amber shamelessly promoted herself as a famous musician in the making.
+2 17 The somber minister said that Amber shamelessly promoted herself as a famous musician in the making.
+3 17 The graceful harpist said that it shamelessly promoted herself as a famous musician in the making.
+4 17 The somber minister said that it shamelessly promoted herself as a famous musician in the making.
+5 17 The graceful harpist said that I shamelessly promoted herself as a famous musician in the making.
+6 17 The somber minister said that I shamelessly promoted herself as a famous musician in the making.
+1 18 The aging congresswoman argued that Amanda completely underestimated herself during the long and grueling campaign.
+2 18 The aging congressman argued that Amanda completely underestimated herself during the long and grueling campaign.
+3 18 The aging congresswoman argued that it completely underestimated herself during the long and grueling campaign.
+4 18 The aging congressman argued that it completely underestimated herself during the long and grueling campaign.
+5 18 The aging congresswoman argued that I completely underestimated herself during the long and grueling campaign.
+6 18 The aging congressman argued that I completely underestimated herself during the long and grueling campaign.
+1 19 The impatient manager insisted that Michael had irreversibly committed himself to four years with the film studio.
+2 19 The high-heeled publicist insisted that Michael had irreversibly committed himself to four years with the film studio.
+3 19 The impatient manager insisted that it had irreversibly committed himself to four years with the film studio.
+4 19 The high-heeled publicist insisted that it had irreversibly committed himself to four years with the film studio.
+5 19 The impatient manager insisted that I had irreversibly committed himself to four years with the film studio.
+6 19 The high-heeled publicist insisted that I had irreversibly committed himself to four years with the film studio.
+1 20 The industrious schoolboy said that Matthew usually allowed himself to take a break from archiving.
+2 20 The industrious schoolgirl said that Matthew usually allowed himself to take a break from archiving.
+3 20 The industrious schoolboy said that it usually allowed himself to take a break from archiving.
+4 20 The industrious schoolgirl said that it usually allowed himself to take a break from archiving.
+5 20 The industrious schoolboy said that I usually allowed himself to take a break from archiving.
+6 20 The industrious schoolgirl said that I usually allowed himself to take a break from archiving.
+1 21 The trustworthy policeman reported that Christopher roundly criticized himself for the error during the trial.
+2 21 The trustworthy policewoman reported that Christopher roundly criticized himself for the error during the trial.
+3 21 The trustworthy policeman reported that it roundly criticized himself for the error during the trial.
+4 21 The trustworthy policewoman reported that it roundly criticized himself for the error during the trial.
+5 21 The trustworthy policeman reported that I roundly criticized himself for the error during the trial.
+6 21 The trustworthy policewoman reported that I roundly criticized himself for the error during the trial.
+1 22 The talented director said that Jacob uncharitably described himself as cruel and abusive in the workplace.
+2 22 The beautiful supermodel said that Jacob uncharitably described himself as cruel and abusive in the workplace.
+3 22 The talented director said that it uncharitably described himself as cruel and abusive in the workplace.
+4 22 The beautiful supermodel said that it uncharitably described himself as cruel and abusive in the workplace.
+5 22 The talented director said that I uncharitably described himself as cruel and abusive in the workplace.
+6 22 The beautiful supermodel said that I uncharitably described himself as cruel and abusive in the workplace.
+1 23 The republican congressman complained that Joshua maliciously misrepresented himself to young voters across the country.
+2 23 The dutiful receptionist complained that Joshua maliciously misrepresented himself to young voters across the country.
+3 23 The republican congressman complained that it maliciously misrepresented himself to young voters across the country.
+4 23 The dutiful receptionist complained that it maliciously misrepresented himself to young voters across the country.
+5 23 The republican congressman complained that I maliciously misrepresented himself to young voters across the country.
+6 23 The dutiful receptionist complained that I maliciously misrepresented himself to young voters across the country.
+1 24 The wealthy banker argued that Nicholas unintentionally cast himself in a negative and slanderous light at the board meeting.
+2 24 The diligent secretary argued that Nicholas unintentionally cast himself in a negative and slanderous light at the board meeting.
+3 24 The wealthy banker argued that it unintentionally cast himself in a negative and slanderous light at the board meeting.
+4 24 The diligent secretary argued that it unintentionally cast himself in a negative and slanderous light at the board meeting.
+5 24 The wealthy banker argued that I unintentionally cast himself in a negative and slanderous light at the board meeting.
+6 24 The diligent secretary argued that I unintentionally cast himself in a negative and slanderous light at the board meeting.
+1 25 The charming butcher boasted that Brandon highly praised himself for a job skillfully and tastefully done.
+2 25 The pretty florist boasted that Brandon highly praised himself for a job skillfully and tastefully done.
+3 25 The charming butcher boasted that it highly praised himself for a job skillfully and tastefully done.
+4 25 The pretty florist boasted that it highly praised himself for a job skillfully and tastefully done.
+5 25 The charming butcher boasted that I highly praised himself for a job skillfully and tastefully done.
+6 25 The pretty florist boasted that I highly praised himself for a job skillfully and tastefully done.
+1 26 The security guard admitted that Daniel apparently identified himself as a potential suspect in an ongoing investigation.
+2 26 The friendly receptionist admitted that Daniel apparently identified himself as a potential suspect in an ongoing investigation.
+3 26 The security guard admitted that it apparently identified himself as a potential suspect in an ongoing investigation.
+4 26 The friendly receptionist admitted that it apparently identified himself as a potential suspect in an ongoing investigation.
+5 26 The security guard admitted that I apparently identified himself as a potential suspect in an ongoing investigation.
+6 26 The friendly receptionist admitted that I apparently identified himself as a potential suspect in the ongoing investigation.
+1 27 The legendary rock star said that Austin definitely inspired himself to write a new song about this social injustice.
+2 27 The legendary pop diva said that Austin definitely inspired himself to write a new song about this social injustice.
+3 27 The legendary rock star said that it definitely inspired himself to write a new song about this social injustice.
+4 27 The legendary pop diva said that it definitely inspired himself to write a new song about this social injustice.
+5 27 The legendary rock star said that I definitely inspired himself to write a new song about this social injustice.
+6 27 The legendary pop diva said that I definitely inspired himself to write a new song about this social injustice.
+1 28 The brilliant detective reported that Andrew fully convinced himself that the testimony was false and unreliable.
+2 28 The serious newswoman reported that Andrew fully convinced himself that the testimony was false and unreliable.
+3 28 The brilliant detective reported that it fully convinced himself that the testimony was false and unreliable.
+4 28 The serious newswoman reported that it fully convinced himself that the testimony was false and unreliable.
+5 28 The brilliant detective reported that I fully convinced himself that the testimony was false and unreliable.
+6 28 The serious newswoman reported that I fully convinced himself that the testimony was false and unreliable.
+1 29 The corrupt senator insisted that Joseph would definitely appoint himself as the new county commissioner before the election.
+2 29 The female senator insisted that Joseph would definitely appoint himself as the new county commissioner before the election.
+3 29 The corrupt senator insisted that it would definitely appoint himself as the new county commissioner before the election.
+4 29 The female senator insisted that it would definitely appoint himself as the new county commissioner before the election.
+5 29 The corrupt senator insisted that I would definitely appoint himself as the new county commissioner before the election.
+6 29 The female senator insisted that I would definitely appoint himself as the new county commissioner before the election.
+1 30 The arrogant businessman said that John had apparently characterized himself as greedy but successful.
+2 30 The arrogant businesswoman said that John had apparently characterized himself as greedy but successful.
+3 30 The arrogant businessman said that it had apparently characterized himself as greedy but successful.
+4 30 The arrogant businesswoman said that it had apparently characterized himself as greedy but successful.
+5 30 The arrogant businessman said that I had apparently characterized himself as greedy but successful.
+6 30 The arrogant businesswoman said that I had apparently characterized himself as greedy but successful.
+1 31 The undercover policeman confessed that Zachary had evidently recorded himself talking about the secret plot.
+2 31 The undercover policewoman confessed that Zachary had evidently recorded himself talking about the secret plot.
+3 31 The undercover policeman confessed that it had evidently recorded himself talking about the secret plot.
+4 31 The undercover policewoman confessed that it had evidently recorded himself talking about the secret plot.
+5 31 The undercover policeman confessed that I had evidently recorded himself talking about the secret plot.
+6 31 The undercover policewoman confessed that I had evidently recorded himself talking about the secret plot.
+1 32 The popular policeman reported that David had thoughtfully nominated himself for the prestigious community service award.
+2 32 The popular policewoman reported that David had thoughtfully nominated himself for the prestigious community service award.
+3 32 The popular policeman reported that it had thoughtfully nominated himself for the prestigious community service award.
+4 32 The popular policewoman reported that it had thoughtfully nominated himself for the prestigious community service award.
+5 32 The popular policeman reported that I had thoughtfully nominated himself for the prestigious community service award.
+6 32 The popular policewoman reported that I had thoughtfully nominated himself for the prestigious community service award.
+1 33 The irritable waiter mentioned that Justin obviously complimented himself for the excellent and expensive meal.
+2 33 The irritable waitress mentioned that Justin obviously complimented himself for the excellent and expensive meal.
+3 33 The irritable waiter mentioned that it obviously complimented himself for the excellent and expensive meal.
+4 33 The irritable waitress mentioned that it obviously complimented himself for the excellent and expensive meal.
+5 33 The irritable waiter mentioned that I obviously complimented himself for the excellent and expensive meal.
+6 33 The irritable waitress mentioned that I obviously complimented himself for the excellent and expensive meal.
+1 34 The rich CEO said that Kyle helpfully prevented himself from losing any more money at the casino.
+2 34 The wealthy heiress said that Kyle helpfully prevented himself from losing any more money at the casino.
+3 34 The rich CEO said that it helpfully prevented himself from losing any more money at the casino.
+4 34 The wealthy heiress said that it helpfully prevented himself from losing any more money at the casino.
+5 34 The rich CEO said that I helpfully prevented himself from losing any more money at the casino.
+6 34 The wealthy heiress said that I helpfully prevented himself from losing any more money at the casino.
+1 35 The new executive revealed that Alexander uncharitably blamed himself for all the compromises made on the way to the top.
+2 35 The glamorous supermodel revealed that Alexander uncharitably blamed himself for all the compromises made on the way to the top.
+3 35 The new executive revealed that it uncharitably blamed himself for all the compromises made on the way to the top.
+4 35 The glamorous supermodel revealed that it uncharitably blamed himself for all the compromises made on the way to the top.
+5 35 The new executive revealed that I uncharitably blamed himself for all the compromises made on the way to the top.
+6 35 The glamorous supermodel revealed that I uncharitably blamed himself for all the compromises made on the way to the top.
+1 36 The exasperated manager declared that Robert unfairly denied himself a chance at advancing in the company.
+2 36 The exasperated secretary declared that Robert unfairly denied himself a chance at advancing in the company.
+3 36 The exasperated manager declared that it unfairly denied himself a chance at advancing in the company.
+4 36 The exasperated secretary declared that it unfairly denied himself a chance at advancing in the company.
+5 36 The exasperated manager declared that I unfairly denied himself a chance at advancing in the company.
+6 36 The exasperated secretary declared that I unfairly denied himself a chance at advancing in the company.
