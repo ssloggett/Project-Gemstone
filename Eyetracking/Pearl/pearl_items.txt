@@ -1,0 +1,684 @@
+1	1	0	sentence		30000	In a recent media frenzy, many people said some unflattering things about Hollywood icons.
+1	1	1	sentence		30000	The famous actress said that Jessica depicted herself as unfeeling and unaffected by public opinion.
+2	1	0	sentence		30000	In a recent media frenzy, many people said some unflattering things about Hollywood icons.
+2	1	1	sentence		30000	The famous actor said that Jessica depicted herself as unfeeling and unaffected by public opinion.
+3	1	0	sentence		30000	In a recent media frenzy, many people said some unflattering things about Hollywood icons.
+3	1	1	sentence		30000	The famous actress said that they depicted herself as unfeeling and unaffected by public opinion.
+4	1	0	sentence		30000	In a recent media frenzy, many people said some unflattering things about Hollywood icons.
+4	1	1	sentence		30000	The famous actor said that they depicted herself as unfeeling and unaffected by public opinion.
+5	1	0	sentence		30000	In a recent media frenzy, I said some unflattering things about Hollywood icons.
+5	1	1	sentence		30000	The famous actress said that I depicted herself as unfeeling and unaffected by public opinion.
+6	1	0	sentence		30000	In a recent media frenzy, I said some unflattering things about Hollywood icons.
+6	1	1	sentence		30000	The famous actor said that I depicted herself as unfeeling and unaffected by public opinion.
+30	1	2	question	leftTrigger	30000	The famous actor heard that it unfairly depicted herself as unfeeling and unaffected by public opinion.
+1	2	0	sentence		30000	After the devastating earthquake, some rescue workers received a lot of media attention.
+1	2	1	sentence		30000	The influential congresswoman said that Ashley inspired herself to give back to the community more.
+2	2	0	sentence		30000	After the devastating earthquake, some rescue workers received a lot of media attention.
+2	2	1	sentence		30000	The influential congressman said that Ashley inspired herself to give back to the community more.
+3	2	0	sentence		30000	After the devastating earthquake, some rescue workers received a lot of media attention.
+3	2	1	sentence		30000	The influential congresswoman said that they inspired herself to give back to the community more.
+4	2	0	sentence		30000	After the devastating earthquake, some rescue workers received a lot of media attention.
+4	2	1	sentence		30000	The influential congressman said that they inspired herself to give back to the community more.
+5	2	0	sentence		30000	After the devastating earthquake, I received a lot of media attention.
+5	2	1	sentence		30000	The influential congresswoman said that I inspired herself to give back to the community more.
+6	2	0	sentence		30000	After the devastating earthquake, I received a lot of media attention.
+6	2	1	sentence		30000	The influential congressman said that I inspired herself to give back to the community more.
+30	2	2	question	leftTrigger	30000	Was the earthquake very bad?\n\nyes                                     no
+1	3	0	sentence		30000	During a closed door meeting about hiring policy, some employees called into question recent decisions.
+1	3	1	sentence		30000	The industrious councilwoman insisted that Emily characterized herself as exceptionally helpful and diligent.
+2	3	0	sentence		30000	During a closed door meeting about hiring policy, some employees called into question recent decisions.
+2	3	1	sentence		30000	The industrious councilman insisted that Emily characterized herself as exceptionally helpful and diligent.
+3	3	0	sentence		30000	During a closed door meeting about hiring policy, some employees called into question recent decisions.
+3	3	1	sentence		30000	The industrious councilwoman insisted that they characterized herself as exceptionally helpful and diligent.
+4	3	0	sentence		30000	During a closed door meeting about hiring policy, some employees called into question recent decisions.
+4	3	1	sentence		30000	The industrious councilman insisted that they characterized herself as exceptionally helpful and diligent.
+5	3	0	sentence		30000	During a closed door meeting about hiring policy, I called into question recent decisions.
+5	3	1	sentence		30000	The industrious councilwoman insisted that I characterized herself as exceptionally helpful and diligent.
+6	3	0	sentence		30000	During a closed door meeting about hiring policy, I called into question recent decisions.
+6	3	1	sentence		30000	The industrious councilman insisted that I characterized herself as exceptionally helpful and diligent.
+30	3	2	question	leftTrigger	30000	Was the council member hard working?\n\nyes                                     no
+1	4	0	sentence		30000	In a highly contentious criminal case, some people were frequently misquoted.
+1	4	1	sentence		30000	The female witness said that Samantha misrepresented herself in the trial but the jury didn't buy it.
+2	4	0	sentence		30000	In a highly contentious criminal case, some people were frequently misquoted.
+2	4	1	sentence		30000	The male witness said that Samantha misrepresented herself in the trial but the jury didn't buy it.
+3	4	0	sentence		30000	In a highly contentious criminal case, some people were frequently misquoted.
+3	4	1	sentence		30000	The female witness said that they misrepresented herself in the trial but the jury didn't buy it.
+4	4	0	sentence		30000	In a highly contentious criminal case, some people were frequently misquoted.
+4	4	1	sentence		30000	The male witness said that they misrepresented herself in the trial but the jury didn't buy it.
+5	4	0	sentence		30000	In a highly contentious criminal case, I was frequently misquoted.
+5	4	1	sentence		30000	The female witness said that I misrepresented herself in the trial but the jury didn't buy it.
+6	4	0	sentence		30000	In a highly contentious criminal case, I was frequently misquoted.
+6	4	1	sentence		30000	The male witness said that I misrepresented herself in the trial but the jury didn't buy it.
+30	4	2	question	leftTrigger	30000	Was the jury unconvinced?\n\nyes                                     no
+1	5	0	sentence		30000	In what became a major scandal, some reporters revealed a celebrity's intimate secrets.
+1	5	1	sentence		30000	The aspiring actress complained that Sarah portrayed herself as petty and vindictive.
+2	5	0	sentence		30000	In what became a major scandal, some reporters revealed a celebrity's intimate secrets.
+2	5	1	sentence		30000	The aspiring actor complained that Sarah portrayed herself as petty and vindictive.
+3	5	0	sentence		30000	In what became a major scandal, some reporters revealed a celebrity's intimate secrets.
+3	5	1	sentence		30000	The aspiring actress complained that they portrayed herself as petty and vindictive.
+4	5	0	sentence		30000	In what became a major scandal, some reporters revealed a celebrity's intimate secrets.
+4	5	1	sentence		30000	The aspiring actor complained that they portrayed herself as petty and vindictive.
+5	5	0	sentence		30000	In what became a major scandal, I revealed a celebrity's intimate secrets.
+5	5	1	sentence		30000	The aspiring actress complained that I portrayed herself as petty and vindictive.
+6	5	0	sentence		30000	In what became a major scandal, I revealed a celebrity's intimate secrets.
+6	5	1	sentence		30000	The aspiring actor complained that I portrayed herself as petty and vindictive.
+30	5	2	question	leftTrigger	30000	What got revealed in the scandal?\n\nsecrets                                     photos
+1	6	0	sentence		30000	Several newspapers reported that prominent members of the business community recommended the financier for the job.
+1	6	1	sentence		30000	The skilled businesswoman mentioned that Taylor described herself as hardworking and industrious during the interview.
+2	6	0	sentence		30000	Several newspapers reported that prominent members of the business community recommended the financier for the job.
+2	6	1	sentence		30000	The skilled businessman mentioned that Taylor described herself as hardworking and industrious during the interview.
+3	6	0	sentence		30000	Several newspapers reported that prominent members of the business community recommended the financier for the job.
+3	6	1	sentence		30000	The skilled businesswoman mentioned that they described herself as hardworking and industrious during the interview.
+4	6	0	sentence		30000	Several newspapers reported that prominent members of the business community recommended the financier for the job.
+4	6	1	sentence		30000	The skilled businessman mentioned that they described herself as hardworking and industrious during the interview.
+5	6	0	sentence		30000	Several newspapers reported that I recommended the financier for the job.
+5	6	1	sentence		30000	The skilled businesswoman mentioned that I described herself as hardworking and industrious during the interview.
+6	6	0	sentence		30000	Several newspapers reported that I recommended the financier for the job.
+6	6	1	sentence		30000	The skilled businessman mentioned that I described herself as hardworking and industrious during the interview.
+30	6	2	question	leftTrigger	30000	Who reported that the financier had been recommended?\n\nthe newspapers                                     a prominent businessman                                     
+1	7	0	sentence		30000	A recent interview showed a few newscasters making disparaging remarks about fashion models.
+1	7	1	sentence		30000	The gorgeous supermodel boasted that Hannah underestimated herself when it came to giving public speeches.
+2	7	0	sentence		30000	A recent interview showed a few newscasters making disparaging remarks about fashion models.
+2	7	1	sentence		30000	The handsome actor boasted that Hannah underestimated herself when it came to giving public speeches.
+3	7	0	sentence		30000	A recent interview showed a few newscasters making disparaging remarks about fashion models.
+3	7	1	sentence		30000	The gorgeous supermodel boasted that they underestimated herself when it came to giving public speeches.
+4	7	0	sentence		30000	A recent interview showed a few newscasters making disparaging remarks about fashion models.
+4	7	1	sentence		30000	The handsome actor boasted that they underestimated herself when it came to giving public speeches.
+5	7	0	sentence		30000	A recent interview showed me making disparaging remarks about fashion models.
+5	7	1	sentence		30000	The gorgeous supermodel boasted that I underestimated herself when it came to giving public speeches.
+6	7	0	sentence		30000	A recent interview showed me making disparaging remarks about fashion models.
+6	7	1	sentence		30000	The handsome actor boasted that I underestimated herself when it came to giving public speeches.
+30	7	2	question	leftTrigger	30000	Was the interview recent?\n\nyes                                     no
+1	8	0	sentence		30000	To prank the school staff, a few students circulated a rumor about an undercover celebrity on campus.
+1	8	1	sentence		30000	The gullible librarian admitted that Elizabeth tricked herself into believing that the story was true.
+2	8	0	sentence		30000	To prank the school staff, a few students circulated a rumor about an undercover celebrity on campus.
+2	8	1	sentence		30000	The gullible janitor admitted that Elizabeth tricked herself into believing that the story was true.
+3	8	0	sentence		30000	To prank the school staff, a few students circulated a rumor about an undercover celebrity on campus.
+3	8	1	sentence		30000	The gullible librarian admitted that they tricked herself into believing that the story was true.
+4	8	0	sentence		30000	To prank the school staff, a few students circulated a rumor about an undercover celebrity on campus.
+4	8	1	sentence		30000	The gullible janitor admitted that they tricked herself into believing that the story was true.
+5	8	0	sentence		30000	To prank the school staff, I circulated a rumor about an undercover celebrity on campus.
+5	8	1	sentence		30000	The gullible librarian admitted that I tricked herself into believing that the story was true.
+6	8	0	sentence		30000	To prank the school staff, I circulated a rumor about an undercover celebrity on campus.
+6	8	1	sentence		30000	The gullible janitor admitted that I tricked herself into believing that the story was true.
+30	8	2	question	leftTrigger	30000	Was there actually a celebrity on campus?\n\n no                                     yes
+1	9	0	sentence		30000	During the hearings, a controversial witness shed new light on the case.
+1	9	1	sentence		30000	The innocent secretary said that Kayla exonerated herself in the eyes of the court.
+2	9	0	sentence		30000	During the hearings, a controversial witness shed new light on the case.
+2	9	1	sentence		30000	The innocent manager said that Kayla exonerated herself in the eyes of the court.
+3	9	0	sentence		30000	During the hearings, some controversial witnesses shed new light on the case.
+3	9	1	sentence		30000	The innocent secretary said that they exonerated herself in the eyes of the court.
+4	9	0	sentence		30000	During the hearings, some controversial witnesses shed new light on the case.
+4	9	1	sentence		30000	The innocent manager said that they exonerated herself in the eyes of the court.
+5	9	0	sentence		30000	During the hearings, I shed new light on the case.
+5	9	1	sentence		30000	The innocent secretary said that I exonerated herself in the eyes of the court.
+6	9	0	sentence		30000	During the hearings, I shed new light on the case.
+6	9	1	sentence		30000	The innocent manager said that I exonerated herself in the eyes of the court.
+30	9	2	question	leftTrigger	30000	When did the new evidence come to light?\n\n in the midst of the hearings                                     after the hearings
+1	10	0	sentence		30000	One of the patients revealed that they had a crush on someone in the hospital.
+1	10	1	sentence		30000	The flustered nurse complained that Rachel called herself very attractive and made suggestive comments.
+2	10	0	sentence		30000	One of the patients revealed that they had a crush on someone in the hospital.
+2	10	1	sentence		30000	The flustered doctor complained that Rachel called herself very attractive and made suggestive comments.
+3	10	0	sentence		30000	One of the patients revealed that they had a crush on someone in the hospital.
+3	10	1	sentence		30000	The flustered nurse complained that they called herself very attractive and made suggestive comments.
+4	10	0	sentence		30000	One of the patients revealed that they had a crush on someone in the hospital.
+4	10	1	sentence		30000	The flustered doctor complained that they called herself very attractive and made suggestive comments.
+5	10	0	sentence		30000	I revealed that I had a crush on someone in the hospital.
+5	10	1	sentence		30000	The flustered nurse complained that I called herself very attractive and made suggestive comments.
+6	10	0	sentence		30000	I revealed that I had a crush on someone in the hospital.
+6	10	1	sentence		30000	The flustered doctor complained that I called herself very attractive and made suggestive comments.
+30	10	2	question	rightTrigger	30000	Was the medical staffer unaffected by the revelation about the crush?\n\n yes                                     no
+1	11	0	sentence		30000	One of the chefs suggested that the kitchen should hire someone new.
+1	11	1	sentence		30000	The pretty waitress mentioned that Megan recommended herself for the new position.
+2	11	0	sentence		30000	One of the chefs suggested that the kitchen should hire someone new.
+2	11	1	sentence		30000	The scruffy waiter mentioned that Megan recommended herself for the new position.
+3	11	0	sentence		30000	One of the chefs suggested that the kitchen should hire someone new.
+3	11	1	sentence		30000	The pretty waitress mentioned that they recommended herself for the new position.
+4	11	0	sentence		30000	One of the chefs suggested that the kitchen should hire someone new.
+4	11	1	sentence		30000	The scruffy waiter mentioned that they recommended herself for the new position.
+5	11	0	sentence		30000	I suggested that the kitchen should hire someone new.
+5	11	1	sentence		30000	The pretty waitress mentioned that I recommended herself for the new position.
+6	11	0	sentence		30000	I suggested that the kitchen should hire someone new.
+6	11	1	sentence		30000	The scruffy waiter mentioned that I recommended herself for the new position.
+30	11	2	question	rightTrigger	30000	Did a member of the kitchen staff who mentioned something?\n\n yes                                     no
+1	12	0	sentence		30000	The celebrity expressed deep regret for the questionable behavior.
+1	12	1	sentence		30000	The elderly woman insisted that Alexis redeemed herself in the eyes of her family.
+2	12	0	sentence		30000	The celebrity seemed sincerely repentent for the questionable behavior.
+2	12	1	sentence		30000	The elderly man insisted that Alexis redeemed herself in the eyes of his family.
+3	12	0	sentence		30000	The collection of letters expressed deep regret for the questionable behavior.
+3	12	1	sentence		30000	The elderly woman insisted that they redeemed herself in the eyes of her family.
+4	12	0	sentence		30000	The collection of letters expressed deep regret for the questionable behavior.
+4	12	1	sentence		30000	The elderly man insisted that they redeemed herself in the eyes of his family.
+5	12	0	sentence		30000	I expressed deep regret for the questionable behavior.
+5	12	1	sentence		30000	The elderly woman insisted that I redeemed herself in the eyes of her family.
+6	12	0	sentence		30000	I expressed deep regret for the questionable behavior.
+6	12	1	sentence		30000	The elderly man insisted that I redeemed herself in the eyes of his family.
+30	12	2	question	rightTrigger	30000	In whose eyes was someone redeeemed?\n\n their friends                                     their family
+1	13	0	sentence		30000	A few passersby gave evidence in the case of the hit-and-run.
+1	13	1	sentence		30000	The conscientious nanny argued that Lauren implicated herself for the accident that happened in the driveway.
+2	13	0	sentence		30000	A few passersby gave evidence in the case of the hit-and-run.
+2	13	1	sentence		30000	The conscientious mailman argued that Lauren implicated herself for the accident that happened in the driveway.
+3	13	0	sentence		30000	A few passersby gave evidence in the case of the hit-and-run.
+3	13	1	sentence		30000	The conscientious nanny argued that they implicated herself for the accident that happened in the driveway.
+4	13	0	sentence		30000	A few passersby gave evidence in the case of the hit-and-run.
+4	13	1	sentence		30000	The conscientious mailman argued that they implicated herself for the accident that happened in the driveway.
+5	13	0	sentence		30000	I gave evidence in the case of the hit-and-run.
+5	13	1	sentence		30000	The conscientious nanny argued that I implicated herself for the accident that happened in the driveway.
+6	13	0	sentence		30000	I gave evidence in the case of the hit-and-run.
+6	13	1	sentence		30000	The conscientious mailman argued that I implicated herself for the accident that happened in the driveway.
+30	13	2	question	rightTrigger	30000	Where did the accident happen?\n\n in the street                                     in the driveway
+1	14	0	sentence		30000	One of the campus RAs caught some college students heading out for the evening.
+1	14	1	sentence		30000	The sorority girl mentioned that Courtney photographed herself on the way to the party.
+2	14	0	sentence		30000	One of the campus RAs caught some college students heading out for the evening.
+2	14	1	sentence		30000	The frat boy mentioned that Courtney photographed herself on the way to the party.
+3	14	0	sentence		30000	Some of the campus RAs caught some college students heading out for the evening.
+3	14	1	sentence		30000	The sorority girl mentioned that they photographed herself on the way to the party.
+4	14	0	sentence		30000	Some of the campus RAs caught some college students heading out for the evening.
+4	14	1	sentence		30000	The frat boy mentioned that they photographed herself on the way to the party.
+5	14	0	sentence		30000	I caught some college students heading out for the evening.
+5	14	1	sentence		30000	The sorority girl mentioned that I photographed herself on the way to the party.
+6	14	0	sentence		30000	I caught some college students heading out for the evening.
+6	14	1	sentence		30000	The frat boy mentioned that I photographed herself on the way to the party.
+30	14	2	question	rightTrigger	30000	Where were the photographs taken?\n\n on the way to the mall                                     on the way to a party
+1	15	0	sentence		30000	Some girl scouts were brought in to give advice on wilderness survival.
+1	15	1	sentence		30000	The proud mother boasted that Jennifer taught herself how to build a fire using only two sticks and a rock.
+2	15	0	sentence		30000	Some girl scouts were brought in to give advice on wilderness survival.
+2	15	1	sentence		30000	The rugged hiker boasted that Jennifer taught herself how to build a fire using only two sticks and a rock.
+3	15	0	sentence		30000	Some girl scouts were brought in to give advice on wilderness survival.
+3	15	1	sentence		30000	The proud mother boasted that they taught herself how to build a fire using only two sticks and a rock.
+4	15	0	sentence		30000	Some girl scouts were brought in to give advice on wilderness survival.
+4	15	1	sentence		30000	The rugged hiker boasted that they taught herself how to build a fire using only two sticks and a rock.
+5	15	0	sentence		30000	I was brought in to give advice on wilderness survival.
+5	15	1	sentence		30000	The proud mother boasted that I taught herself how to build a fire using only two sticks and a rock.
+6	15	0	sentence		30000	I was brought in to give advice on wilderness survival.
+6	15	1	sentence		30000	The rugged hiker boasted that I taught herself how to build a fire using only two sticks and a rock.
+30	15	2	question	rightTrigger	30000	How was the fire built?\n\n with a fire starter                                     with a rock and some sticks
+1	16	0	sentence		30000	One of the interns caused a bit of a stir in the library.
+1	16	1	sentence		30000	The shy schoolgirl confessed that Victoria had embarrassed herself in the cafeteria during lunch.
+2	16	0	sentence		30000	One of the interns caused a bit of a stir in the library.
+2	16	1	sentence		30000	The shy schoolboy confessed that Victoria had embarrassed herself in the cafeteria during lunch.
+3	16	0	sentence		30000	Some of the interns caused a bit of a stir in the library.
+3	16	1	sentence		30000	The shy schoolgirl confessed that they had embarrassed herself in the cafeteria during lunch.
+4	16	0	sentence		30000	Some of the interns caused a bit of a stir in the library.
+4	16	1	sentence		30000	The shy schoolboy confessed that they had embarrassed herself in the cafeteria during lunch.
+5	16	0	sentence		30000	I caused a bit of a stir in the library.
+5	16	1	sentence		30000	The shy schoolgirl confessed that I had embarrassed herself in the cafeteria during lunch.
+6	16	0	sentence		30000	I caused a bit of a stir in the library.
+6	16	1	sentence		30000	The shy schoolboy confessed that I had embarrassed herself in the cafeteria during lunch.
+30	16	2	question	rightTrigger	30000	Where was someone embarrassed?\n\n in the library                                     in the cafeteria
+1	17	0	sentence		30000	A publicist was extremely complimentary of the recently released classical music album.
+1	17	1	sentence		30000	The graceful harpist said that Amber promoted herself as a famous musician in the making.
+2	17	0	sentence		30000	A publicist was extremely complimentary of the recently released classical music album.
+2	17	1	sentence		30000	The somber minister said that Amber promoted herself as a famous musician in the making.
+3	17	0	sentence		30000	Some publicists were extremely complimentary of the recently released classical music album.
+3	17	1	sentence		30000	The graceful harpist said that they promoted herself as a famous musician in the making.
+4	17	0	sentence		30000	Some publicists were extremely complimentary of the recently released classical music album.
+4	17	1	sentence		30000	The somber minister said that they promoted herself as a famous musician in the making.
+5	17	0	sentence		30000	I was extremely complimentary of the recently released classical music album.
+5	17	1	sentence		30000	The graceful harpist said that I promoted herself as a famous musician in the making.
+6	17	0	sentence		30000	I was extremely complimentary of the recently released classical music album.
+6	17	1	sentence		30000	The somber minister said that I promoted herself as a famous musician in the making.
+30	17	2	question	rightTrigger	30000	How was someone being promoted?\n\n as a budding star                                     as a budding musical talent
+1	18	0	sentence		30000	Several pundits indicated that the new strategy wouldn't be very useful in a bid for reelection.
+1	18	1	sentence		30000	The aging congresswoman admitted that Amanda underestimated herself during the long and grueling campaign.
+2	18	0	sentence		30000	Several pundits indicated that the new strategy wouldn't be very useful in a bid for reelection.
+2	18	1	sentence		30000	The aging congressman admitted that Amanda underestimated herself during the long and grueling campaign.
+3	18	0	sentence		30000	A recent poll indicated that the new strategy wouldn't be very useful in a bid for reelection.
+3	18	1	sentence		30000	The aging congresswoman admitted that it underestimated herself during the long and grueling campaign.
+4	18	0	sentence		30000	A recent poll indicated that the new strategy wouldn't be very useful in a bid for reelection.
+4	18	1	sentence		30000	The aging congressman admitted that it underestimated herself during the long and grueling campaign.
+5	18	0	sentence		30000	I indicated that the new strategy wouldn't be very useful in a bid for reelection.
+5	18	1	sentence		30000	The aging congresswoman admitted that I underestimated herself during the long and grueling campaign.
+6	18	0	sentence		30000	I indicated that the new strategy wouldn't be very useful in a bid for reelection.
+6	18	1	sentence		30000	The aging congressman admitted that I underestimated herself during the long and grueling campaign.
+30	18	2	question	rightTrigger	30000	What wasn't going to be useful for the reelection campaign?\n\n the same strategy                                     a new strategy
+1	19	0	sentence		30000	The budding actor came up in a recent conversation about signing deals with movie labels.
+1	19	1	sentence		30000	The impatient manager insisted that Michael had committed himself to four years with the film studio.
+2	19	0	sentence		30000	The budding actor came up in a recent conversation about signing deals with movie labels.
+2	19	1	sentence		30000	The high-heeled publicist insisted that Michael had committed himself to four years with the film studio.
+3	19	0	sentence		30000	The budding actors came up in a recent conversation about signing deals with movie labels.
+3	19	1	sentence		30000	The impatient manager insisted that they had committed himself to four years with the film studio.
+4	19	0	sentence		30000	The budding actors came up in a recent conversation about signing deals with movie labels.
+4	19	1	sentence		30000	The high-heeled publicist insisted that they had committed himself to four years with the film studio.
+5	19	0	sentence		30000	I came up in a recent conversation about signing deals with movie labels.
+5	19	1	sentence		30000	The impatient manager insisted that I had committed himself to four years with the film studio.
+6	19	0	sentence		30000	I came up in a recent conversation about signing deals with movie labels.
+6	19	1	sentence		30000	The high-heeled publicist insisted that I had committed himself to four years with the film studio.
+30	19	2	question	rightTrigger	30000	What was the conversation about?\n\n record label deals                                     move label deals
+1	20	0	sentence		30000	One of the union reps adressed the issue of over-working student interns.
+1	20	1	sentence		30000	The industrious schoolboy said that Matthew allowed himself to take a break from archiving.
+2	20	0	sentence		30000	One of the union reps adressed the issue of over-working student interns.
+2	20	1	sentence		30000	The industrious schoolgirl said that Matthew allowed himself to take a break from archiving.
+3	20	0	sentence		30000	Some of the union reps adressed the issue of over-working student interns.
+3	20	1	sentence		30000	The industrious schoolboy said that they allowed himself to take a break from archiving.
+4	20	0	sentence		30000	Some of the union reps adressed the issue of over-working student interns.
+4	20	1	sentence		30000	The industrious schoolgirl said that they allowed himself to take a break from archiving.
+5	20	0	sentence		30000	I adressed the issue of over-working student interns.
+5	20	1	sentence		30000	The industrious schoolboy said that I allowed himself to take a break from archiving.
+6	20	0	sentence		30000	I adressed the issue of over-working student interns.
+6	20	1	sentence		30000	The industrious schoolgirl said that I allowed himself to take a break from archiving.
+30	20	2	question	rightTrigger	30000	Who was being over-worked?\n\n unpaid interns                                     student interns
+1	21	0	sentence		30000	One of the news anchors was concerned with the accuracy of some of the statements made to the public.
+1	21	1	sentence		30000	The trustworthy policeman reported that Christopher criticized himself for the error during the trial.
+2	21	0	sentence		30000	One of the news anchors was concerned with the accuracy of some of the statements made to the public.
+2	21	1	sentence		30000	The trustworthy policewoman reported that Christopher criticized himself for the error during the trial.
+3	21	0	sentence		30000	Some news anchors were concerned with the accuracy of some of the statements made to the public.
+3	21	1	sentence		30000	The trustworthy policeman reported that they criticized himself for the error during the trial.
+4	21	0	sentence		30000	Some news anchors were concerned with the accuracy of some of the statements made to the public.
+4	21	1	sentence		30000	The trustworthy policewoman reported that they criticized himself for the error during the trial.
+5	21	0	sentence		30000	I was concerned with the accuracy of some of the statements made to the public.
+5	21	1	sentence		30000	The trustworthy policeman reported that I criticized himself for the error during the trial.
+6	21	0	sentence		30000	I was concerned with the accuracy of some of the statements made to the public.
+6	21	1	sentence		30000	The trustworthy policewoman reported that I criticized himself for the error during the trial.
+30	21	2	question	rightTrigger	30000	To whom were the statements made?\n\n the court                                     the public
+1	22	0	sentence		30000	A member of the film crew mentioned an unpleasant incident on set yesterday.
+1	22	1	sentence		30000	The talented director said that Jacob described himself as cruel and abusive in the workplace.
+2	22	0	sentence		30000	A member of the film crew mentioned an unpleasant incident on set yesterday.
+2	22	1	sentence		30000	The beautiful supermodel said that Jacob described himself as cruel and abusive in the workplace.
+3	22	0	sentence		30000	Some members of the film crew mentioned an unpleasant incident on set yesterday.
+3	22	1	sentence		30000	The talented director said that they described himself as cruel and abusive in the workplace.
+4	22	0	sentence		30000	Some members of the film crew mentioned an unpleasant incident on set yesterday.
+4	22	1	sentence		30000	The beautiful supermodel said that they described himself as cruel and abusive in the workplace.
+5	22	0	sentence		30000	I mentioned an unpleasant incident on set yesterday.
+5	22	1	sentence		30000	The talented director said that I described himself as cruel and abusive in the workplace.
+6	22	0	sentence		30000	I mentioned an unpleasant incident on set yesterday.
+6	22	1	sentence		30000	The beautiful supermodel said that I described himself as cruel and abusive in the workplace.
+30	22	2	question	rightTrigger	30000	What kind of incident was it?\n\n an irritating one                                     an unpleasant one
+1	23	0	sentence		30000	A prominent White House staffer had been harping on the issue of immigration reform for a long while.
+1	23	1	sentence		30000	The republican congressman complained that Joshua represented himself poorly to the public.
+2	23	0	sentence		30000	A prominent White House staffer had been harping on the issue of immigration reform for a long while.
+2	23	1	sentence		30000	The dutiful receptionist complained that Joshua represented himself poorly to the public.
+3	23	0	sentence		30000	Some prominent White House staffers had been harping on the issue of immigration reform for a long while.
+3	23	1	sentence		30000	The republican congressman complained that they represented himself poorly to the public.
+4	23	0	sentence		30000	Some prominent White House staffers had been harping on the issue of immigration reform for a long while.
+4	23	1	sentence		30000	The dutiful receptionist complained that they represented himself poorly to the public.
+5	23	0	sentence		30000	I had been harping on the issue of immigration reform for a long while.
+5	23	1	sentence		30000	The republican congressman complained that I represented himself poorly to the public.
+6	23	0	sentence		30000	I had been harping on the issue of immigration reform for a long while.
+6	23	1	sentence		30000	The dutiful receptionist complained that I represented himself poorly to the public.
+30	23	2	question	rightTrigger	30000	What as the issue being harped on?\n\n environmental responsibility                                     immigration reform
+1	24	0	sentence		30000	One of the emotional employees brought up several issues with mismanagement at the large financial firm.
+1	24	1	sentence		30000	The wealthy banker argued that Nicholas cast himself in a negative and slanderous light at the board meeting.
+2	24	0	sentence		30000	One of the emotional employees brought up several issues with mismanagement at the large financial firm.
+2	24	1	sentence		30000	The diligent secretary argued that Nicholas cast himself in a negative and slanderous light at the board meeting.
+3	24	0	sentence		30000	Some emotional employees brought up several issues with mismanagement at the large financial firm.
+3	24	1	sentence		30000	The wealthy banker argued that they cast himself in a negative and slanderous light at the board meeting.
+4	24	0	sentence		30000	Some emotional employees brought up several issues with mismanagement at the large financial firm.
+4	24	1	sentence		30000	The diligent secretary argued that they cast himself in a negative and slanderous light at the board meeting.
+5	24	0	sentence		30000	I brought up several issues with mismanagement at the large financial firm.
+5	24	1	sentence		30000	The wealthy banker argued that I cast himself in a negative and slanderous light at the board meeting.
+6	24	0	sentence		30000	I brought up several issues with mismanagement at the large financial firm.
+6	24	1	sentence		30000	The diligent secretary argued that I cast himself in a negative and slanderous light at the board meeting.
+30	24	2	question	rightTrigger	30000	What kind of firm was it?\n\n a law firm                                     a financial firm
+1	25	0	sentence		30000	One of New York's best-known critics was featured in a Bon Apetit expose on flourishing counterculture movements in Brooklyn.
+1	25	1	sentence		30000	The charming butcher boasted that Brandon praised himself for a job skillfully and tastefully done.
+2	25	0	sentence		30000	One of New York's best-known critics was featured in a Bon Apetit expose on flourishing counterculture movements in Brooklyn.
+2	25	1	sentence		30000	The pretty florist boasted that Brandon praised himself for a job skillfully and tastefully done.
+3	25	0	sentence		30000	Some of New York's best-known critics were featured in a Bon Apetit expose on flourishing counterculture movements in Brooklyn.
+3	25	1	sentence		30000	The charming butcher boasted that they praised himself for a job skillfully and tastefully done.
+4	25	0	sentence		30000	Some of New York's best-known critics were featured in a Bon Apetit expose on flourishing counterculture movements in Brooklyn.
+4	25	1	sentence		30000	The pretty florist boasted that they praised himself for a job skillfully and tastefully done.
+5	25	0	sentence		30000	I was featured in a Bon Apetit expose on flourishing counterculture movements in Brooklyn.
+5	25	1	sentence		30000	The charming butcher boasted that I praised himself for a job skillfully and tastefully done.
+6	25	0	sentence		30000	I was featured in a Bon Apetit expose on flourishing counterculture movements in Brooklyn.
+6	25	1	sentence		30000	The pretty florist boasted that I praised himself for a job skillfully and tastefully done.
+30	25	2	question	rightTrigger	30000	What kind of job was it?\n\n sloppy                                     well-done
+1	26	0	sentence		30000	One of the key witnesses was called into question during the trial.
+1	26	1	sentence		30000	The security guard admitted that Daniel identified himself as a potential suspect in an ongoing investigation.
+2	26	0	sentence		30000	One of the key witnesses was called into question during the trial.
+2	26	1	sentence		30000	The friendly receptionist admitted that Daniel identified himself as a potential suspect in an ongoing investigation.
+3	26	0	sentence		30000	Some of the key witnesses were called into question during the trial.
+3	26	1	sentence		30000	The security guard admitted that they identified himself as a potential suspect in an ongoing investigation.
+4	26	0	sentence		30000	Some of the key witnesses were called into question during the trial.
+4	26	1	sentence		30000	The friendly receptionist admitted that they identified himself as a potential suspect in an ongoing investigation.
+5	26	0	sentence		30000	I was called into question during the trial.
+5	26	1	sentence		30000	The security guard admitted that I identified himself as a potential suspect in an ongoing investigation.
+6	26	0	sentence		30000	I was called into question during the trial.
+6	26	1	sentence		30000	The friendly receptionist admitted that I identified himself as a potential suspect in the ongoing investigation.
+30	26	2	question	rightTrigger	30000	Was the investigation finished?\n\n yes                                     no
+1	27	0	sentence		30000	Some emotive protestors brought to light the serious ethical implications of over-breeding pets.
+1	27	1	sentence		30000	The legendary rock star said that Austin inspired himself to write a new song about this social injustice.
+2	27	0	sentence		30000	Some emotive protestors brought to light the serious ethical implications of over-breeding pets.
+2	27	1	sentence		30000	The legendary pop diva said that Austin inspired himself to write a new song about this social injustice.
+3	27	0	sentence		30000	Some emotive protestors brought to light the serious ethical implications of over-breeding pets.
+3	27	1	sentence		30000	The legendary rock star said that they inspired himself to write a new song about this social injustice.
+4	27	0	sentence		30000	Some emotive protestors brought to light the serious ethical implications of over-breeding pets.
+4	27	1	sentence		30000	The legendary pop diva said that they inspired himself to write a new song about this social injustice.
+5	27	0	sentence		30000	I brought to light the serious ethical implications of over-breeding pets.
+5	27	1	sentence		30000	The legendary rock star said that I inspired himself to write a new song about this social injustice.
+6	27	0	sentence		30000	I brought to light the serious ethical implications of over-breeding pets.
+6	27	1	sentence		30000	The legendary pop diva said that I inspired himself to write a new song about this social injustice.
+30	27	2	question	rightTrigger	30000	What was the new song about?\n\n environmental concerns                                     animal rights
+1	28	0	sentence		30000	One member of the jury was very persuasive in deciding the outcome of the trial.
+1	28	1	sentence		30000	The brilliant detective reported that Andrew convinced himself that the testimony was false and unreliable.
+2	28	0	sentence		30000	One member of the jury was very persuasive in deciding the outcome of the trial.
+2	28	1	sentence		30000	The serious newswoman reported that Andrew convinced himself that the testimony was false and unreliable.
+3	28	0	sentence		30000	A few members of the jury were very persuasive in deciding the outcome of the trial.
+3	28	1	sentence		30000	The brilliant detective reported that they convinced himself that the testimony was false and unreliable.
+4	28	0	sentence		30000	A few members of the jury were very persuasive in deciding the outcome of the trial.
+4	28	1	sentence		30000	The serious newswoman reported that they convinced himself that the testimony was false and unreliable.
+5	28	0	sentence		30000	One member of the jury was very persuasive in deciding the outcome of the trial.
+5	28	1	sentence		30000	The brilliant detective reported that I convinced himself that the testimony was false and unreliable.
+6	28	0	sentence		30000	One member of the jury was very persuasive in deciding the outcome of the trial.
+6	28	1	sentence		30000	The serious newswoman reported that I convinced himself that the testimony was false and unreliable.
+30	28	2	question	leftTrigger	30000	Was someone convinced that the testimony was untrustworthy?\n\n yes                                     no
+1	29	0	sentence		30000	Many influential lobbyists held meetings with senators in DC.
+1	29	1	sentence		30000	The corrupt senator insisted that Joseph would appoint himself as the new county commissioner before the election.
+2	29	0	sentence		30000	Many influential lobbyists held meetings with senators in DC.
+2	29	1	sentence		30000	The female senator insisted that Joseph would appoint himself as the new county commissioner before the election.
+3	29	0	sentence		30000	Many influential lobbyists held meetings with senators in DC.
+3	29	1	sentence		30000	The corrupt senator insisted that they would appoint himself as the new county commissioner before the election.
+4	29	0	sentence		30000	Many influential lobbyists held meetings with senators in DC.
+4	29	1	sentence		30000	The female senator insisted that they would appoint himself as the new county commissioner before the election.
+5	29	0	sentence		30000	I held meetings with senators in DC.
+5	29	1	sentence		30000	The corrupt senator insisted that I would appoint himself as the new county commissioner before the election.
+6	29	0	sentence		30000	I held meetings with senators in DC.
+6	29	1	sentence		30000	The female senator insisted that I would appoint himself as the new county commissioner before the election.
+30	29	2	question	leftTrigger	30000	What was the nw position for?\n\n county commissioner                                     county sherriff
+1	30	0	sentence		30000	A private citizen weighed in with thoughts about corporate greed.
+1	30	1	sentence		30000	The arrogant businessman said that John characterized himself as greedy but successful.
+2	30	0	sentence		30000	A private citizen weighed in with thoughts about corporate greed.
+2	30	1	sentence		30000	The arrogant businesswoman said that John characterized himself as greedy but successful.
+3	30	0	sentence		30000	Some private citizens weighed in with thoughts about corporate greed.
+3	30	1	sentence		30000	The arrogant businessman said that they characterized himself as greedy but successful.
+4	30	0	sentence		30000	Some private citizens weighed in with thoughts about corporate greed.
+4	30	1	sentence		30000	The arrogant businesswoman said that they characterized himself as greedy but successful.
+5	30	0	sentence		30000	I weighed in with thoughts about corporate greed.
+5	30	1	sentence		30000	The arrogant businessman said that I characterized himself as greedy but successful.
+6	30	0	sentence		30000	I weighed in with thoughts about corporate greed.
+6	30	1	sentence		30000	The arrogant businesswoman said that I characterized himself as greedy but successful.
+30	30	2	question	leftTrigger	30000	Which word better describes the businessperson?\n\n conceited                                     humble
+1	31	0	sentence		30000	One of the informants uncovered the possibility of police corruption.
+1	31	1	sentence		30000	The undercover policeman confessed that Zachary recorded himself talking about the secret plot.
+2	31	0	sentence		30000	One of the informants uncovered the possibility of police corruption.
+2	31	1	sentence		30000	The undercover policewoman confessed that Zachary recorded himself talking about the secret plot.
+3	31	0	sentence		30000	Some of the informants uncovered the possibility of police corruption.
+3	31	1	sentence		30000	The undercover policeman confessed that they recorded himself talking about the secret plot.
+4	31	0	sentence		30000	Some of the informants uncovered the possibility of police corruption.
+4	31	1	sentence		30000	The undercover policewoman confessed that they recorded himself talking about the secret plot.
+5	31	0	sentence		30000	I uncovered the possibility of police corruption.
+5	31	1	sentence		30000	The undercover policeman confessed that I recorded himself talking about the secret plot.
+6	31	0	sentence		30000	I uncovered the possibility of police corruption.
+6	31	1	sentence		30000	The undercover policewoman confessed that I recorded himself talking about the secret plot.
+30	31	2	question	leftTrigger	30000	Where might there be corruption?\n\n in the police force                                     in the mayor's office
+1	32	0	sentence		30000	A member of the city council was impressed with the police response to the dangerous confrontation.
+1	32	1	sentence		30000	The brave policeman reported that David nominated himself for the prestigious community service award.
+2	32	0	sentence		30000	A member of the city council was impressed with the police response to the dangerous confrontation.
+2	32	1	sentence		30000	The brave policewoman reported that David nominated himself for the prestigious community service award.
+3	32	0	sentence		30000	Some members of the city council were impressed with the police response to the dangerous confrontation.
+3	32	1	sentence		30000	The brave policeman reported that they nominated himself for the prestigious community service award.
+4	32	0	sentence		30000	Some members of the city council were impressed with the police response to the dangerous confrontation.
+4	32	1	sentence		30000	The brave policewoman reported that they nominated himself for the prestigious community service award.
+5	32	0	sentence		30000	I was impressed with the police response to the dangerous confrontation.
+5	32	1	sentence		30000	The brave policeman reported that I nominated himself for the prestigious community service award.
+6	32	0	sentence		30000	I was impressed with the police response to the dangerous confrontation.
+6	32	1	sentence		30000	The brave policewoman reported that I nominated himself for the prestigious community service award.
+30	32	2	question	leftTrigger	30000	Was the confrontation unsafe?\n\n yes                                     no
+1	33	0	sentence		30000	A popular TV personality reported glowingly on expanding food options in the area.
+1	33	1	sentence		30000	The irritable waiter mentioned that Justin complimented himself for the excellent and expensive meal.
+2	33	0	sentence		30000	A popular TV personality reported glowingly on expanding food options in the area.
+2	33	1	sentence		30000	The irritable waitress mentioned that Justin complimented himself for the excellent and expensive meal.
+3	33	0	sentence		30000	Some popular TV personalities reported glowingly on expanding food options in the area.
+3	33	1	sentence		30000	The irritable waiter mentioned that they complimented himself for the excellent and expensive meal.
+4	33	0	sentence		30000	Some popular TV personalities reported glowingly on expanding food options in the area.
+4	33	1	sentence		30000	The irritable waitress mentioned that they complimented himself for the excellent and expensive meal.
+5	33	0	sentence		30000	I reported glowingly on expanding food options in the area.
+5	33	1	sentence		30000	The irritable waiter mentioned that I complimented himself for the excellent and expensive meal.
+6	33	0	sentence		30000	I reported glowingly on expanding food options in the area.
+6	33	1	sentence		30000	The irritable waitress mentioned that I complimented himself for the excellent and expensive meal.
+30	33	2	question	leftTrigger	30000	Is the area developing a more refined selection of cuisines?\n\n yes                                     no
+1	34	0	sentence		30000	One of the state-recommended psychologists encouraged gambling addicts to take up exercising to avoid temptation.
+1	34	1	sentence		30000	The rich CEO said that Kyle prevented himself from losing any more money at the casino.
+2	34	0	sentence		30000	One of the state-recommended psychologists encouraged gambling addicts to take up exercising to avoid temptation.
+2	34	1	sentence		30000	The wealthy heiress said that Kyle prevented himself from losing any more money at the casino.
+3	34	0	sentence		30000	Some of the state-recommended psychologists encouraged gambling addicts to take up exercising to avoid temptation.
+3	34	1	sentence		30000	The rich CEO said that they prevented himself from losing any more money at the casino.
+4	34	0	sentence		30000	Some of the state-recommended psychologists encouraged gambling addicts to take up exercising to avoid temptation.
+4	34	1	sentence		30000	The wealthy heiress said that they prevented himself from losing any more money at the casino.
+5	34	0	sentence		30000	I encouraged gambling addicts to take up exercising to avoid temptation.
+5	34	1	sentence		30000	The rich CEO said that I prevented himself from losing any more money at the casino.
+6	34	0	sentence		30000	I encouraged gambling addicts to take up exercising to avoid temptation.
+6	34	1	sentence		30000	The wealthy heiress said that I prevented himself from losing any more money at the casino.
+30	34	2	question	leftTrigger	30000	Is exercise an effective distraction from temptation?\n\n yes                                     no
+1	35	0	sentence		30000	Some of the employees were known to have an uncompromising view on business ethics.
+1	35	1	sentence		30000	The new executive revealed that Alexander blamed himself for all the compromises made on the way to the top.
+2	35	0	sentence		30000	Some of the employees were known to have an uncompromising view on business ethics.
+2	35	1	sentence		30000	The glamorous supermodel revealed that Alexander blamed himself for all the compromises made on the way to the top.
+3	35	0	sentence		30000	Some of the employees were known to have an uncompromising view on business ethics.
+3	35	1	sentence		30000	The new executive revealed that they blamed himself for all the compromises made on the way to the top.
+4	35	0	sentence		30000	Some of the employees were known to have an uncompromising view on business ethics.
+4	35	1	sentence		30000	The glamorous supermodel revealed that they blamed himself for all the compromises made on the way to the top.
+5	35	0	sentence		30000	I am known to have an uncompromising view on business ethics.
+5	35	1	sentence		30000	The new executive revealed that I blamed himself for all the compromises made on the way to the top.
+6	35	0	sentence		30000	I am known to have an uncompromising view on business ethics.
+6	35	1	sentence		30000	The glamorous supermodel revealed that I blamed himself for all the compromises made on the way to the top.
+30	35	2	question	leftTrigger	30000	What was the uncompromising posibion about?\n\n business ethics                                     medical malpractice
+1	36	0	sentence		30000	One of the underachieving employees came up in a conversation about promotion possibilities in the office.
+1	36	1	sentence		30000	The exasperated manager declared that Robert denied himself a chance at advancing in the company.
+2	36	0	sentence		30000	One of the underachieving employees came up in a conversation about promotion possibilities in the office.
+2	36	1	sentence		30000	The exasperated secretary declared that Robert denied himself a chance at advancing in the company.
+3	36	0	sentence		30000	Some of the underachieving employees came up in a conversation about promotion possibilities in the office.
+3	36	1	sentence		30000	The exasperated manager declared that they denied himself a chance at advancing in the company.
+4	36	0	sentence		30000	Some of the underachieving employees came up in a conversation about promotion possibilities in the office.
+4	36	1	sentence		30000	The exasperated secretary declared that they denied himself a chance at advancing in the company.
+5	36	0	sentence		30000	I came up in a conversation about promotion possibilities in the office.
+5	36	1	sentence		30000	The exasperated manager declared that I denied himself a chance at advancing in the company.
+6	36	0	sentence		30000	I came up in a conversation about promotion possibilities in the office.
+6	36	1	sentence		30000	The exasperated secretary declared that I denied himself a chance at advancing in the company.
+30	36	2	question	leftTrigger	30000	Is the office thinking about promoting people?\n\n yes                                     no
+100	37	0	sentence		30000	A lot of really interesting customers came into the butcher shop today.
+100	37	1	sentence		30000	The butcher asked who the customer who bought Italian sausage had invited to dinner tonight. 
+101	37	2	question	leftTrigger	30000	Who bought the Italian sausage?\n\n  the customer                           the butcher
+100	38	0	sentence		30000	At the hospital, there are many doctors who routinely work shifts in the ER.  
+100	38	1	sentence		30000	The administrator wondered if the doctor who manages the surgery wing had treated anyone in the ER. 
+101	38	2	question	leftTrigger	30000	Who manages the hospital?\n\n  the doctor                           the administrator
+100	39	0	sentence		30000	After the big brawl, there was actually only one student who had gotten in trouble.
+100	39	1	sentence		30000	The principal wanted to know who the student, who was expelled, had threatened with a knife. 
+101	39	2	question	leftTrigger	30000	Who was expelled?\n\n  the student                           the principal
+100	40	0	sentence		30000	The star violinist in the orchestra can be very touchy.
+100	40	1	sentence		30000	The conductor asked if the violinist, who was very upset, had talked to anyone before coming in. 
+101	40	2	question	leftTrigger	30000	Who was very upset?\n\n  the violinist                           the conductor
+100	41	0	sentence		30000	This town has many very well-qualified contractors that you could hire.
+100	41	1	sentence		30000	The homeowner asked who the contractor who fixed the roof would hire for the next job. 
+101	41	2	question	leftTrigger	30000	Who fixed the roof?\n\n  the contractor                           the homeowner
+100	42	0	sentence		30000	Some of the dancers really didn't seem to be focusing on practice this morning.
+100	42	1	sentence		30000	The choreographer didn't know if the dancer who danced clumsily had run into anyone during practice. 
+101	42	2	question	leftTrigger	30000	Who danced clumsily?\n\n  the dancer                           the choreographer
+100	43	0	sentence		30000	The huge accident on the highway actually only injured one person.
+100	43	1	sentence		30000	The cop wondered who the victim, who was recovering slowly, would blame for the accident. 
+101	43	2	question	leftTrigger	30000	Who was going to blame someone?\n\n  the victim                           the cop
+100	44	0	sentence		30000	The local TV station has a very well-known and respected reporter.
+100	44	1	sentence		30000	I couldn't remember if the reporter, who does the morning news, had mentioned me in the big story. 
+101	44	2	question	leftTrigger	30000	Which news does the reporter do?\n\n  morning news                           evening news
+100	45	0	sentence		30000	Some audience members were really being difficult during much of the show this evening.
+100	45	1	sentence		30000	The singer didn't know who the audience member who laughed out loud was heckling during the show. 
+101	45	2	question	leftTrigger	30000	Who was laughing?\n\n  the audience member                           the singer
+100	46	0	sentence		30000	Some of the businessmen were very vocal about their politics.
+100	46	1	sentence		30000	The oilman wondered if the businessman who hated fossil fuels had fired someone from his company. 
+101	46	2	question	leftTrigger	30000	Who hated fossil fuels?\n\n  the businessman                           the oilman
+100	47	0	sentence		30000	One of the lawyers in the courtroom was called into the judge's personal chambers.
+100	47	1	sentence		30000	The judge asked who the lawyer, who represented the defendant, was working with on the case. 
+101	47	2	question	leftTrigger	30000	Who was potentially working with someone on the case?\n\n  the lawyer                           the judge
+100	48	0	sentence		30000	A gardener was doing some shopping at Home Depot today.
+100	48	1	sentence		30000	The contractor wondered if the gardener, who loves tulips, had met anyone at the nursery. 
+101	48	2	question	leftTrigger	30000	Who loved tulips?\n\n  the gardener                           the contractor
+100	49	0	sentence		30000	The company put several employees in charge of the hiring process.
+100	49	1	sentence		30000	The applicant asked who the employee who conducted the interviews would hire if he could. 
+101	49	2	question	rightTrigger	30000	Who might hire someone?\n\n  the applicant                           the employee
+100	50	0	sentence		30000	A couple of little boys were causing some problems for the other children at the playground.
+100	50	1	sentence		30000	The little girl wondered if the boy who was ignoring her had played with anyone during recess. 
+101	50	2	question	rightTrigger	30000	Who might have played with someone at recess?\n\n  the little girl                           the boy
+100	51	0	sentence		30000	The newest senator is not known for having very high ethical standards.
+100	51	1	sentence		30000	The lobbyist knew who the senator, who voted for higher taxes, had bribed during the election. 
+101	51	2	question	rightTrigger	30000	Who wanted higher taxes?\n\n  the lobbyist                           the senator
+100	52	0	sentence		30000	There was one young fan of the author who was particularly enthusiastic about the new book.
+100	52	1	sentence		30000	The author asked if the young fan, who organized the book-signing, had invited Mary to the event. 
+101	52	2	question	rightTrigger	30000	Who organized the book signing?\n\n  the author                            the young fan
+100	53	0	sentence		30000	The neighboring city has some really excellent butchers.
+100	53	1	sentence		30000	Joan didn't remember who the butcher who sold organic beef had hired to deliver his meat. 
+101	53	2	question	rightTrigger	30000	Who hired someone to do deliveries?\n\n  Joan                           the butcher
+100	54	0	sentence		30000	The local teenagers are known for being very cruel.
+100	54	1	sentence		30000	Alex wondered if the teenager who was a clever prankster would target John for his next prank. 
+101	54	2	question	rightTrigger	30000	Who was the clever prankster?\n\n  Alex                           the teenager
+100	55	0	sentence		30000	Only one doctor was assigned to every patient when the ER was overrun.
+100	55	1	sentence		30000	The nurse asked who the doctor, who treated the crash victim, had examined very thoroughly. 
+101	55	2	question	rightTrigger	30000	Who treated the crash victim?\n\n  the nurse                           the doctor
+100	56	0	sentence		30000	One hacker worked on her own to launch an attack on the government.
+100	56	1	sentence		30000	The reporter wanted to know if the hacker, who coded the software, had attacked the NSA with a virus. 
+101	56	2	question	rightTrigger	30000	Who used a virus?\n\n  the reporter                           the hacker
+100	57	0	sentence		30000	The principal was worried about a number of students in the class.
+100	57	1	sentence		30000	The teacher asked who the student who was failing math could talk to for some help. 
+101	57	2	question	rightTrigger	30000	What subject was the student failing?\n\n  biology                           math
+100	58	0	sentence		30000	A couple of chatty new neighbors moved into the neighborhood recently.
+100	58	1	sentence		30000	Billy forgot if the neighbor who moved from Indiana was dating Susan this time last year. 
+101	58	2	question	rightTrigger	30000	Where did the neighbor move from?\n\n  Illinois                           Indiana
+100	59	0	sentence		30000	The school has a notorious bully.
+100	59	1	sentence		30000	Pauline definitely knows who the bully, who beat up George, was harassing this week. 
+101	59	2	question	rightTrigger	30000	Who did the bully beat up?\n\n  Pauline                           George
+100	60	0	sentence		30000	One customer in the cafe seemed to spend all day there.
+100	60	1	sentence		30000	The barista wondered if the customer, who ordered a decaf latte, was meeting someone in the cafe. 
+101	60	2	question	rightTrigger	30000	What did the customer order?\n\n  decaf coffee                           decaf latte
+110	61	0	sentence		30000	In a widely publicized television debate, I argued with several religious leaders about the reliability of scientific evidence.
+110	61	1	sentence		30000	The evangelical pastor insisted that I clearly betrayed myself with comments about the scientific method.
+111	61	2	question	leftTrigger	30000	What kind of pastor was he?\n\n evangelical                           catholic
+110	62	0	sentence		30000	After the extremely dull meeting, I convinced some coworkers to go out for drinks.
+110	62	1	sentence		30000	The office secretary said that I thoroughly embarrassed myself at the bar.
+111	62	2	question	leftTrigger	30000	Where did I embarrass myself?\n\n a bar                           in the office
+110	63	0	sentence		30000	In a recent half marathon in San Diego, I finished dead last.
+110	63	1	sentence		30000	The emergency nurse insisted I hadn't emasculated myself despite taking over eight hours to finish.
+111	63	2	question	leftTrigger	30000	How many hours did I take to finish?\n\n eight                           nine
+110	64	0	sentence		30000	At a concert last night, I was struggling to find a friend who had become separated from the group.
+110	64	1	sentence		30000	The security guard noted that I had shouted myself hoarse and offered to help.
+111	64	2	question	rightTrigger	30000	Who offered to help?\n\n a friend                           a security guard
+110	65	0	sentence		30000	Last night, I was kept up late writing college application essays.
+110	65	1	sentence		30000	The guidance counsellor insists that I make myself more appealing to mid-range institutions.
+111	65	2	question	rightTrigger	30000	Does the guidance counsellor want me only applying to ivy league schools?\n\n no                           yes
+110	66	0	sentence		30000	In a job interview for a conservative law firm, I made the mistake of talking about my ties to the communist party.
+110	66	1	sentence		30000	The officious interviewer disliked that I aligned myself so closely with such left-leaning policies.
+111	66	2	question	rightTrigger	30000	What kind of politics do I have?\n\n right-leaning                           left-leaning
+110	67	0	sentence		30000	Thanks to a crushing social anxiety, I haven't had any luck trying to find a date lately.
+110	67	1	sentence		30000	One girl admitted that I hadn't groomed myself nearly well enough to be trying speed dating.
+111	67	2	question	leftTrigger	30000	Why haven't I been able to get a date?\n\n social anxiety                           poor grooming
+110	68	0	sentence		30000	At a consultation with a tax attorney, I complained about how high property taxes are.
+110	68	1	sentence		30000	The accountant replied that I could save myself a lot of money by diversifying my interests.
+111	68	2	question	leftTrigger	30000	What kind of attorney was it?\n\n tax attorney                           estate attorney
+110	69	0	sentence		30000	Since becoming a devout buddhist, I haven't eaten any meat.
+110	69	1	sentence		30000	The local butcher doesn't understand why I would limit myself to only eating vegetables.
+111	69	2	question	leftTrigger	30000	Am I a taoist?\n\n no                           yes
+110	70	0	sentence		30000	While on a fishing trip off the coast of Alaska, I caught an enormous salmon.
+110	70	1	sentence		30000	The fishing guide asked if I wanted to ship myself the frozen fish to enjoy at home.
+111	70	2	question	rightTrigger	30000	Where was the fishing trip?\n\n Oregon                           Alaska
+110	71	0	sentence		30000	Unlike many people, I don't enjoy scary rides at amusement parks.
+110	71	1	sentence		30000	The concession stand employee agreed that I should confine myself to eating popsicles all day instead.
+111	71	2	question	rightTrigger	30000	Do I like scary rides?\n\n yes                           no
+110	72	0	sentence		30000	I've never been to a protest or rally in my life.
+110	72	1	sentence		30000	The FBI agent said I cleared myself of wrongdoing by being so thoroughly a-political.
+111	72	2	question	rightTrigger	30000	Have I ever protested?\n\n yes                           no
+110	73	0	sentence		30000	Many critics were surprised that the novel so clearly referenced the author's troubled home life.
+110	73	1	sentence		30000	The publicist insisted they had clearly underestimated the artist.
+111	73	2	question	leftTrigger	30000	Did the publicist praise a picture?\n\n no                           yes
+110	74	0	sentence		30000	Many people are horrified that the tabloid printed those private pictures of celebrities.
+110	74	1	sentence		30000	The respected reporter claimed that they are simply overreacting to the realities of modern tabloid journalism.
+111	74	2	question	leftTrigger	30000	What horrified a lot of people?\n\n a tabloid                           a respected news station
+110	75	0	sentence		30000	The public was outraged when a photograph which won several art competitions was revealed to have been photoshopped.
+110	75	1	sentence		30000	The competitor repeatedly argued that they represented themselves entirely honestly in the competition.
+111	75	2	question	leftTrigger	30000	What was the controversy about?\n\n a picture                           a novel
+110	76	0	sentence		30000	An internal memo detailing the corporate malfeasance of the wealthy CEOs was recently released to the public.
+110	76	1	sentence		30000	The congresswoman said that they clearly implicated themselves in the ongoing trial about corruption on Wall Street.
+111	76	2	question	rightTrigger	30000	Who was accused of being corrupt?\n\n the congresswoman                           the CEOs
+110	77	0	sentence		30000	The small children were delighted that the storybook included many detailed illustrations.
+110	77	1	sentence		30000	The nanny thought that they usually took themselves a little too seriously, and was happy to see the children's fun.
+111	77	2	question	rightTrigger	30000	Was the nanny's reaction negative?\n\n yes                           no
+110	78	0	sentence		30000	Several new talkshow hosts are slated to make their debut on TV this fall.
+110	78	1	sentence		30000	The radio host complained that they have been shamelessly promoting themselves on every channel for the last year.
+111	78	2	question	rightTrigger	30000	What's been promoting itself?\n\n a new sitcom                           news talkshow hosts
+110	79	0	sentence		30000	A bunch of comedians who parody TED talks have been gaining popularity lately.
+110	79	1	sentence		30000	One prominent CEO has claimed that they obviously invalidate themselves by failing to deal with the very real issues discussed by TED speakers.
+111	79	2	question	leftTrigger	30000	What do the comedians parody?\n\n TED talks                           news media
+110	80	0	sentence		30000	A fake news program ruffled a lot of newscasters' feathers with a recent skit about famous politicians.
+110	80	1	sentence		30000	The political pundit was outraged that they took themselves so seriously, and ranted about it at length.
+111	80	2	question	leftTrigger	30000	What was the skit about?\n\n famous politicians                           famous actors
+110	81	0	sentence		30000	The insurance investigator reported that a stovetop burner started the massive fire.
+110	81	1	sentence		30000	The homeowners swear that they barely got themselves out in time before the building collapsed.
+111	81	2	question	leftTrigger	30000	What started the fire?\n\n a stovetop burner                           a cigarette
+110	82	0	sentence		30000	Before the long car trip, the dog walker tried to get the puppies to play a lot in the yard.
+110	82	1	sentence		30000	The dogs' owner hoped they would tired themselves out before they had to drive across the country.
+111	82	2	question	rightTrigger	30000	Where were the puppies playing?\n\n the park                           the yard
+110	83	0	sentence		30000	While still learning to climb, the baby orangutangs fell from a dangerously high branch.
+110	83	1	sentence		30000	The field biologist was very happy that they managed to catch themselves on the way down.
+111	83	2	question	rightTrigger	30000	Was the orangutangs' fall dangerous?\n\n no                           yes
+110	84	0	sentence		30000	Japanese inventors recently demoed a new set of robots capable of performing complex feats of gymnastics.
+110	84	1	sentence		30000	An impressed reporter looked on while they flipped themselves off the edge of a balcony and onto a delicate balance beam below.
+111	84	2	question	rightTrigger	30000	Where were the robots developed?\n\n Korea                           Japan
+110	85	0	sentence		30000	I went skating yesterday and fell on the ice.
+110	85	1	sentence		30000	The ER doctor said that I was lucky to have not broken my leg.
+111	85	2	question	leftTrigger	30000	What did I almost break?\n\n my leg                           my arm
+110	86	0	sentence		30000	Last week the bookstore I frequently visit was having a huge sale on new-release hardcovers.
+110	86	1	sentence		30000	The cashier mentioned that I bought more books than anyone else.
+111	86	2	question	leftTrigger	30000	Do I buy very few books?\n\n no                           yes
+110	87	0	sentence		30000	The community center offers several night classes that I have taken advantage of.
+110	87	1	sentence		30000	The excitable calligraphy teacher insisted that I have the best penmanship he has ever seen.
+111	87	2	question	leftTrigger	30000	What kind of teacher was it?\n\n calligraphy                           architecture
+110	88	0	sentence		30000	Until quite recently, I hadn't realized that hyenas are actually more closely related to cats than to dogs.
+110	88	1	sentence		30000	The condescending biologist claimed that I was the first person he had met who didn't know this.
+111	88	2	question	rightTrigger	30000	How would you describe the biologist?\n\n understanding                           pretentious
+110	89	0	sentence		30000	Unlike many applicants for the job, I had carefully proofread my application before submitting it.
+110	89	1	sentence		30000	The bossy secretary mentioned that I was the only person to properly use a semicolon.
+111	89	2	question	rightTrigger	30000	What did I use properly?\n\n a colon                           a semicolon
+110	90	0	sentence		30000	At a baseball game last weekend, I caught a fly ball hit into the stands.
+110	90	1	sentence		30000	The concession salesman was impressed that I hadn't hurt my hand in the attempt.
+111	90	2	question	rightTrigger	30000	Did I hurt myself?\n\n yes                           no
+110	91	0	sentence		30000	At a casual cocktail party, I was forced to admit that I'm terrible at charades.
+110	91	1	sentence		30000	The gracious hostess insisted that I must be better than I was claiming.
+111	91	2	question	leftTrigger	30000	What kind of party was it?\n\n a casual cocktail party                           a casual dinner party
+110	92	0	sentence		30000	I believed that Santa was real until I was sixteen years old.
+110	92	1	sentence		30000	The other girls at school couldn't believe that I could be so naive.
+111	92	2	question	leftTrigger	30000	How old was I when I stopped believing in Santa?\n\n sixteen                           seventeen
+110	93	0	sentence		30000	While on vacation in Egypt, I stumbled across an ancient tomb full of treasures.
+110	93	1	sentence		30000	The frightened tourguide worried that I had been cursed by my accidental discovery.
+111	93	2	question	leftTrigger	30000	Where was I on vacation?\n\n Egypt                           Peru
+110	94	0	sentence		30000	I think it's important to be willing to try new foods.
+110	94	1	sentence		30000	The snobby chef was impressed that I would eat anything he put in front of me.
+111	94	2	question	rightTrigger	30000	Would I advocate trying exotic fruits?\n\n no                           yes
+110	95	0	sentence		30000	As a member of the Free Masons, I always laugh at conspiracy theories.
+110	95	1	sentence		30000	The president of the club insists that I should be more concerned with public perception.
+111	95	2	question	rightTrigger	30000	Which society do I belong to?\n\n The Skull and Bones                           The Free Masons
+110	96	0	sentence		30000	From time to time I like to get away from the city and reconnect with nature.
+110	96	1	sentence		30000	The grimy conservationist was convinced that I could be converted to his cause, despite my stance on federal regulation.
+111	96	2	question	rightTrigger	30000	Is it likely that I dislike hiking?\n\n yes                           no
+110	97	0	sentence		30000	In a dramatic turnaround, the soap opera stars brought in significantly more viewers than expected.
+110	97	1	sentence		30000	The shocked analyst said that they would probably continue to draw viewers for another five seasons.
+111	97	2	question	leftTrigger	30000	Did the analyst think the show would last?\n\n no                           yes
+110	98	0	sentence		30000	The museum docents seemed to indicate that the modern art exhibit was closed.
+110	98	1	sentence		30000	The security guard said that they had been confusing patrons for years.
+111	98	2	question	leftTrigger	30000	Were the docents clearly understandable?\n\n no                           yes
+110	99	0	sentence		30000	Thanks to a generous donation, the symphony was able to continue playing for another season.
+110	99	1	sentence		30000	The aged maestro worried that they had been struggling for years, and wouldn't last much longer.
+111	99	2	question	leftTrigger	30000	What had been struggling for years?\n\n the symphony                           the maestro
+110	100	0	sentence		30000	The catchy new pop group were repeatedly played on just about every radio station.
+110	100	1	sentence		30000	The talkshow host complained that they got stuck in his head almost every day.
+111	100	2	question	rightTrigger	30000	What got stuck in the talkshow host's head?\n\n a radio jingle                           a new pop group
+110	101	0	sentence		30000	The surveillance video showed a number of eye witnesses behind the suspect's back.
+110	101	1	sentence		30000	The policeman hoped that they would help him track the criminal down for arrest.
+111	101	2	question	rightTrigger	30000	What might help the police catch the suspect?\n\n his bad breath                           the eye witnesses
+110	102	0	sentence		30000	In the middle of the severe storm, several weatherman broadcast a warning about potential flooding.
+110	102	1	sentence		30000	The mayor worried that they wouldn't reach enough people in time.
+111	102	2	question	rightTrigger	30000	Who was worried about the emergency broadcast?\n\n a weatherman                           the mayor
+110	103	0	sentence		30000	The secret meeting of the company's upper management scared everyone who was worried about possible downsizing.
+110	103	1	sentence		30000	The flighty secretary admitted that they might be discussing who would be fired.
+111	103	2	question	leftTrigger	30000	What scared people?\n\n a meeting                           a memo
+110	104	0	sentence		30000	During storytime, the kindergarten teachers told the children a fairytale about a witch and a princess.
+110	104	1	sentence		30000	The worried mother complained that they might give her daughter nightmares.
+111	104	2	question	leftTrigger	30000	What was the fairytale about?\n\n a witch and a princess                           a witch and a prince
+110	105	0	sentence		30000	The sappy movie about the lovesick teenagers made everyone in the theater cry by the time the credits rolled.
+110	105	1	sentence		30000	The popcorn vendor said that they had inspired some couples to propose right in the middle of the lobby.
+111	105	2	question	leftTrigger	30000	Was the movie irreverent?\n\n no                           yes
+110	106	0	sentence		30000	Many literary critics were impressed that the beautiful poems had been written by a pair of eleven year olds.
+110	106	1	sentence		30000	The prominent journal mentioned that they had a promising career ahead of them.
+111	106	2	question	rightTrigger	30000	How old were the authors of the poems?\n\n ten                           eleven
+110	107	0	sentence		30000	Every year tourists visit the magnificent fountain to appreciate its beauty.
+110	107	1	sentence		30000	The custodian complained that they always clogged it up by throwing coins in the drain.
+111	107	2	question	rightTrigger	30000	What do the tourists visit?\n\n a cathedral                           a fountain
+110	108	0	sentence		30000	The rose gardens at the palace of Versailles are reportedly some of the most beautiful in the world.
+110	108	1	sentence		30000	The wealthy heiress insisted that they would be the perfect spot for her wedding.
+111	108	2	question	rightTrigger	30000	Where were the rose gardens?\n\n Buckingham                           Versailles

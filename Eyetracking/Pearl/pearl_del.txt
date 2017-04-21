@@ -1,0 +1,1761 @@
+trial E1I1D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The famous actress said that Jessica depicted^ herself^ as unfeeling^ and unaffected by public opinion.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I1D1
+
+
+trial E2I1D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The famous actor said that Jessica depicted^ herself^ as unfeeling^ and unaffected by public opinion.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I1D1
+
+
+trial E3I1D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The famous actress said that they depicted^ herself^ as unfeeling^ and unaffected by public opinion.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I1D1
+
+
+trial E4I1D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The famous actor said that they depicted^ herself^ as unfeeling^ and unaffected by public opinion.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I1D1
+
+
+trial E5I1D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The famous actress said that I depicted^ herself^ as unfeeling^ and unaffected by public opinion.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I1D1
+
+
+trial E6I1D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The famous actor said that I depicted^ herself^ as unfeeling^ and unaffected by public opinion.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I1D1
+
+
+
+trial E1I2D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The influential congresswoman said that Ashley inspired^ herself^ to give^ back to the community more.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I2D1
+
+
+trial E2I2D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The influential congressman said that Ashley inspired^ herself^ to give^ back to the community more.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I2D1
+
+
+trial E3I2D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The influential congresswoman said that they inspired^ herself^ to give^ back to the community more.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I2D1
+
+
+trial E4I2D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The influential congressman said that they inspired^ herself^ to give^ back to the community more.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I2D1
+
+
+trial E5I2D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The influential congresswoman said that I inspired^ herself^ to give^ back to the community more.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I2D1
+
+
+trial E6I2D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The influential congressman said that I inspired^ herself^ to give^ back to the community more.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I2D1
+
+
+
+trial E1I3D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious councilwoman insisted that Emily characterized^ herself^ as exceptionally^ helpful and diligent.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I3D1
+
+
+trial E2I3D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious councilman insisted that Emily characterized^ herself^ as exceptionally^ helpful and diligent.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I3D1
+
+
+trial E3I3D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious councilwoman insisted that they characterized^ herself^ as exceptionally^ helpful and diligent.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I3D1
+
+
+trial E4I3D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious councilman insisted that they characterized^ herself^ as exceptionally^ helpful and diligent.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I3D1
+
+
+trial E5I3D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious councilwoman insisted that I characterized^ herself^ as exceptionally^ helpful and diligent.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I3D1
+
+
+trial E6I3D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious councilman insisted that I characterized^ herself^ as exceptionally^ helpful and diligent.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I3D1
+
+
+
+trial E1I4D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The female witness said that Samantha misrepresented^ herself^ in the trial^ but the jury didn't buy it.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I4D1
+
+
+trial E2I4D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The male witness said that Samantha misrepresented^ herself^ in the trial^ but the jury didn't buy it.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I4D1
+
+
+trial E3I4D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The female witness said that they misrepresented^ herself^ in the trial^ but the jury didn't buy it.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I4D1
+
+
+trial E4I4D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The male witness said that they misrepresented^ herself^ in the trial^ but the jury didn't buy it.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I4D1
+
+
+trial E5I4D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The female witness said that I misrepresented^ herself^ in the trial^ but the jury didn't buy it.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I4D1
+
+
+trial E6I4D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The male witness said that I misrepresented^ herself^ in the trial^ but the jury didn't buy it.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I4D1
+
+
+
+trial E1I5D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aspiring actress complained that Sarah portrayed^ herself^ as petty^ and vindictive.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I5D1
+
+
+trial E2I5D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aspiring actor complained that Sarah portrayed^ herself^ as petty^ and vindictive.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I5D1
+
+
+trial E3I5D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aspiring actress complained that they portrayed^ herself^ as petty^ and vindictive.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I5D1
+
+
+trial E4I5D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aspiring actor complained that they portrayed^ herself^ as petty^ and vindictive.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I5D1
+
+
+trial E5I5D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aspiring actress complained that I portrayed^ herself^ as petty^ and vindictive.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I5D1
+
+
+trial E6I5D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aspiring actor complained that I portrayed^ herself^ as petty^ and vindictive.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I5D1
+
+
+
+trial E1I6D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The skilled businesswoman mentioned that Taylor described^ herself^ as hardworking^ and industrious during the interview.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I6D1
+
+
+trial E2I6D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The skilled businessman mentioned that Taylor described^ herself^ as hardworking^ and industrious during the interview.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I6D1
+
+
+trial E3I6D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The skilled businesswoman mentioned that they described^ herself^ as hardworking^ and industrious during the interview.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I6D1
+
+
+trial E4I6D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The skilled businessman mentioned that they described^ herself^ as hardworking^ and industrious during the interview.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I6D1
+
+
+trial E5I6D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The skilled businesswoman mentioned that I described^ herself^ as hardworking^ and industrious during the interview.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I6D1
+
+
+trial E6I6D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The skilled businessman mentioned that I described^ herself^ as hardworking^ and industrious during the interview.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I6D1
+
+
+
+trial E1I7D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The gorgeous supermodel boasted that Hannah underestimated^ herself^ when it came^ to giving public speeches.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I7D1
+
+
+trial E2I7D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The handsome actor boasted that Hannah underestimated^ herself^ when it came^ to giving public speeches.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I7D1
+
+
+trial E3I7D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The gorgeous supermodel boasted that they underestimated^ herself^ when it came^ to giving public speeches.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I7D1
+
+
+trial E4I7D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The handsome actor boasted that they underestimated^ herself^ when it came^ to giving public speeches.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I7D1
+
+
+trial E5I7D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The gorgeous supermodel boasted that I underestimated^ herself^ when it came^ to giving public speeches.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I7D1
+
+
+trial E6I7D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The handsome actor boasted that I underestimated^ herself^ when it came^ to giving public speeches.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I7D1
+
+
+
+trial E1I8D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The gullible librarian admitted that Elizabeth tricked^ herself^ into believing^ that the story was true.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I8D1
+
+
+trial E2I8D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The gullible janitor admitted that Elizabeth tricked^ herself^ into believing^ that the story was true.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I8D1
+
+
+trial E3I8D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The gullible librarian admitted that they tricked^ herself^ into believing^ that the story was true.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I8D1
+
+
+trial E4I8D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The gullible janitor admitted that they tricked^ herself^ into believing^ that the story was true.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I8D1
+
+
+trial E5I8D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The gullible librarian admitted that I tricked^ herself^ into believing^ that the story was true.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I8D1
+
+
+trial E6I8D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The gullible janitor admitted that I tricked^ herself^ into believing^ that the story was true.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I8D1
+
+
+
+trial E1I9D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The innocent secretary said that Kayla exonerated^ herself^ in the eyes^ of the court.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I9D1
+
+
+trial E2I9D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The innocent manager said that Kayla exonerated^ herself^ in the eyes^ of the court.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I9D1
+
+
+trial E3I9D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The innocent secretary said that they exonerated^ herself^ in the eyes^ of the court.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I9D1
+
+
+trial E4I9D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The innocent manager said that they exonerated^ herself^ in the eyes^ of the court.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I9D1
+
+
+trial E5I9D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The innocent secretary said that I exonerated^ herself^ in the eyes^ of the court.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I9D1
+
+
+trial E6I9D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The innocent manager said that I exonerated^ herself^ in the eyes^ of the court.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I9D1
+
+
+
+trial E1I10D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The flustered nurse complained that Rachel called^ herself^ very attractive^ and made suggestive comments.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I10D1
+
+
+trial E2I10D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The flustered doctor complained that Rachel called^ herself^ very attractive^ and made suggestive comments.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I10D1
+
+
+trial E3I10D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The flustered nurse complained that they called^ herself^ very attractive^ and made suggestive comments.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I10D1
+
+
+trial E4I10D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The flustered doctor complained that they called^ herself^ very attractive^ and made suggestive comments.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I10D1
+
+
+trial E5I10D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The flustered nurse complained that I called^ herself^ very attractive^ and made suggestive comments.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I10D1
+
+
+trial E6I10D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The flustered doctor complained that I called^ herself^ very attractive^ and made suggestive comments.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I10D1
+
+
+
+trial E1I11D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The pretty waitress mentioned that Megan recommended^ herself^ for the new^ position.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I11D1
+
+
+trial E2I11D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The scruffy waiter mentioned that Megan recommended^ herself^ for the new^ position.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I11D1
+
+
+trial E3I11D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The pretty waitress mentioned that they recommended^ herself^ for the new^ position.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I11D1
+
+
+trial E4I11D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The scruffy waiter mentioned that they recommended^ herself^ for the new^ position.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I11D1
+
+
+trial E5I11D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The pretty waitress mentioned that I recommended^ herself^ for the new^ position.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I11D1
+
+
+trial E6I11D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The scruffy waiter mentioned that I recommended^ herself^ for the new^ position.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I11D1
+
+
+
+trial E1I12D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The elderly woman insisted that Alexis redeemed^ herself^ in the eyes^ of her family.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I12D1
+
+
+trial E2I12D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The elderly man insisted that Alexis redeemed^ herself^ in the eyes^ of his family.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I12D1
+
+
+trial E3I12D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The elderly woman insisted that they redeemed^ herself^ in the eyes^ of her family.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I12D1
+
+
+trial E4I12D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The elderly man insisted that they redeemed^ herself^ in the eyes^ of his family.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I12D1
+
+
+trial E5I12D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The elderly woman insisted that I redeemed^ herself^ in the eyes^ of her family.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I12D1
+
+
+trial E6I12D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The elderly man insisted that I redeemed^ herself^ in the eyes^ of his family.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I12D1
+
+
+
+trial E1I13D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious nanny argued that Lauren implicated^ herself^ for the accident^ that happened in the driveway.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I13D1
+
+
+trial E2I13D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious mailman argued that Lauren implicated^ herself^ for the accident^ that happened in the driveway.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I13D1
+
+
+trial E3I13D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious nanny argued that they implicated^ herself^ for the accident^ that happened in the driveway.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I13D1
+
+
+trial E4I13D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious mailman argued that they implicated^ herself^ for the accident^ that happened in the driveway.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I13D1
+
+
+trial E5I13D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious nanny argued that I implicated^ herself^ for the accident^ that happened in the driveway.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I13D1
+
+
+trial E6I13D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious mailman argued that I implicated^ herself^ for the accident^ that happened in the driveway.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I13D1
+
+
+
+trial E1I14D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The sorority girl mentioned that Courtney photographed^ herself^ on the way^ to the party.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I14D1
+
+
+trial E2I14D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The frat boy mentioned that Courtney photographed^ herself^ on the way^ to the party.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I14D1
+
+
+trial E3I14D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The sorority girl mentioned that they photographed^ herself^ on the way^ to the party.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I14D1
+
+
+trial E4I14D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The frat boy mentioned that they photographed^ herself^ on the way^ to the party.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I14D1
+
+
+trial E5I14D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The sorority girl mentioned that I photographed^ herself^ on the way^ to the party.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I14D1
+
+
+trial E6I14D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The frat boy mentioned that I photographed^ herself^ on the way^ to the party.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I14D1
+
+
+
+trial E1I15D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The proud mother boasted that Jennifer taught^ herself^ how to build^ a fire using only two sticks and a rock.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I15D1
+
+
+trial E2I15D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The rugged hiker boasted that Jennifer taught^ herself^ how to build^ a fire using only two sticks and a rock.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I15D1
+
+
+trial E3I15D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The proud mother boasted that they taught^ herself^ how to build^ a fire using only two sticks and a rock.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I15D1
+
+
+trial E4I15D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The rugged hiker boasted that they taught^ herself^ how to build^ a fire using only two sticks and a rock.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I15D1
+
+
+trial E5I15D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The proud mother boasted that I taught^ herself^ how to build^ a fire using only two sticks and a rock.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I15D1
+
+
+trial E6I15D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The rugged hiker boasted that I taught^ herself^ how to build^ a fire using only two sticks and a rock.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I15D1
+
+
+
+trial E1I16D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The shy schoolgirl confessed that Victoria had embarrassed^ herself^ in the cafeteria^ during lunch.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I16D1
+
+
+trial E2I16D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The shy schoolboy confessed that Victoria had embarrassed^ herself^ in the cafeteria^ during lunch.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I16D1
+
+
+trial E3I16D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The shy schoolgirl confessed that they had embarrassed^ herself^ in the cafeteria^ during lunch.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I16D1
+
+
+trial E4I16D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The shy schoolboy confessed that they had embarrassed^ herself^ in the cafeteria^ during lunch.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I16D1
+
+
+trial E5I16D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The shy schoolgirl confessed that I had embarrassed^ herself^ in the cafeteria^ during lunch.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I16D1
+
+
+trial E6I16D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The shy schoolboy confessed that I had embarrassed^ herself^ in the cafeteria^ during lunch.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I16D1
+
+
+
+trial E1I17D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The graceful harpist said that Amber promoted^ herself^ as a famous^ musician in the making.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I17D1
+
+
+trial E2I17D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The somber minister said that Amber promoted^ herself^ as a famous^ musician in the making.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I17D1
+
+
+trial E3I17D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The graceful harpist said that they promoted^ herself^ as a famous^ musician in the making.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I17D1
+
+
+trial E4I17D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The somber minister said that they promoted^ herself^ as a famous^ musician in the making.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I17D1
+
+
+trial E5I17D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The graceful harpist said that I promoted^ herself^ as a famous^ musician in the making.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I17D1
+
+
+trial E6I17D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The somber minister said that I promoted^ herself^ as a famous^ musician in the making.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I17D1
+
+
+
+trial E1I18D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aging congresswoman admitted that Amanda underestimated^ herself^ during the long^ and grueling campaign.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I18D1
+
+
+trial E2I18D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aging congressman admitted that Amanda underestimated^ herself^ during the long^ and grueling campaign.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I18D1
+
+
+trial E3I18D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aging congresswoman admitted that it underestimated^ herself^ during the long^ and grueling campaign.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I18D1
+
+
+trial E4I18D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aging congressman admitted that it underestimated^ herself^ during the long^ and grueling campaign.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I18D1
+
+
+trial E5I18D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aging congresswoman admitted that I underestimated^ herself^ during the long^ and grueling campaign.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I18D1
+
+
+trial E6I18D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The aging congressman admitted that I underestimated^ herself^ during the long^ and grueling campaign.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I18D1
+
+
+
+trial E1I19D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The impatient manager insisted that Michael had committed^ himself^ to four years^ with the film studio.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I19D1
+
+
+trial E2I19D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The high-heeled publicist insisted that Michael had committed^ himself^ to four years^ with the film studio.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I19D1
+
+
+trial E3I19D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The impatient manager insisted that they had committed^ himself^ to four years^ with the film studio.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I19D1
+
+
+trial E4I19D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The high-heeled publicist insisted that they had committed^ himself^ to four years^ with the film studio.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I19D1
+
+
+trial E5I19D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The impatient manager insisted that I had committed^ himself^ to four years^ with the film studio.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I19D1
+
+
+trial E6I19D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The high-heeled publicist insisted that I had committed^ himself^ to four years^ with the film studio.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I19D1
+
+
+
+trial E1I20D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious schoolboy said that Matthew allowed^ himself^ to take^ a break from archiving.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I20D1
+
+
+trial E2I20D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious schoolgirl said that Matthew allowed^ himself^ to take^ a break from archiving.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I20D1
+
+
+trial E3I20D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious schoolboy said that they allowed^ himself^ to take^ a break from archiving.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I20D1
+
+
+trial E4I20D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious schoolgirl said that they allowed^ himself^ to take^ a break from archiving.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I20D1
+
+
+trial E5I20D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious schoolboy said that I allowed^ himself^ to take^ a break from archiving.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I20D1
+
+
+trial E6I20D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The industrious schoolgirl said that I allowed^ himself^ to take^ a break from archiving.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I20D1
+
+
+
+trial E1I21D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The trustworthy policeman reported that Christopher criticized^ himself^ for the error^ during the trial.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I21D1
+
+
+trial E2I21D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The trustworthy policewoman reported that Christopher criticized^ himself^ for the error^ during the trial.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I21D1
+
+
+trial E3I21D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The trustworthy policeman reported that they criticized^ himself^ for the error^ during the trial.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I21D1
+
+
+trial E4I21D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The trustworthy policewoman reported that they criticized^ himself^ for the error^ during the trial.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I21D1
+
+
+trial E5I21D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The trustworthy policeman reported that I criticized^ himself^ for the error^ during the trial.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I21D1
+
+
+trial E6I21D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The trustworthy policewoman reported that I criticized^ himself^ for the error^ during the trial.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I21D1
+
+
+
+trial E1I22D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The talented director said that Jacob described^ himself^ as cruel^ and abusive in the workplace.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I22D1
+
+
+trial E2I22D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The beautiful supermodel said that Jacob described^ himself^ as cruel^ and abusive in the workplace.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I22D1
+
+
+trial E3I22D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The talented director said that they described^ himself^ as cruel^ and abusive in the workplace.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I22D1
+
+
+trial E4I22D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The beautiful supermodel said that they described^ himself^ as cruel^ and abusive in the workplace.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I22D1
+
+
+trial E5I22D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The talented director said that I described^ himself^ as cruel^ and abusive in the workplace.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I22D1
+
+
+trial E6I22D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The beautiful supermodel said that I described^ himself^ as cruel^ and abusive in the workplace.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I22D1
+
+
+
+trial E1I23D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The republican congressman complained that Joshua represented^ himself^ poorly to^ the public.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I23D1
+
+
+trial E2I23D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The dutiful receptionist complained that Joshua represented^ himself^ poorly to^ the public.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I23D1
+
+
+trial E3I23D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The republican congressman complained that they represented^ himself^ poorly to^ the public.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I23D1
+
+
+trial E4I23D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The dutiful receptionist complained that they represented^ himself^ poorly to^ the public.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I23D1
+
+
+trial E5I23D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The republican congressman complained that I represented^ himself^ poorly to^ the public.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I23D1
+
+
+trial E6I23D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The dutiful receptionist complained that I represented^ himself^ poorly to^ the public.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I23D1
+
+
+
+trial E1I24D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The wealthy banker argued that Nicholas cast^ himself^ in a negative^ and slanderous light at the board meeting.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I24D1
+
+
+trial E2I24D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The diligent secretary argued that Nicholas cast^ himself^ in a negative^ and slanderous light at the board meeting.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I24D1
+
+
+trial E3I24D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The wealthy banker argued that they cast^ himself^ in a negative^ and slanderous light at the board meeting.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I24D1
+
+
+trial E4I24D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The diligent secretary argued that they cast^ himself^ in a negative^ and slanderous light at the board meeting.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I24D1
+
+
+trial E5I24D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The wealthy banker argued that I cast^ himself^ in a negative^ and slanderous light at the board meeting.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I24D1
+
+
+trial E6I24D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The diligent secretary argued that I cast^ himself^ in a negative^ and slanderous light at the board meeting.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I24D1
+
+
+
+trial E1I25D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The charming butcher boasted that Brandon praised^ himself^ for a job^ skillfully and tastefully done.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I25D1
+
+
+trial E2I25D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The pretty florist boasted that Brandon praised^ himself^ for a job^ skillfully and tastefully done.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I25D1
+
+
+trial E3I25D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The charming butcher boasted that they praised^ himself^ for a job^ skillfully and tastefully done.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I25D1
+
+
+trial E4I25D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The pretty florist boasted that they praised^ himself^ for a job^ skillfully and tastefully done.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I25D1
+
+
+trial E5I25D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The charming butcher boasted that I praised^ himself^ for a job^ skillfully and tastefully done.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I25D1
+
+
+trial E6I25D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The pretty florist boasted that I praised^ himself^ for a job^ skillfully and tastefully done.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I25D1
+
+
+
+trial E1I26D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The security guard admitted that Daniel identified^ himself^ as a potential^ suspect in an ongoing investigation.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I26D1
+
+
+trial E2I26D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The friendly receptionist admitted that Daniel identified^ himself^ as a potential^ suspect in an ongoing investigation.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I26D1
+
+
+trial E3I26D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The security guard admitted that they identified^ himself^ as a potential^ suspect in an ongoing investigation.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I26D1
+
+
+trial E4I26D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The friendly receptionist admitted that they identified^ himself^ as a potential^ suspect in an ongoing investigation.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I26D1
+
+
+trial E5I26D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The security guard admitted that I identified^ himself^ as a potential^ suspect in an ongoing investigation.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I26D1
+
+
+trial E6I26D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The friendly receptionist admitted that I identified^ himself^ as a potential^ suspect in the ongoing investigation.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I26D1
+
+
+
+trial E1I27D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The legendary rock star said that Austin inspired^ himself^ to write^ a new song about this social injustice.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I27D1
+
+
+trial E2I27D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The legendary pop diva said that Austin inspired^ himself^ to write^ a new song about this social injustice.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I27D1
+
+
+trial E3I27D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The legendary rock star said that they inspired^ himself^ to write^ a new song about this social injustice.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I27D1
+
+
+trial E4I27D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The legendary pop diva said that they inspired^ himself^ to write^ a new song about this social injustice.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I27D1
+
+
+trial E5I27D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The legendary rock star said that I inspired^ himself^ to write^ a new song about this social injustice.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I27D1
+
+
+trial E6I27D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The legendary pop diva said that I inspired^ himself^ to write^ a new song about this social injustice.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I27D1
+
+
+
+trial E1I28D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The brilliant detective reported that Andrew convinced^ himself^ that the testimony^ was false and unreliable.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I28D1
+
+
+trial E2I28D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The serious newswoman reported that Andrew convinced^ himself^ that the testimony^ was false and unreliable.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I28D1
+
+
+trial E3I28D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The brilliant detective reported that they convinced^ himself^ that the testimony^ was false and unreliable.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I28D1
+
+
+trial E4I28D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The serious newswoman reported that they convinced^ himself^ that the testimony^ was false and unreliable.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I28D1
+
+
+trial E5I28D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The brilliant detective reported that I convinced^ himself^ that the testimony^ was false and unreliable.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I28D1
+
+
+trial E6I28D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The serious newswoman reported that I convinced^ himself^ that the testimony^ was false and unreliable.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I28D1
+
+
+
+trial E1I29D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The corrupt senator insisted that Joseph would appoint^ himself^ as the new^ county commissioner before the election.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I29D1
+
+
+trial E2I29D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The female senator insisted that Joseph would appoint^ himself^ as the new^ county commissioner before the election.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I29D1
+
+
+trial E3I29D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The corrupt senator insisted that they would appoint^ himself^ as the new^ county commissioner before the election.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I29D1
+
+
+trial E4I29D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The female senator insisted that they would appoint^ himself^ as the new^ county commissioner before the election.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I29D1
+
+
+trial E5I29D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The corrupt senator insisted that I would appoint^ himself^ as the new^ county commissioner before the election.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I29D1
+
+
+trial E6I29D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The female senator insisted that I would appoint^ himself^ as the new^ county commissioner before the election.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I29D1
+
+
+
+trial E1I30D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The arrogant businessman said that John characterized^ himself^ as greedy^ but successful.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I30D1
+
+
+trial E2I30D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The arrogant businesswoman said that John characterized^ himself^ as greedy^ but successful.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I30D1
+
+
+trial E3I30D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The arrogant businessman said that they characterized^ himself^ as greedy^ but successful.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I30D1
+
+
+trial E4I30D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The arrogant businesswoman said that they characterized^ himself^ as greedy^ but successful.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I30D1
+
+
+trial E5I30D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The arrogant businessman said that I characterized^ himself^ as greedy^ but successful.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I30D1
+
+
+trial E6I30D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The arrogant businesswoman said that I characterized^ himself^ as greedy^ but successful.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I30D1
+
+
+
+trial E1I31D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The undercover policeman confessed that Zachary recorded^ himself^ talking about^ the secret plot.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I31D1
+
+
+trial E2I31D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The undercover policewoman confessed that Zachary recorded^ himself^ talking about^ the secret plot.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I31D1
+
+
+trial E3I31D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The undercover policeman confessed that they recorded^ himself^ talking about^ the secret plot.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I31D1
+
+
+trial E4I31D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The undercover policewoman confessed that they recorded^ himself^ talking about^ the secret plot.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I31D1
+
+
+trial E5I31D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The undercover policeman confessed that I recorded^ himself^ talking about^ the secret plot.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I31D1
+
+
+trial E6I31D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The undercover policewoman confessed that I recorded^ himself^ talking about^ the secret plot.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I31D1
+
+
+
+trial E1I32D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The brave policeman reported that David nominated^ himself^ for the prestigious^ community service award.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I32D1
+
+
+trial E2I32D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The brave policewoman reported that David nominated^ himself^ for the prestigious^ community service award.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I32D1
+
+
+trial E3I32D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The brave policeman reported that they nominated^ himself^ for the prestigious^ community service award.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I32D1
+
+
+trial E4I32D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The brave policewoman reported that they nominated^ himself^ for the prestigious^ community service award.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I32D1
+
+
+trial E5I32D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The brave policeman reported that I nominated^ himself^ for the prestigious^ community service award.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I32D1
+
+
+trial E6I32D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The brave policewoman reported that I nominated^ himself^ for the prestigious^ community service award.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I32D1
+
+
+
+trial E1I33D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The irritable waiter mentioned that Justin complimented^ himself^ for the excellent^ and expensive meal.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I33D1
+
+
+trial E2I33D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The irritable waitress mentioned that Justin complimented^ himself^ for the excellent^ and expensive meal.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I33D1
+
+
+trial E3I33D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The irritable waiter mentioned that they complimented^ himself^ for the excellent^ and expensive meal.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I33D1
+
+
+trial E4I33D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The irritable waitress mentioned that they complimented^ himself^ for the excellent^ and expensive meal.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I33D1
+
+
+trial E5I33D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The irritable waiter mentioned that I complimented^ himself^ for the excellent^ and expensive meal.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I33D1
+
+
+trial E6I33D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The irritable waitress mentioned that I complimented^ himself^ for the excellent^ and expensive meal.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I33D1
+
+
+
+trial E1I34D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The rich CEO said that Kyle prevented^ himself^ from losing^ any more money at the casino.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I34D1
+
+
+trial E2I34D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The wealthy heiress said that Kyle prevented^ himself^ from losing^ any more money at the casino.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I34D1
+
+
+trial E3I34D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The rich CEO said that they prevented^ himself^ from losing^ any more money at the casino.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I34D1
+
+
+trial E4I34D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The wealthy heiress said that they prevented^ himself^ from losing^ any more money at the casino.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I34D1
+
+
+trial E5I34D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The rich CEO said that I prevented^ himself^ from losing^ any more money at the casino.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I34D1
+
+
+trial E6I34D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The wealthy heiress said that I prevented^ himself^ from losing^ any more money at the casino.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I34D1
+
+
+
+trial E1I35D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The new executive revealed that Alexander blamed^ himself^ for all the compromises^ made on the way to the top.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I35D1
+
+
+trial E2I35D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The glamorous supermodel revealed that Alexander blamed^ himself^ for all the compromises^ made on the way to the top.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I35D1
+
+
+trial E3I35D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The new executive revealed that they blamed^ himself^ for all the compromises^ made on the way to the top.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I35D1
+
+
+trial E4I35D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The glamorous supermodel revealed that they blamed^ himself^ for all the compromises^ made on the way to the top.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I35D1
+
+
+trial E5I35D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The new executive revealed that I blamed^ himself^ for all the compromises^ made on the way to the top.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I35D1
+
+
+trial E6I35D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The glamorous supermodel revealed that I blamed^ himself^ for all the compromises^ made on the way to the top.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I35D1
+
+
+
+trial E1I36D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The exasperated manager declared that Robert denied^ himself^ a chance^ at advancing in the company.
+  max_display_time =	30000
+  trial_type =		sentence
+end E1I36D1
+
+
+trial E2I36D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The exasperated secretary declared that Robert denied^ himself^ a chance^ at advancing in the company.
+  max_display_time =	30000
+  trial_type =		sentence
+end E2I36D1
+
+
+trial E3I36D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The exasperated manager declared that they denied^ himself^ a chance^ at advancing in the company.
+  max_display_time =	30000
+  trial_type =		sentence
+end E3I36D1
+
+
+trial E4I36D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The exasperated secretary declared that they denied^ himself^ a chance^ at advancing in the company.
+  max_display_time =	30000
+  trial_type =		sentence
+end E4I36D1
+
+
+trial E5I36D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The exasperated manager declared that I denied^ himself^ a chance^ at advancing in the company.
+  max_display_time =	30000
+  trial_type =		sentence
+end E5I36D1
+
+
+trial E6I36D1
+  gc_rect =		(0 0 0 0)
+  inline =		|The exasperated secretary declared that I denied^ himself^ a chance^ at advancing in the company.
+  max_display_time =	30000
+  trial_type =		sentence
+end E6I36D1
