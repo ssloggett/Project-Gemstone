@@ -1,0 +1,75 @@
+#These are the parameters that are called by batch_da1_multi.py.
+
+#This is also used by question_acc.py, though that script uses only the list of .asc files.
+
+#First, and most important:  your list of .asc files.
+#Each one needs to be in quotes, as below.
+
+file_list = ["001.asc",
+"002.asc",
+"003.asc",
+"004.asc",
+"005.asc",
+"006.asc",
+"007.asc",
+"008.asc"]
+	
+##############################
+#do you have multiline data?
+multi_line = "n"
+
+#If you do have multi_line data, what is the y position of the first
+#line, in pixels?  This should be the same as the position that you fed to 
+#the fix_align.R script, if you used that for fixation alignment.
+
+first_line_y = 380
+
+
+#How far apart are the lines, in pixels? Again, this should be consistent with 
+#the values that you used for fix_align.R.
+
+line_sep_y = 60
+
+
+
+##############################
+# specify the cond numbers to analyze
+#some_cond_only = "y"
+lowest_cond = 1
+highest_cond = 8
+
+##############################
+#do you want to exclude trials based on number of blinks/track losses?
+#default is to exclude only if > 1000 blinks, change as needed
+#will exclude trials with greater than n blinks
+
+blink_num_crit = 1000
+	
+#do you want to exclude trials based on blinks/track losses above a certain duration?
+#default is 10000, change to real value as needed
+
+blink_dur_crit = 10000
+	
+#do you want to exclude if there was a blink/track loss on critical region?
+#default is "n"
+
+blink_reg_exclude = "y"
+
+#if the answer to that is yes, you'll need to give a region file (i.e., a .cnt file)
+#and identify the critical region
+
+region_file = "beryl_del.cnt"
+
+blink_region = 2
+
+#############################
+#do you also want to exclude if there was a long saccade coming into, in, or going out of
+#this critical region? If so, change the value below.  By default, #this is 1000, which won't exclude anything
+
+saccade_dur_crit = 120
+
+##############################
+#do you want to combine short fixations that are within one character of preceding or
+#following fixation?  If so, put a criterion for a short fixation in ms. Default is 1, #resulting in no combination.
+
+short_crit = 40
