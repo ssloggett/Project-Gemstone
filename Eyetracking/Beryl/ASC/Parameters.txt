@@ -58,7 +58,7 @@ blink_reg_exclude = "y"
 #if the answer to that is yes, you'll need to give a region file (i.e., a .cnt file)
 #and identify the critical region
 
-region_file = "beryl_del.cnt"
+region_file = "beryl_parafoveal_del.cnt"
 
 blink_region = 2
 

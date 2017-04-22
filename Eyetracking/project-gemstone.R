@@ -446,3 +446,109 @@ popViewport()
 pushViewport(vp = viewport(height = .5, x = 0.15))
 grid.draw(pearl.legend)
 popViewport()
+
+###############################################################################################
+##################################### Experiment 5 (Beryl) ####################################
+###############################################################################################
+#######################
+#### Factor Coding ####
+#######################
+beryl.factors = data.frame(cond = 1:8, 
+                           lure = rep(c('+', '-'), 4), 
+                           target = rep(c('+','-'), each=2, times=2), 
+                           animacy = rep(c('animate','inanimate'),each=4))
+beryl.factors$lure = factor(beryl.factors$lure, levels = c('+', '-'))
+beryl.factors$target = factor(beryl.factors$target, levels = c('+', '-'))
+beryl.factors$animacy = factor(beryl.factors$animacy, levels = c('animate', 'inanimate'))
+
+######################
+#### Read in data ####
+######################
+beryl.data = read.table('beryl_data.txt',  header = T)
+beryl.parafoveal.data = read.table('beryl_parafoveal_data.txt',  header = T)
+
+#######################
+#### Skipping Rate ####
+#######################
+beryl.skips = subset(beryl.data, fixationtype == 'ff' & is.na(value) & region == 2)
+beryl.total = subset(beryl.data, fixationtype == 'ff' & region == 2); nrow(beryl.skips)/nrow(beryl.total)
+# Standard: 17%
+beryl.parafoveal.skips = subset(beryl.parafoveal.data, fixationtype == 'ff' & is.na(value) & region == 2)
+beryl.parafoveal.total = subset(beryl.parafoveal.data, fixationtype == 'ff' & region == 2); nrow(beryl.parafoveal.skips)/nrow(beryl.parafoveal.total)
+# Parafoveal: 7%
+
+###########################
+#### Subject Rejection ####
+###########################
+# Reject subjects with >11 missing trials; <75% question accuracy
+beryl.badSubjs = c() #Same for parafoveal and standard regioning
+beryl = droplevels(subset(beryl.parafoveal.data, !(fixationtype == 'rr' & value == 0) &
+                            !(fixationtype == 'tt' & value > 4000) & 
+                            !(fixationtype == 'fp' & value > 2000) &
+                            !is.na(value) & !subj%in%beryl.badSubjs & 
+                            !item%in%c(15,19,30)))
+
+#######################
+#### Factor Coding ####
+#######################
+beryl = merge(beryl, beryl.factors, 'cond')
+
+## Set Contrasts
+contrasts(beryl$lure) = c(-.5, .5)
+contrasts(beryl$animacy) = c(-.5, .5)
+contrasts(beryl$target) = c(-.5,.5)
+
+## Create numeric factors to decorrelte random slopes/intercepts
+beryl$l = ifelse(beryl$lure == '+', -.5, .5)
+beryl$a = ifelse(beryl$animacy == 'animate', -.5, .5)
+beryl$t = ifelse(beryl$target == '+', -.5, .5)
+
+############################
+#### Data Visualization ####
+############################
+beryl.n = length(unique(beryl$subj))
+beryl.subjs = ddply(beryl, .(subj, region, fixationtype, cond), summarise, rt = mean(value, na.rm = 1))
+beryl.df = ddply(beryl.subjs, .(region, fixationtype, cond), summarise, sd = sd(rt, na.rm = 1), rt = mean(rt, na.rm = 1))
+beryl.df$se = beryl.df$sd/sqrt(beryl.n)
+
+beryl.df = merge(beryl.df, fix.labs, 'fixationtype')
+beryl.df = merge(beryl.df, reg.labs, 'region')
+beryl.df = merge(beryl.df, beryl.factors, 'cond')
+
+# Create a condition label to accomodate error bar distribution
+beryl.df$condLab = paste(beryl.df$lure, beryl.df$target, sep= '')
+beryl.df$condLab = factor(beryl.df$condLab, levels = c('++', '-+', '+-', '--'))
+
+beryl.plot = ggplotGrob(ggplot(data = droplevels(subset(beryl.df, region%in%c(2,3) & fixationtype%in%c('fp','pr','rp', 'tt'))),
+                               aes(x = animacy, y = rt, fill = condLab, alpha = condLab)) + 
+                          geom_bar(stat = 'identity', position = position_dodge(width = 0.9)) + 
+                          geom_bar(stat = 'identity', position = position_dodge(width = 0.9), colour = 'black') +
+                          geom_errorbar(position = position_dodge(width = 0.9), aes(ymax = rt+se, ymin = rt-se),
+                                        width = .05, colour = 'black', alpha = 1) +
+                          scale_fill_manual(values = rep(c('#212721', '#85274e'), each = 2)) +
+                          scale_alpha_manual(values = rep(c(.35, .95), 2)) +
+                          facet_grid(fixations~regs, scales = 'free') +
+                          labs(x = '', y = 'Time (ms)') +
+                          my.theme)
+
+beryl.legend = ggplotGrob(ggplot(unique(subset(beryl.df, region%in%c(3) & fixationtype%in%c('rp'), select = c('lure', 'target'))),
+                                 aes(lure, target, colour=target, alpha=lure)) +
+                            geom_point(size = 10) +
+                            coord_equal(ratio = 1.5/1) +
+                            scale_colour_manual(values = c('#212721', '#85274e')) +
+                            scale_alpha_manual(values = c(.35, .95)) +
+                            scale_x_discrete(position = "top") +
+                            scale_y_discrete(limits = rev(levels(beryl.df$target))) +
+                            labs(x = 'Lure Match', y = 'Target Match') +
+                            theme_minimal() + 
+                            my.theme + 
+                            theme(axis.ticks = element_blank(),
+                                  axis.text = element_text(size = 14, colour = 'black')))
+
+grid.newpage()
+pushViewport(vp = viewport(width = 0.7, x = 0.65))
+grid.draw(beryl.plot)
+popViewport()
+pushViewport(vp = viewport(height = .5, x = 0.15))
+grid.draw(beryl.legend)
+popViewport()

@@ -1,0 +1,2687 @@
+trial E1I1D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious schoolgirl said that the well-respected actress had recently misrepresen^ted herself^ after the highly^ publicized scandal.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I1D0
+
+trial E2I1D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The brief memo said that the well-respected actress had recently misrepresen^ted herself^ after the highly^ publicized scandal.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I1D0
+
+trial E3I1D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious schoolgirl said that the well-respected law firm had recently misrepresen^ted herself^ after the highly^ publicized scandal.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I1D0
+
+trial E4I1D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The brief memo said that the well-respected law firm had recently misrepresen^ted herself^ after the highly^ publicized scandal.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I1D0
+
+trial E5I1D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The brief memo said that the well-respected law firm had recently misrepresen^ted itself^ after the highly^ publicized scandal.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I1D0
+
+trial E6I1D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious schoolgirl said that the well-respected law firm had recently misrepresen^ted itself^ after the highly^ publicized scandal.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I1D0
+
+trial E7I1D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The brief memo said that the well-respected actress had recently misrepresen^ted itself^ after the highly^ publicized scandal.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I1D0
+
+trial E8I1D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious schoolgirl said that the well-respected actress had recently misrepresen^ted itself^ after the highly^ publicized scandal.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I1D0
+
+trial E1I2D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The activist mentioned that the famous senator had paid ^for herself^ by the time^ the gala was over.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I2D0
+
+trial E2I2D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newsletter mentioned that the famous senator had paid ^for herself^ by the time^ the gala was over.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I2D0
+
+trial E3I2D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The activist mentioned that the charity drive had paid ^for herself^ by the time^ the gala was over.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I2D0
+
+trial E4I2D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newsletter mentioned that the charity drive had paid ^for herself^ by the time^ the gala was over.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I2D0
+
+trial E5I2D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newsletter mentioned that the charity drive had paid ^for itself^ by the time^ the gala was over.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I2D0
+
+trial E6I2D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The activist mentioned that the charity drive had paid ^for itself^ by the time^ the gala was over.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I2D0
+
+trial E7I2D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newsletter mentioned that the famous senator had paid ^for itself^ by the time^ the gala was over.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I2D0
+
+trial E8I2D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The activist mentioned that the famous senator had paid ^for itself^ by the time^ the gala was over.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I2D0
+
+trial E1I3D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The film director argued that the inexperienced CEO had ^put herself^ out of business^ by the end of the year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I3D0
+
+trial E2I3D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The documentary film argued that the inexperienced CEO had ^put herself^ out of business^ by the end of the year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I3D0
+
+trial E3I3D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The film director argued that the crude tabloid had ^put herself^ out of business^ by the end of the year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I3D0
+
+trial E4I3D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The documentary film argued that the crude tabloid had ^put herself^ out of business^ by the end of the year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I3D0
+
+trial E5I3D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The documentary film argued that the crude tabloid had ^put itself^ out of business^ by the end of the year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I3D0
+
+trial E6I3D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The film director argued that the crude tabloid had ^put itself^ out of business^ by the end of the year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I3D0
+
+trial E7I3D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The documentary film argued that the inexperienced CEO had ^put itself^ out of business^ by the end of the year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I3D0
+
+trial E8I3D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The film director argued that the inexperienced CEO had ^put itself^ out of business^ by the end of the year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I3D0
+
+trial E1I4D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The senior journalist claimed that the alleged criminal had sabota^ged herself^ with the page^ long interview.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I4D0
+
+trial E2I4D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newspaper article claimed that the alleged criminal had sabota^ged herself^ with the page^ long interview.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I4D0
+
+trial E3I4D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The senior journalist claimed that the esteemed publication had sabota^ged herself^ with the page^ long interview.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I4D0
+
+trial E4I4D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newspaper article claimed that the esteemed publication had sabota^ged herself^ with the page^ long interview.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I4D0
+
+trial E5I4D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newspaper article claimed that the esteemed publication had sabota^ged itself^ with the page^ long interview.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I4D0
+
+trial E6I4D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The senior journalist claimed that the esteemed publication had sabota^ged itself^ with the page^ long interview.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I4D0
+
+trial E7I4D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newspaper article claimed that the alleged criminal had sabota^ged itself^ with the page^ long interview.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I4D0
+
+trial E8I4D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The senior journalist claimed that the alleged criminal had sabota^ged itself^ with the page^ long interview.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I4D0
+
+trial E1I5D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hilarious columnist said that the unlikely winner had moc^ked herself^ during the extended,^ and often bitter election.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I5D0
+
+trial E2I5D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The magazine article said that the unlikely winner had moc^ked herself^ during the extended,^ and often bitter election.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I5D0
+
+trial E3I5D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hilarious columnist said that the campaign administration had moc^ked herself^ during the extended,^ and often bitter election.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I5D0
+
+trial E4I5D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The magazine article said that the campaign administration had moc^ked herself^ during the extended,^ and often bitter election.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I5D0
+
+trial E5I5D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The magazine article said that the campaign administration had moc^ked itself^ during the extended,^ and often bitter election.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I5D0
+
+trial E6I5D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hilarious columnist said that the campaign administration had moc^ked itself^ during the extended,^ and often bitter election.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I5D0
+
+trial E7I5D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The magazine article said that the unlikely winner had moc^ked itself^ during the extended,^ and often bitter election.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I5D0
+
+trial E8I5D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hilarious columnist said that the unlikely winner had moc^ked itself^ during the extended,^ and often bitter election.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I5D0
+
+trial E1I6D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The nervous CEO denied that the demanding secretary had protec^ted herself^ from the possibility^ of disgruntled union workers suing.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I6D0
+
+trial E2I6D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The blog post denied that the demanding secretary had protec^ted herself^ from the possibility^ of disgruntled union workers suing.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I6D0
+
+trial E3I6D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The nervous CEO denied that the company had protec^ted herself^ from the possibility^ of disgruntled union workers suing.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I6D0
+
+trial E4I6D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The blog post denied that the company had protec^ted herself^ from the possibility^ of disgruntled union workers suing.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I6D0
+
+trial E5I6D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The blog post denied that the company had protec^ted itself^ from the possibility^ of disgruntled union workers suing.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I6D0
+
+trial E6I6D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The nervous CEO denied that the company had protec^ted itself^ from the possibility^ of disgruntled union workers suing.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I6D0
+
+trial E7I6D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The blog post denied that the demanding secretary had protec^ted itself^ from the possibility^ of disgruntled union workers suing.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I6D0
+
+trial E8I6D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The nervous CEO denied that the demanding secretary had protec^ted itself^ from the possibility^ of disgruntled union workers suing.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I6D0
+
+trial E1I7D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The young attorney suggested that the alleged debtor had destro^yed herself^ during the economic^ crash a few years ago.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I7D0
+
+trial E2I7D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The written testimony suggested that the alleged debtor had destro^yed herself^ during the economic^ crash a few years ago.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I7D0
+
+trial E3I7D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The young attorney suggested that the small company had destro^yed herself^ during the economic^ crash a few years ago.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I7D0
+
+trial E4I7D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The written testimony suggested that the small company had destro^yed herself^ during the economic^ crash a few years ago.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I7D0
+
+trial E5I7D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The written testimony suggested that the small company had destro^yed itself^ during the economic^ crash a few years ago.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I7D0
+
+trial E6I7D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The young attorney suggested that the small company had destro^yed itself^ during the economic^ crash a few years ago.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I7D0
+
+trial E7I7D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The written testimony suggested that the alleged debtor had destro^yed itself^ during the economic^ crash a few years ago.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I7D0
+
+trial E8I7D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The young attorney suggested that the alleged debtor had destro^yed itself^ during the economic^ crash a few years ago.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I7D0
+
+trial E1I8D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The brilliant student speculated that the course instructor had gotten ahead^ of herself^ and presupposed^ material that was too advanced.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I8D0
+
+trial E2I8D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The student evaluation speculated that the course instructor had gotten ahead^ of herself^ and presupposed^ material that was too advanced.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I8D0
+
+trial E3I8D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The brilliant student speculated that the course had gotten ahead^ of herself^ and presupposed^ material that was too advanced.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I8D0
+
+trial E4I8D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The student evaluation speculated that the course had gotten ahead^ of herself^ and presupposed^ material that was too advanced.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I8D0
+
+trial E5I8D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The student evaluation speculated that the course had gotten ahead^ of itself^ and presupposed^ material that was too advanced.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I8D0
+
+trial E6I8D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The brilliant student speculated that the course had gotten ahead^ of itself^ and presupposed^ material that was too advanced.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I8D0
+
+trial E7I8D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The student evaluation speculated that the course instructor had gotten ahead^ of itself^ and presupposed^ material that was too advanced.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I8D0
+
+trial E8I8D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The brilliant student speculated that the course instructor had gotten ahead^ of itself^ and presupposed^ material that was too advanced.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I8D0
+
+trial E1I9D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The charming designer suggested that the new intern had rus^hed herself^ during the preparation^ phase.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I9D0
+
+trial E2I9D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hilarious movie suggested that the new intern had rus^hed herself^ during the preparation^ phase.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I9D0
+
+trial E3I9D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The charming actress suggested that the financial division had rus^hed herself^ during the preparation^ phase.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I9D0
+
+trial E4I9D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hilarious movie suggested that the financial division had rus^hed herself^ during the preparation^ phase.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I9D0
+
+trial E5I9D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hilarious movie suggested that the financial division had rus^hed itself^ during the preparation^ phase.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I9D0
+
+trial E6I9D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The charming actress suggested that the financial division had rus^hed itself^ during the preparation^ phase.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I9D0
+
+trial E7I9D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hilarious movie suggested that the new intern had rus^hed itself^ during the preparation^ phase.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I9D0
+
+trial E8I9D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The charming actress suggested that the new intern had rus^hed itself^ during the preparation^ phase.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I9D0
+
+trial E1I10D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The high heeled financier implied that the corporate spy had revea^led herself^ by the end^ of the company's internal investigation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I10D0
+
+trial E2I10D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The annual report implied that the corporate spy had revea^led herself^ by the end^ of the company's internal investigation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I10D0
+
+trial E3I10D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The high heeled financier implied that the criminal syndicate had revea^led herself^ by the end^ of the company's internal investigation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I10D0
+
+trial E4I10D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The annual report implied that the criminal syndicate had revea^led herself^ by the end^ of the company's internal investigation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I10D0
+
+trial E5I10D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The annual report implied that the criminal syndicate had revea^led itself^ by the end^ of the company's internal investigation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I10D0
+
+trial E6I10D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The high heeled financier implied that the criminal syndicate had revea^led itself^ by the end^ of the company's internal investigation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I10D0
+
+trial E7I10D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The annual report implied that the corporate spy had revea^led itself^ by the end^ of the company's internal investigation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I10D0
+
+trial E8I10D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The high heeled financier implied that the corporate spy had revea^led itself^ by the end^ of the company's internal investigation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I10D0
+
+trial E1I11D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The critical interviewer agreed that the inept general had outd^one herself^ during the botched^ execution of the plan.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I11D0
+
+trial E2I11D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The harsh report agreed that the inept general had outd^one herself^ during the botched^ execution of the plan.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I11D0
+
+trial E3I11D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The critical interviewer agreed that the inexperienced organization had outd^one herself^ during the botched^ execution of the plan.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I11D0
+
+trial E4I11D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The harsh report agreed that the inexperienced organization had outd^one herself^ during the botched^ execution of the plan.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I11D0
+
+trial E5I11D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The harsh report agreed that the inexperienced organization had outd^one itself^ during the botched^ execution of the plan.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I11D0
+
+trial E6I11D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The critical interviewer agreed that the inexperienced organization had outd^one itself^ during the botched^ execution of the plan.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I11D0
+
+trial E7I11D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The harsh report agreed that the inept general had outd^one itself^ during the botched^ execution of the plan.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I11D0
+
+trial E8I11D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The critical interviewer agreed that the inept general had outd^one itself^ during the botched^ execution of the plan.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I11D0
+
+trial E1I12D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The creative director mentioned that the successful singer had w^orn herself^ thin thanks^ to all of the reshoots demanded by the producer.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I12D0
+
+trial E2I12D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The bonus commentary mentioned that the successful singer had w^orn herself^ thin thanks^ to all of the reshoots demanded by the producer.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I12D0
+
+trial E3I12D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The creative director mentioned that the production budget had w^orn herself^ thin thanks^ to all of the reshoots demanded by the producer.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I12D0
+
+trial E4I12D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The bonus commentary mentioned that the production budget had w^orn herself^ thin thanks^ to all of the reshoots demanded by the producer.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I12D0
+
+trial E5I12D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The bonus commentary mentioned that the production budget had w^orn itself^ thin thanks^ to all of the reshoots demanded by the producer.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I12D0
+
+trial E6I12D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The creative director mentioned that the production budget had w^orn itself^ thin thanks^ to all of the reshoots demanded by the producer.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I12D0
+
+trial E7I12D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The bonus commentary mentioned that the successful singer had w^orn itself^ thin thanks^ to all of the reshoots demanded by the producer.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I12D0
+
+trial E8I12D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The creative director mentioned that the successful singer had w^orn itself^ thin thanks^ to all of the reshoots demanded by the producer.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I12D0
+
+trial E1I13D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The young trainee speculated that the elderly medic had defen^ded herself^ from attack^ by retreating to higher ground.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I13D0
+
+trial E2I13D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The fanciful novel speculated that the elderly medic had defen^ded herself^ from attack^ by retreating to higher ground.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I13D0
+
+trial E3I13D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The young trainee speculated that the foreign army had defen^ded herself^ from attack^ by retreating to higher ground.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I13D0
+
+trial E4I13D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The fanciful novel speculated that the foreign army had defen^ded herself^ from attack^ by retreating to higher ground.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I13D0
+
+trial E5I13D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The fanciful novel speculated that the foreign army had defen^ded itself^ from attack^ by retreating to higher ground.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I13D0
+
+trial E6I13D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The young trainee speculated that the foreign army had defen^ded itself^ from attack^ by retreating to higher ground.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I13D0
+
+trial E7I13D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The fanciful novel speculated that the elderly medic had defen^ded itself^ from attack^ by retreating to higher ground.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I13D0
+
+trial E8I13D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The young trainee speculated that the elderly medic had defen^ded itself^ from attack^ by retreating to higher ground.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I13D0
+
+trial E1I14D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The show host reported that the messy technician had abruptly silen^ced herself^ during the live^ telecast of the parade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I14D0
+
+trial E2I14D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The TV broadcast reported that the messy technician had abruptly silen^ced herself^ during the live^ telecast of the parade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I14D0
+
+trial E3I14D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The show host reported that the marching band had abruptly silen^ced herself^ during the live^ telecast of the parade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I14D0
+
+trial E4I14D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The TV broadcast reported that the marching band had abruptly silen^ced herself^ during the live^ telecast of the parade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I14D0
+
+trial E5I14D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The TV broadcast reported that the marching band had silen^ced itself^ during the live^ telecast of the parade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I14D0
+
+trial E6I14D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The show host reported that the marching band had silen^ced itself^ during the live^ telecast of the parade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I14D0
+
+trial E7I14D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The TV broadcast reported that the messy technician had silen^ced itself^ during the live^ telecast of the parade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I14D0
+
+trial E8I14D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The show host reported that the messy technician had silen^ced itself^ during the live^ telecast of the parade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I14D0
+
+trial E1I15D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The robbery victim suggested that the amateur criminal had questio^ned herself^ after the emergence^ of new information in the leaked documents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I15D0
+
+trial E2I15D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The slanderous accusation suggested that the amateur criminal had questio^ned herself^ after the emergence^ of new information in the leaked documents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I15D0
+
+trial E3I15D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The robbery victim suggested that the insurance company had questio^ned herself^ after the emergence^ of new information in the leaked documents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I15D0
+
+trial E4I15D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The slanderous accusation suggested that the insurance company had questio^ned herself^ after emergence^ of new information in the leaked documents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I15D0
+
+trial E5I15D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The slanderous accusation suggested that the insurance company had questio^ned itself^ after the emergence^ of new information in the leaked documents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I15D0
+
+trial E6I15D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The robbery victim suggested that the insurance company had questio^ned itself^ after the emergence^ of new information in the leaked documents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I15D0
+
+trial E7I15D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The slanderous accusation suggested that the amateur criminal had questio^ned itself^ after the emergence^ of new information in the leaked documents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I15D0
+
+trial E8I15D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The robbery victim suggested that the amateur criminal had questio^ned itself^ after the emergence^ of new information in the leaked documents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I15D0
+
+trial E1I16D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The trained dancer declared that the famous director had rui^ned herself^ by the end^ of the performance season.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I16D0
+
+trial E2I16D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The fan letter declared that the famous director had rui^ned herself^ by the end^ of the performance season.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I16D0
+
+trial E3I16D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The trained dancer declared that the talent agency had rui^ned herself^ by the end^ of the performance season.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I16D0
+
+trial E4I16D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The fan letter declared that the talent agency had rui^ned herself^ by the end^ of the performance season.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I16D0
+
+trial E5I16D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The fan letter declared that the talent agency had rui^ned itself^ by the end^ of the performance season.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I16D0
+
+trial E6I16D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The trained dancer declared that the talent agency had rui^ned itself^ by the end^ of the performance season.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I16D0
+
+trial E7I16D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The fan letter declared that the famous director had rui^ned itself^ by the end^ of the performance season.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I16D0
+
+trial E8I16D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The trained dancer declared that the famous director had rui^ned itself^ by the end^ of the performance season.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I16D0
+
+trial E1I17D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newswoman reported that the pretty stockbroker had bankrup^ted herself^ by the second^ quarter of the fiscal year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I17D0
+
+trial E2I17D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The annual report reported that the pretty stockbroker had bankrup^ted herself^ by the second^ quarter of the fiscal year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I17D0
+
+trial E3I17D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newswoman reported that the small startup had bankrup^ted herself^ by the second^ quarter of the fiscal year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I17D0
+
+trial E4I17D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The annual report reported that the small startup had bankrup^ted herself^ by the second^ quarter of the fiscal year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I17D0
+
+trial E5I17D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The annual report reported that the small startup had bankrup^ted itself^ by the second^ quarter of the fiscal year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I17D0
+
+trial E6I17D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newswoman reported that the small startup had bankrup^ted itself^ by the second^ quarter of the fiscal year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I17D0
+
+trial E7I17D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The annual report reported that the pretty stockbroker had bankrup^ted itself^ by the second^ quarter of the fiscal year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I17D0
+
+trial E8I17D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The newswoman reported that the pretty stockbroker had bankrup^ted itself^ by the second^ quarter of the fiscal year.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I17D0
+
+trial E1I18D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The HR representative worried that the unhappy intern had sh^own herself^ to be untrustworthy^ during the last few months.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I18D0
+
+trial E2I18D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The apoplectic email worried that the unhappy intern had sh^own herself^ to be untrustworthy^ during the last few months.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I18D0
+
+trial E3I18D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The HR representative worried that the business strategy had sh^own herself^ to be untrustworthy^ during the last few months.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I18D0
+
+trial E4I18D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The apoplectic email worried that the business strategy had sh^own herself^ to be untrustworthy^ during the last few months.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I18D0
+
+trial E5I18D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The apoplectic email worried that the business strategy had sh^own itself^ to be untrustworthy^ during the last few months.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I18D0
+
+trial E6I18D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The HR representative worried that the business strategy had sh^own itself^ to be untrustworthy^ during the last few months.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I18D0
+
+trial E7I18D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The apoplectic email worried that the unhappy intern had sh^own itself^ to be untrustworthy^ during the last few months.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I18D0
+
+trial E8I18D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The HR representative worried that the unhappy intern had sh^own itself^ to be untrustworthy^ during the last few months.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I18D0
+
+trial E1I19D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The honest writer disclosed that the thoughtful manager had carefully remo^ved herself^ from politically^ tense situation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I19D0
+
+trial E2I19D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The candid biography disclosed that the thoughtful manager had carefully remo^ved herself^ from politically^ tense situation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I19D0
+
+trial E3I19D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The honest writer disclosed that the government agency had carefully remo^ved herself^ from politically^ tense situation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I19D0
+
+trial E4I19D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The candid biography disclosed that the government agency had carefully remo^ved herself^ from politically^ tense situation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I19D0
+
+trial E5I19D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The candid biography disclosed that the government agency had carefully remo^ved itself^ from the politically^ tense situation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I19D0
+
+trial E6I19D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The honest writer disclosed that the government agency had carefully remo^ved itself^ from politically^ tense situation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I19D0
+
+trial E7I19D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The candid biography disclosed that the thoughtful manager had carefully remo^ved itself^ from the politically^ tense situation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I19D0
+
+trial E8I19D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The honest writer disclosed that the thoughtful manager had carefully remo^ved itself^ from politically^ tense situation.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I19D0
+
+trial E1I20D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The exhausted counselor insisted that the inveterate gambler had bankrup^ted herself^ by taking^ poor financial advice from a bogus psychic.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I20D0
+
+trial E2I20D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The corporate memo insisted that the inveterate gambler had bankrup^ted herself^ by taking^ poor financial advice from a bogus psychic.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I20D0
+
+trial E3I20D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The exhausted counselor insisted that the failing casino had bankrup^ted herself^ by taking^ poor financial advice from a bogus psychic.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I20D0
+
+trial E4I20D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The corporate memo insisted that the failing casino had bankrup^ted herself^ by taking^ poor financial advice from a bogus psychic.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I20D0
+
+trial E5I20D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The corporate memo insisted that the failing casino had bankrup^ted itself^ by taking^ poor financial advice from a bogus psychic.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I20D0
+
+trial E6I20D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The exhausted counselor insisted that the failing casino had bankrup^ted itself^ by taking^ poor financial advice from a bogus psychic.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I20D0
+
+trial E7I20D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The corporate memo insisted that the inveterate gambler had bankrup^ted itself^ by taking^ poor financial advice from a bogus psychic.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I20D0
+
+trial E8I20D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The exhausted counselor insisted that the inveterate gambler had bankrup^ted itself^ by taking^ poor financial advice from a bogus psychic.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I20D0
+
+trial E1I21D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The happy composer mentioned that the flighty director had repea^ted herself^ at least seven^ times in the course of five minutes.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I21D0
+
+trial E2I21D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The critical review mentioned that the flighty director had repea^ted herself^ at least seven^ times in the course of five minutes.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I21D0
+
+trial E3I21D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The happy composer mentioned that the depressing song had repea^ted herself^ at least seven^ times in the course of five minutes.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I21D0
+
+trial E4I21D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The critical review mentioned that the depressing song had repea^ted herself^ at least seven^ times in the course of five minutes.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I21D0
+
+trial E5I21D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The critical review mentioned that the depressing song had repea^ted itself^ at least seven^ times in the course of five minutes.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I21D0
+
+trial E6I21D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The happy composer mentioned that the depressing song had repea^ted itself^ at least seven^ times in the course of five minutes.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I21D0
+
+trial E7I21D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The critical review mentioned that the flighty director had repea^ted itself^ at least seven^ times in the course of five minutes.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I21D0
+
+trial E8I21D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The happy composer mentioned that the flighty director had repea^ted itself^ at least seven^ times in the course of five minutes.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I21D0
+
+trial E1I22D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The private investigator reported that the sly con artist had misrepresen^ted herself^ to the gullible^ members of the jury.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I22D0
+
+trial E2I22D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The court record reported that the sly con artist had misrepresen^ted herself^ to the gullible^ members of the jury.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I22D0
+
+trial E3I22D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The private investigator reported that the important testimony had misrepresen^ted herself^ to the gullible^ members of the jury.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I22D0
+
+trial E4I22D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The court record reported that the important testimony had misrepresen^ted herself^ to the gullible^ members of the jury.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I22D0
+
+trial E5I22D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The court record reported that the important testimony had misrepresen^ted itself^ to the gullible^ members of the jury.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I22D0
+
+trial E6I22D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The private investigator reported that the important testimony had misrepresen^ted itself^ to the gullible^ members of the jury.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I22D0
+
+trial E7I22D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The court record reported that the sly con artist had misrepresen^ted itself^ to the gullible^ members of the jury.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I22D0
+
+trial E8I22D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The private investigator reported that the sly con artist had misrepresen^ted itself^ to the gullible^ members of the jury.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I22D0
+
+trial E1I23D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The police officer claimed that the skittish witness had contradic^ted herself^ so thoroughly^ that the case was unlikely to ever be solved.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I23D0
+
+trial E2I23D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The news report claimed that the skittish witness had contradic^ted herself^ so thoroughly^ that the case was unlikely to ever be solved.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I23D0
+
+trial E3I23D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The police officer claimed that the evidence had contradic^ted herself^ so thoroughly^ that the case was unlikely to ever be solved.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I23D0
+
+trial E4I23D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The news report claimed that the evidence had contradic^ted herself^ so thoroughly^ that the case was unlikely to ever be solved.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I23D0
+
+trial E5I23D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The news report claimed that the evidence had contradic^ted itself^ so thoroughly^ that the case was unlikely to ever be solved.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I23D0
+
+trial E6I23D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The police officer claimed that the evidence had contradic^ted itself^ so thoroughly^ that the case was unlikely to ever be solved.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I23D0
+
+trial E7I23D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The news report claimed that the skittish witness had contradic^ted itself^ so thoroughly^ that the case was unlikely to ever be solved.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I23D0
+
+trial E8I23D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The police officer claimed that the skittish witness had contradic^ted itself^ so thoroughly^ that the case was unlikely to ever be solved.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I23D0
+
+trial E1I24D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The tired professor stated that the lazy student had only har^med herself^ by complaining^ to the dean about the failing grade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I24D0
+
+trial E2I24D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The official report stated that the lazy student had only har^med herself^ by complaining^ to the dean about the failing grade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I24D0
+
+trial E3I24D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The tired professor stated that the hockey team had definitely har^med herself^ by complaining^ to the dean about the failing grade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I24D0
+
+trial E4I24D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The official report stated that the hockey team had definitely har^med herself^ by complaining^ to the dean about the failing grade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I24D0
+
+trial E5I24D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The official report stated that the hockey team had only har^med itself^ by complaining^ to the dean about the failing grade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I24D0
+
+trial E6I24D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The tired professor stated that the hockey team had only har^med itself^ by complaining^ to the dean about the failing grade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I24D0
+
+trial E7I24D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The official report stated that the lazy student had definitely har^med itself^ by complaining^ to the dean about the failing grade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I24D0
+
+trial E8I24D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The tired professor stated that the lazy student had definitely har^med itself^ by complaining^ to the dean about the failing grade.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I24D0
+
+trial E1I25D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious attorney mentioned that the wealthy businessman needed to regul^ate himself^ and monitor^ future expenditures.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I25D0
+
+trial E2I25D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The strict law mentioned that the wealthy businessman needed to regul^ate himself^ and monitor^ future expenditures.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I25D0
+
+trial E3I25D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious attorney mentioned that the small business needed to regul^ate himself^ and monitor^ future expenses.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I25D0
+
+trial E4I25D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The strict law mentioned that the small business needed to regul^ate himself^ and monitor^ future expenditures.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I25D0
+
+trial E5I25D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The strict law mentioned that the small business needed to regul^ate itself^ and monitor^ future expenditures.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I25D0
+
+trial E6I25D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious attorney  mentioned that the small business needed to regul^ate itself^ and monitor^ future expenditures.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I25D0
+
+trial E7I25D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The strict law mentioned that the wealthy businessman needed to regul^ate itself^ and monitor^ future expenditures.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I25D0
+
+trial E8I25D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The conscientious attorney  mentioned that the wealthy businessman needed to regul^ate itself^ and monitor^ future expenditures.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I25D0
+
+trial E1I26D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial supreme court justice claimed that the FBI agent could spy^ on himself,^ but not on innocent^ civilians.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I26D0
+
+trial E2I26D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial judicial decision claimed that the FBI agent could spy^ on himself,^ but not on innocent^ civilians.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I26D0
+
+trial E3I26D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial supreme court justice claimed that the government could spy^ on himself,^ but not on innocent^ civilians.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I26D0
+
+trial E4I26D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial judicial decision claimed that the government could spy^ on himself,^ but not on innocent^ civilians.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I26D0
+
+trial E5I26D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial judicial decision claimed that the government could spy^ on itself,^ but not on innocent^ civilians.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I26D0
+
+trial E6I26D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial supreme court justice claimed that the government could spy^ on itself,^ but not on innocent^ civilians.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I26D0
+
+trial E7I26D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial judicial decision claimed that the FBI agent could spy^ on itself,^ but not on innocent^ civilians.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I26D0
+
+trial E8I26D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial supreme court justice claimed that the FBI agent could spy^ on itself,^ but not on innocent^ civilians.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I26D0
+
+trial E1I27D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The diligent whistle-blower claimed that the arrogant banker had revea^led himself^ to be untrustworthy^ by badly mishandling public funds.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I27D0
+
+trial E2I27D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hurtful rumor claimed that the arrogant banker had revea^led himself^ to be untrustworthy^ by badly mishandling public funds.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I27D0
+
+trial E3I27D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The diligent whistle-blower claimed that the big bank had revea^led himself^ to be untrustworthy^ by badly mishandling public funds.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I27D0
+
+trial E4I27D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hurtful rumor claimed that the big bank had revea^led himself^ to be untrustworthy^ by badly mishandling public funds.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I27D0
+
+trial E5I27D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hurtful rumor claimed that the big bank had revea^led itself^ to be untrustworthy^ by badly mishandling public funds.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I27D0
+
+trial E6I27D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The diligent whistle-blower claimed that the big bank had revea^led itself^ to be untrustworthy^ by badly mishandling public funds.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I27D0
+
+trial E7I27D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hurtful rumor claimed that the arrogant banker had revea^led itself^ to be untrustworthy^ by badly mishandling public funds.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I27D0
+
+trial E8I27D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The diligent whistle-blower claimed that the arrogant banker had revea^led itself^ to be untrustworthy^ by badly mishandling public funds.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I27D0
+
+trial E1I28D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The paranoid doctor said that the laid-back parent should ch^eck himself^ for viruses^ once every month.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I28D0
+
+trial E2I28D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The complicated instructions said that the laid-back parent should ch^eck himself^ for viruses^ once every month.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I28D0
+
+trial E3I28D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The paranoid doctor said that the computer program should ch^eck himself^ for viruses^ once every month.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I28D0
+
+trial E4I28D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The complicated instructions said that the computer program should ch^eck himself^ for viruses^ once every month.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I28D0
+
+trial E5I28D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The complicated instructions said that the computer program should ch^eck itself^ for viruses^ once every month.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I28D0
+
+trial E6I28D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The paranoid doctor said that the computer program should ch^eck itself^ for viruses^ once every month.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I28D0
+
+trial E7I28D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The complicated instructions said that the laid-back parent should ch^eck itself^ for viruses^ once every month.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I28D0
+
+trial E8I28D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The paranoid doctor said that the laid-back parent should ch^eck itself^ for viruses^ once every month.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I28D0
+
+trial E1I29D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial journalist asserted that the bigoted politician had populari^zed himself^ by appealing^ to disenfranchised farmers.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I29D0
+
+trial E2I29D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The dense textbook asserted that the bigoted politician had populari^zed himself^ by appealing^ to disenfranchised farmers.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I29D0
+
+trial E3I29D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial journalist asserted that the bigoted manifesto had populari^zed himself^ by appealing^ to disenfranchised farmers.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I29D0
+
+trial E4I29D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The dense textbook asserted that the bigoted manifesto had populari^zed himself^ by appealing^ to disenfranchised farmers.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I29D0
+
+trial E5I29D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The dense textbook asserted that the bigoted manifesto had populari^zed itself^ by appealing^ to disenfranchised farmers.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I29D0
+
+trial E6I29D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial journalist asserted that the bigoted manifesto had populari^zed itself^ by appealing^ to disenfranchised farmers.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I29D0
+
+trial E7I29D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The dense textbook asserted that the bigoted politician had populari^zed itself^ by appealing^ to disenfranchised farmers.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I29D0
+
+trial E8I29D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The controversial journalist asserted that the bigoted politician had populari^zed itself^ by appealing^ to disenfranchised farmers.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I29D0
+
+trial E1I30D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The snarky comedian joked that the bumbling interviewer sitcom had m^ade himself^ famous for^ all the wrong reasons.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I30D0
+
+trial E2I30D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The snarky headline joked that the bumbling interviewer had m^ade himself^ famous for^ all the wrong reasons.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I30D0
+
+trial E3I30D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The snarky comedian joked that the goofy sitcom had m^ade himself^ famous for^ all the wrong reasons.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I30D0
+
+trial E4I30D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The snarky headline joked that the goofy sitcom had m^ade himself^ famous for^ all the wrong reasons.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I30D0
+
+trial E5I30D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The snarky headline joked that the goofy sitcom had m^ade itself^ famous for^ all the wrong reasons.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I30D0
+
+trial E6I30D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The snarky comedian joked that the goofy sitcom had m^ade itself^ famous for^ all the wrong reasons.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I30D0
+
+trial E7I30D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The snarky headline joked that the bumbling interviewer had m^ade itself^ famous^ for all the wrong reasons.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I30D0
+
+trial E8I30D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The snarky comedian joked that the bumbling interviewer had m^ade itself^ famous^ for all the wrong reasons.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I30D0
+
+trial E1I31D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The desparate billionaire complained that the investigative reporter t^ook himself^ way too^ seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I31D0
+
+trial E2I31D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The leaked report complained that the investigative reporter t^ook himself^ way too^ seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I31D0
+
+trial E3I31D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The desparate billionaire complained that the investigative expose t^ook himself^ way too^ seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I31D0
+
+trial E4I31D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The leaked report complained that the investigative expose t^ook himself^ way too^ seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I31D0
+
+trial E5I31D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The leaked report complained that the investigative expose t^ook itself^ way too^ seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I31D0
+
+trial E6I31D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The desparate billionaire complained that the investigative expose t^ook itself^ way too^ seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I31D0
+
+trial E7I31D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The leaked report complained that the investigative reporter t^ook itself^ way too^ seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I31D0
+
+trial E8I31D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The desparate billionaire complained that the investigative reporter t^ook itself^ way too^ seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I31D0
+
+trial E1I32D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angry athlete whined that the bold referee had contradic^ted himself^ and completely^ confused the issue.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I32D0
+
+trial E2I32D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angry tweet whined that the bold referee had contradic^ted himself^ and completely^ confused the issue.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I32D0
+
+trial E3I32D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angry athlete whined that the bold judicial decision had contradic^ted himself^ and completely^ confused the issue.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I32D0
+
+trial E4I32D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angry tweet whined that the bold judicial decision had contradic^ted himself^ and completely^ confused the issue.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I32D0
+
+trial E5I32D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angry tweet whined that the bold judicial decision had contradic^ted itself^ and completely^ confused the issue.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I32D0
+
+trial E6I32D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angry athlete whined that the bold judicial decision had contradic^ted itself^ and completely^ confused the issue.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I32D0
+
+trial E7I32D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angry tweet whined that the bold referee had contradic^ted itself^ and completely^ confused the issue.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I32D0
+
+trial E8I32D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angry athlete whined that the bold referee had contradic^ted itself^ and completely^ confused the issue.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I32D0
+
+trial E1I33D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The jaded bachelor insisted that the young suitor hadn't gi^ven himself^ a chance^ at being taken seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I33D0
+
+trial E2I33D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The jaded press briefing insisted that the young suitor hadn't gi^ven himself^ a chance^ at being taken seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I33D0
+
+trial E3I33D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The jaded bachelor insisted that the fledgling reality show hadn't gi^ven himself^ a chance^ at being taken seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I33D0
+
+trial E4I33D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The jaded press briefing insisted that the fledgling reality show hadn't gi^ven himself^ a chance^ at being taken seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I33D0
+
+trial E5I33D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The jaded press briefing insisted that the fledgling reality show hadn't gi^ven itself^ a chance^ at being taken seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I33D0
+
+trial E6I33D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The jaded bachelor insisted that the fledgling reality show hadn't gi^ven itself^ a chance^ at being taken seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I33D0
+
+trial E7I33D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The jaded press briefing insisted that the young suitor hadn't gi^ven itself^ a chance^ at being taken seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I33D0
+
+trial E8I33D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The jaded bachelor insisted that the young suitor hadn't gi^ven itself^ a chance^ at being taken seriously.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I33D0
+
+trial E1I34D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The belligerent press secretary claimed that the twitter user completely misrepresen^ted himself^ and the president^ to a mystified press corps.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I34D0
+
+trial E2I34D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The belligerent press release claimed that the twitter user completely misrepresen^ted himself^ and the president^ to a mystified press corps.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I34D0
+
+trial E3I34D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The belligerent press secretary claimed that the baseless leak completely misrepresen^ted himself^ and the president^ to a mystified press corps.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I34D0
+
+trial E4I34D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The belligerent press release claimed that the baseless leak completely misrepresen^ted himself^ and the president^ to a mystified press corps.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I34D0
+
+trial E5I34D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The belligerent press release claimed that the baseless leak completely misrepresen^ted itself^ and the president^ to a mystified press corps.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I34D0
+
+trial E6I34D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The belligerent press secretary claimed that the baseless leak completely misrepresen^ted itself^ and the president^ to a mystified press corps.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I34D0
+
+trial E7I34D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The belligerent press release claimed that the twitter user completely misrepresen^ted itself^ and the president^ to a mystified press corps.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I34D0
+
+trial E8I34D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The belligerent press secretary claimed that the twitter user completely misrepresen^ted itself^ and the president^ to a mystified press corps.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I34D0
+
+trial E1I35D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The local farmer said that the big-shot senator belitt^led himself^ by meddling^ in the affairs of agrarian constituents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I35D0
+
+trial E2I35D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The company memo said that the big-shot senator belitt^led himself^ by meddling^ in the affairs of agrarian constituents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I35D0
+
+trial E3I35D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The local farmer said that the new city ordinance belitt^led himself^ by meddling^ in the affairs of agrarian constituents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I35D0
+
+trial E4I35D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The company memo said that the new city ordinance belitt^led himself^ by meddling^ in the affairs of agrarian constituents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I35D0
+
+trial E5I35D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The company memo said that the new city ordinance belitt^led itself^ by meddling^ in the affairs of agrarian constituents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I35D0
+
+trial E6I35D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The local farmer said that the new city ordinance belitt^led itself^ by meddling^ in the affairs of agrarian constituents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I35D0
+
+trial E7I35D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The company memo said that the big-shot senator belitt^led itself^ by meddling^ in the affairs of agrarian constituents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I35D0
+
+trial E8I35D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The local farmer said that the big-shot senator belitt^led itself^ by meddling^ in the affairs of agrarian constituents.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I35D0
+
+trial E1I36D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The skeptical scientist claimed that the inexperienced graduate student had sh^own himself^ to be unreliable^ as a researcher.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I36D0
+
+trial E2I36D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The scathing email claimed that the inexperienced graduate student had sh^own himself^ to be unreliable^ as a researcher.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I36D0
+
+trial E3I36D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The skeptical scientist claimed that the peer-reviewed journal had sh^own himself^ to be unreliable^ as a researcher.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I36D0
+
+trial E4I36D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The scathing email claimed that the peer-reviewed journal had sh^own himself^ to be unreliable^ as a researcher.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I36D0
+
+trial E5I36D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The scathing email claimed that the peer-reviewed journal had sh^own itself^ to be unreliable^ as a research tool.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I36D0
+
+trial E6I36D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The skeptical scientist claimed that the peer-reviewed journal had sh^own itself^ to be unreliable^ as a research tool.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I36D0
+
+trial E7I36D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The scathing email claimed that the inexperienced graduate student had sh^own itself^ to be unreliable^ as a research tool.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I36D0
+
+trial E8I36D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The skeptical scientist claimed that the inexperienced graduate student had sh^own itself^ to be unreliable^ as a research tool.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I36D0
+
+trial E1I37D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The clever inventor mentioned that the young apprentice had inju^red himself^ in the boiler^ room of the laboratory.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I37D0
+
+trial E2I37D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The incident report mentioned that the young apprentice had inju^red himself^ in the boiler^ room of the laboratory.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I37D0
+
+trial E3I37D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The clever inventor mentioned that the robot prototype had inju^red himself^ in the boiler^ room of the laboratory.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I37D0
+
+trial E4I37D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The incident report mentioned that the robot prototype had inju^red himself^ in the boiler^ room of the laboratory.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I37D0
+
+trial E5I37D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The incident report mentioned that the robot prototype had inju^red itself^ in the boiler^ room of the laboratory.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I37D0
+
+trial E6I37D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The clever inventor mentioned that the robot prototype had inju^red itself^ in the boiler^ room of the laboratory.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I37D0
+
+trial E7I37D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The incident report mentioned that the young apprentice had inju^red itself^ in the boiler^ room of the laboratory.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I37D0
+
+trial E8I37D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The clever inventor mentioned that the young apprentice had inju^red itself^ in the boiler^ room of the laboratory.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I37D0
+
+trial E1I38D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The kindly uncle complained that the lovesick engineer was sell^ing himself^ short and^ shouldn't be so negative.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I38D0
+
+trial E2I38D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The well-meaning email complained that the lovesick engineer was sell^ing himself^ short and^ shouldn't be so negative.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I38D0
+
+trial E3I38D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The kindly uncle complained that the lovesick letter was sell^ing himself^ short and^ shouldn't be so negative.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I38D0
+
+trial E4I38D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The well-meaning email complained that the lovesick letter was sell^ing himself^ short and^ shouldn't be so negative.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I38D0
+
+trial E5I38D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The well-meaning email complained that the lovesick letter was sell^ing itself^ short and^ shouldn't be so negative.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I38D0
+
+trial E6I38D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The kindly uncle complained that the lovesick letter was sell^ing itself^ short and^ shouldn't be so negative.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I38D0
+
+trial E7I38D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The well-meaning email complained that the lovesick engineer was sell^ing itself^ short and^ shouldn't be so negative.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I38D0
+
+trial E8I38D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The kindly uncle complained that the lovesick engineer was sell^ing itself^ short and^ shouldn't be so negative.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I38D0
+
+trial E1I39D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The shy archivist complained that the arrogant researcher incorrectly conside^red himself^ the leading^ expert on ice age flora.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I39D0
+
+trial E2I39D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The scathing review complained that the arrogant researcher incorrectly conside^red himself^ the leading^ expert on ice age flora.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I39D0
+
+trial E3I39D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The shy archivist complained that the new textbook incorrectly conside^red himself^ the leading^ expert on ice age flora.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I39D0
+
+trial E4I39D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The scathing review complained that the new textbook incorrectly conside^red himself^ the leading^ expert on ice age flora.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I39D0
+
+trial E5I39D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The scathing review complained that the new textbook incorrectly conside^red itself^ the leading^ expert on ice age flora.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I39D0
+
+trial E6I39D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The shy archivist complained that the new textbook incorrectly conside^red itself^ the leading^ expert on ice age flora.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I39D0
+
+trial E7I39D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The scathing review complained that the arrogant researcher incorrectly conside^red itself^ the leading^ expert on ice age flora.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I39D0
+
+trial E8I39D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The shy archivist complained that the arrogant researcher incorrectly conside^red itself^ the leading^ expert on ice age flora.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I39D0
+
+trial E1I40D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The experienced gardener said that the novice landscape designer had sh^own himself^ off to great^ effect at the recent horticultural expose.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I40D0
+
+trial E2I40D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The news clipping said that the novice landscape designer had sh^own himself^ off to great^ effect at the recent horticultural expose.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I40D0
+
+trial E3I40D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The experienced gardener said that the impressive new rose cultivar had sh^own himself^ off to great^ effect at the recent horticultural expose.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I40D0
+
+trial E4I40D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The news clipping said that the impressive new rose cultivar had sh^own himself^ off to great^ effect at the recent horticultural expose.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I40D0
+
+trial E5I40D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The news clipping said that the impressive new rose cultivar had sh^own itself^ off to great^ effect at the recent horticultural expose.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I40D0
+
+trial E6I40D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The experienced gardener said that the impressive new rose cultivar had sh^own itself^ off to great^ effect at the recent horticultural expose.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I40D0
+
+trial E7I40D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The news clipping said that the novice landscape designer had sh^own itself^ off to great^ effect at the recent horticultural expose.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I40D0
+
+trial E8I40D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The experienced gardener said that the novice landscape designer had sh^own itself^ off to great^ effect at the recent horticultural expose.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I40D0
+
+trial E1I41D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The budding author wrote that the brilliant detective credi^ted himself^ with exposing^ the hidden crime syndicate.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I41D0
+
+trial E2I41D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The press release wrote that the brilliant detective credi^ted himself^ with exposing^ the hidden crime syndicate.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I41D0
+
+trial E3I41D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The budding author wrote that the amateur detectives' union credi^ted himself^ with exposing^ the hidden crime syndicate.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I41D0
+
+trial E4I41D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The press release wrote that the amateur detectives' union credi^ted himself^ with exposing^ the hidden crime syndicate.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I41D0
+
+trial E5I41D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The press release wrote that the amateur detectives' union credi^ted itself^ with exposing^ the hidden crime syndicate.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I41D0
+
+trial E6I41D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The budding author wrote that the amateur detectives' union credi^ted itself^ with exposing^ the hidden crime syndicate.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I41D0
+
+trial E7I41D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The press release wrote that the brilliant detective credi^ted itself^ with exposing^ the hidden crime syndicate.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I41D0
+
+trial E8I41D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The budding author wrote that the brilliant detective credi^ted itself^ with exposing^ the hidden crime syndicate.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I41D0
+
+trial E1I42D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The circus ringleader proclaimed that the incredibly inept clown had embarras^sed himself^ for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I42D0
+
+trial E2I42D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The program insert proclaimed that the incredibly inept clown had embarras^sed himself^ for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I42D0
+
+trial E3I42D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The circus ringleader proclaimed that the underwhelming opening act had embarras^sed himself^ for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I42D0
+
+trial E4I42D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The program insert proclaimed that the underwhelming opening act had embarras^sed himself^ for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I42D0
+
+trial E5I42D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The program insert proclaimed that the underwhelming opening act had embarras^sed itself^ for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I42D0
+
+trial E6I42D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The circus ringleader proclaimed that the underwhelming opening act had embarras^sed itself^ for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I42D0
+
+trial E7I42D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The program insert proclaimed that the incredibly inept clown act had embarras^sed itself^ for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I42D0
+
+trial E8I42D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The circus ringleader proclaimed that the incredibly inept clown had embarras^sed itself^ for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I42D0
+
+trial E1I43D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The professional dog trainer said that the inexperienced owner had wrap^ped himself^ up in knots^ thanks to the energetic puppy.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I43D0
+
+trial E2I43D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hastily scribbled note said that the inexperienced owner had wrap^ped himself^ up in knots^ thanks to the energetic puppy.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I43D0
+
+trial E3I43D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The professional dog trainer said that the over-long leash had wrap^ped himself^ up in knots^ thanks to the energetic puppy.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I43D0
+
+trial E4I43D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hastily scribbled note said that the over-long leash had wrap^ped himself^ up in knots^ thanks to the energetic puppy.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I43D0
+
+trial E5I43D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hastily scribbled note said that the over-long leash had wrap^ped itself^ up in knots^ thanks to the energetic puppy.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I43D0
+
+trial E6I43D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The professional dog trainer said that the over-long leash had wrap^ped itself^ up in knots^ thanks to the energetic puppy.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I43D0
+
+trial E7I43D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The hastily scribbled note said that the inexperienced owner had wrap^ped itself^ up in knots^ thanks to the energetic puppy.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I43D0
+
+trial E8I43D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The professional dog trainer said that the inexperienced owner had wrap^ped itself^ up in knots^ thanks to the energetic puppy.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I43D0
+
+trial E1I44D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The nervous informant insisted that the police chief had expo^sed himself^ and would soon^ be facing reprisals.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I44D0
+
+trial E2I44D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The anxious missive insisted that the police chief had expo^sed himself^ and would soon^ be facing reprisals.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I44D0
+
+trial E3I44D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The nervous informant insisted that the resistance movement had expo^sed himself^ and would soon^ be facing reprisals.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I44D0
+
+trial E4I44D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The anxious missive insisted that the resistance movement had expo^sed himself^ and would soon^ be facing reprisals.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I44D0
+
+trial E5I44D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The anxious missive insisted that the resistance movement had expo^sed itself^ and would soon^ be facing reprisals.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I44D0
+
+trial E6I44D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The nervous informant insisted that the resistance movement had expo^sed itself^ and would soon^ be facing reprisals.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I44D0
+
+trial E7I44D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The anxious missive insisted that the police chief had expo^sed itself^ and would soon^ be facing reprisals.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I44D0
+
+trial E8I44D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The nervous informant insisted that the police chief had expo^sed itself^ and would soon^ be facing reprisals.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I44D0
+
+trial E1I45D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The talented pianist remarked that the new conductor had showca^sed himself^ very well in^ last night's concert.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I45D0
+
+trial E2I45D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The concert hall's newsletter remarked that the new conductor had showca^sed himself^ very well in^ last night's concert.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I45D0
+
+trial E3I45D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The talented pianist remarked that the new orchestra had showca^sed himself^ very well in^ last night's concert.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I45D0
+
+trial E4I45D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The concert hall's newsletter remarked that the new orchestra had showca^sed himself^ very well in^ last night's concert.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I45D0
+
+trial E5I45D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The concert hall's newsletter remarked that the new orchestra had showca^sed itself^ very well in^ last night's concert.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I45D0
+
+trial E6I45D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The talented pianist remarked that the new orchestra had showca^sed itself^ very well in^ last night's concert.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I45D0
+
+trial E7I45D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The concert hall's newsletter remarked that the new conductor had showca^sed itself^ very well in^ last night's concert.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I45D0
+
+trial E8I45D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The talented pianist remarked that the new conductor had showca^sed itself^ very well in^ last night's concert.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I45D0
+
+trial E1I46D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The busy contractor insisted that the homeowner had commit^ted himself^ to a $27,000^ contract.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I46D0
+
+trial E2I46D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The respected law firm insisted that the homeowner had commit^ted himself^ to a $27,000^ contract.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I46D0
+
+trial E3I46D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The busy contractor insisted that the homeowner's association had commit^ted himself^ to a $27,000^ contract.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I46D0
+
+trial E4I46D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The respected law firm insisted that the homeowner's association had commit^ted himself^ to a $27,000^ contract.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I46D0
+
+trial E5I46D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The respected law firm insisted that the homeowner's association had commit^ted itself^ to a $27,000^ contract.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I46D0
+
+trial E6I46D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The busy contractor insisted that the homeowner's association had commit^ted itself^ to a $27,000^ contract.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I46D0
+
+trial E7I46D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The respected law firm insisted that the homeowner had commit^ted itself^ to a $27,000^ contract.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I46D0
+
+trial E8I46D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The busy contractor insisted that the homeowner had commit^ted itself^ to a $27,000^ contract.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I46D0
+
+trial E1I47D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The irritable grocer said that the demanding customer had ri^led himself^ up for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I47D0
+
+trial E2I47D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The police statement said that the demanding customer had ri^led himself^ up for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I47D0
+
+trial E3I47D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The irritable grocer said that the bag boys' union had ri^led himself^ up for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I47D0
+
+trial E4I47D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The police statement said that the bag boys' union had ri^led himself^ up for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I47D0
+
+trial E5I47D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The police statement said that the bag boys' union had ri^led itself^ up for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I47D0
+
+trial E6I47D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The irritable grocer said that the bag boys' union had ri^led itself^ up for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I47D0
+
+trial E7I47D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The police statement said that the demanding customer had ri^led itself^ up for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I47D0
+
+trial E8I47D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The irritable grocer said that the demanding customer had ri^led itself^ up for the last^ time.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I47D0
+
+trial E1I48D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angsty teenager complained that the janitor had misrepresen^ted himself^ in the meeting^ with the administration.
+  max_display_time =	60000
+  trial_type =		sentence
+end E1I48D0
+
+trial E2I48D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The PTA letter complained that the janitor had misrepresen^ted himself^ in the meeting^ with the administration.
+  max_display_time =	60000
+  trial_type =		sentence
+end E2I48D0
+
+trial E3I48D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angsty teenager complained that the school had misrepresen^ted himself^ in the meeting^ with the administration.
+  max_display_time =	60000
+  trial_type =		sentence
+end E3I48D0
+
+trial E4I48D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The PTA letter complained that the school had misrepresen^ted himself^ in the meeting^ with the administration.
+  max_display_time =	60000
+  trial_type =		sentence
+end E4I48D0
+
+trial E5I48D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The PTA letter complained that the school had misrepresen^ted itself^ in the meeting^ with the administration.
+  max_display_time =	60000
+  trial_type =		sentence
+end E5I48D0
+
+trial E6I48D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angsty teenager complained that the school had misrepresen^ted itself^ in the meeting^ with the administration.
+  max_display_time =	60000
+  trial_type =		sentence
+end E6I48D0
+
+trial E7I48D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The PTA letter complained that the janitor had misrepresen^ted itself^ in the meeting^ with the administration.
+  max_display_time =	60000
+  trial_type =		sentence
+end E7I48D0
+
+trial E8I48D0
+  gc_rect =		(0 0 0 0)
+  inline =		|The angsty teenager complained that the janitor had misrepresen^ted itself^ in the meeting^ with the administration.
+  max_display_time =	60000
+  trial_type =		sentence
+end E8I48D0
