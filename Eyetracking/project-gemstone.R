@@ -126,7 +126,7 @@ garnet.legend = ggplotGrob(ggplot(unique(subset(garnet.df, region%in%c(3) & fixa
                              theme_minimal() + 
                              my.theme + 
                              theme(axis.ticks = element_blank(),
-                                axis.text = element_text(size = 14, colour = 'black', face = 'bold')))
+                                axis.text = element_text(size = 14, colour = 'black')))
 
 grid.newpage()
 pushViewport(vp = viewport(width = 0.7, x = 0.65))
@@ -345,9 +345,6 @@ popViewport()
 pushViewport(vp = viewport(height = .5, x = 0.15))
 grid.draw(almandine.legend)
 popViewport()
-
-almandine$regionLength = almandine$Xend-almandine$Xstart
-region.check = unique(subset(almandine, region == 3, select = c('item','regionLength')))
 
 ###############################################################################################
 #################################### Experiment 4 (Pearl) #####################################
