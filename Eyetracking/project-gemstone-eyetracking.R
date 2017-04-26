@@ -66,7 +66,7 @@ garnet.parafoveal.total = subset(garnet.parafoveal.data, fixationtype == 'ff' & 
 ###########################
 # Reject subjects with >11 missing trials; <75% question accuracy
 garnet.badSubjs = c(17,19) #Same for parafoveal and standard regioning
-garnet = droplevels(subset(garnet.data, !(fixationtype == 'rr' & value == 0) &
+garnet = droplevels(subset(garnet.parafoveal.data, !(fixationtype == 'rr' & value == 0) &
                              !(fixationtype == 'tt' & value > 4000) & 
                              !(fixationtype == 'fp' & value > 2000) &
                              !is.na(value) & !subj%in%garnet.badSubjs))
