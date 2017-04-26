@@ -40,7 +40,7 @@ garnet.factors$verb = factor(garnet.factors$verb, levels = c('speech', 'percepti
 ######################
 #### Read in data ####
 ######################
-garnet.alldata = read.csv('garnet_acceptability.txt', header = 0, sep = ',', comment.char = '#', col.names = cols)
+garnet.alldata = read.csv('garnet_acceptabilityData.txt', header = 0, sep = ',', comment.char = '#', col.names = cols)
 
 #########################################
 #### Extract demographic information ####
@@ -124,7 +124,7 @@ amethyst.factors$target = factor(amethyst.factors$target, levels = c('Name', 'Sp
 ######################
 #### Read in data ####
 ######################
-amethyst.alldata = read.csv('amethyst_acceptability.txt', header = 0, sep = ',', comment.char = '#', col.names = cols)
+amethyst.alldata = read.csv('amethyst_acceptabilityData.txt', header = 0, sep = ',', comment.char = '#', col.names = cols)
 
 #########################################
 #### Extract demographic information ####
@@ -203,7 +203,7 @@ almandine.factors$target = factor(almandine.factors$target, levels = c('Name', '
 ######################
 #### Read in data ####
 ######################
-almandine.alldata = read.csv('almandine_acceptability.txt', header = 0, sep = ',', comment.char = '#', col.names = cols)
+almandine.alldata = read.csv('almandine_acceptabilityData.txt', header = 0, sep = ',', comment.char = '#', col.names = cols)
 
 #########################################
 #### Extract demographic information ####
@@ -280,7 +280,7 @@ almandine2p.factors$target = factor(almandine2p.factors$target, levels = c('Name
 ######################
 #### Read in data ####
 ######################
-almandine2p.alldata = read.csv('almandine2p_acceptability.txt', header = 0, sep = ',', comment.char = '#', col.names = cols)
+almandine2p.alldata = read.csv('almandine2p_acceptabilityData.txt', header = 0, sep = ',', comment.char = '#', col.names = cols)
 
 #########################################
 #### Extract demographic information ####
@@ -357,7 +357,7 @@ pearl.factors$target = factor(pearl.factors$target, levels = c('Name', 'They', '
 ######################
 #### Read in data ####
 ######################
-pearl.alldata = read.csv('pearl_acceptability.txt', header = 0, sep = ',', comment.char = '#', col.names = cols)
+pearl.alldata = read.csv('pearl_acceptabilityData.txt', header = 0, sep = ',', comment.char = '#', col.names = cols)
 
 #########################################
 #### Extract demographic information ####
